@@ -1,3 +1,3 @@
 # gzeinnumer
 
-- ([MultiPermition](https://github.com/gzeinnumer/MultiPermition))
+- [MultiPermition](https://github.com/gzeinnumer/MultiPermition)
