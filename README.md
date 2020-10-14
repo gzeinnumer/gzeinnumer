@@ -1,11 +1,11 @@
 > **Common Setting**
 
-| base   | data   | di     | ui                                                                         | utils  |
-|:-------|:-------|:-------|:---------------------------------------------------------------------------|:-------|
-| `Soon` | `Soon` | `Soon` | [**DataBindingExample**](https://github.com/gzeinnumer/DataBindingExample) | `Soon` |
-| `Soon` | `Soon` | `Soon` | [**ViewBindingExample**](https://github.com/gzeinnumer/ViewBindingExample) | `Soon` |
-| `Soon` | `Soon` | `Soon` | [**StatusBarStyle**](https://github.com/gzeinnumer/StatusBarStyle)         | `Soon` |
-| `Soon` | `Soon` | `Soon` | `Soon`                                                                     | `Soon` |
+| base   | data                                                                    | di     | ui                                                                         | utils  |
+|:-------|:------------------------------------------------------------------------|:-------|:---------------------------------------------------------------------------|:-------|
+| `Soon` | [**SessionManager**](https://github.com/gzeinnumer/SessionManager)      | `Soon` | [**DataBindingExample**](https://github.com/gzeinnumer/DataBindingExample) | `Soon` |
+| `Soon` | [**SessionManagerKT**](https://github.com/gzeinnumer/SessionManager_kt) | `Soon` | [**ViewBindingExample**](https://github.com/gzeinnumer/ViewBindingExample) | `Soon` |
+| `Soon` | `Soon`                                                                  | `Soon` | [**StatusBarStyle**](https://github.com/gzeinnumer/StatusBarStyle)         | `Soon` |
+| `Soon` | `Soon`                                                                  | `Soon` | `Soon`                                                                     | `Soon` |
 
 - **Multi Permission**
   - [**MultiPermition**](https://github.com/gzeinnumer/MultiPermition) Java Version.
