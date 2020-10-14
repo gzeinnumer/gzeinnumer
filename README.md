@@ -1,6 +1,8 @@
 #### My Library List
 
-- [**MultiPermition**](https://github.com/gzeinnumer/MultiPermition) Java Version. [**MultiPermitionkt**](https://github.com/gzeinnumer/MultiPermitionkt) Kotlin Version.
+- Multi Permission
+  - [**MultiPermition**](https://github.com/gzeinnumer/MultiPermition) Java Version.
+  - [**MultiPermitionkt**](https://github.com/gzeinnumer/MultiPermitionkt) Kotlin Version.
 - [**StatusBarStyle**](https://github.com/gzeinnumer/StatusBarStyle)
 - [**MyLibUtils**](https://github.com/gzeinnumer/MyLibUtils)
 - [**MyLibStyle**](https://github.com/gzeinnumer/MyLibStyle)
