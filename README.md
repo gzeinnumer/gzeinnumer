@@ -1,9 +1,9 @@
 #### Common Setting
-
 - Multi Permission
   - [**MultiPermition**](https://github.com/gzeinnumer/MultiPermition) Java Version.
   - [**MultiPermitionkt**](https://github.com/gzeinnumer/MultiPermitionkt) Kotlin Version.
 - [**StatusBarStyle**](https://github.com/gzeinnumer/StatusBarStyle)
+- [**CleartextTrafficError**](https://github.com/gzeinnumer/CleartextTrafficError)
 
 #### My Library List
 - [**MyLibUtils**](https://github.com/gzeinnumer/MyLibUtils)
