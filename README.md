@@ -16,4 +16,4 @@
 
 | base | data | di | ui | utils |
 |:-----|:-----|:---|:---|:-----|
-|      |      |    | [**ViewBindingExample**](https://github.com/gzeinnumer/ViewBindingExample) |    |
+| `Soon` | `Soon` | `Soon` | [**ViewBindingExample**](https://github.com/gzeinnumer/ViewBindingExample) | `Soon` |
