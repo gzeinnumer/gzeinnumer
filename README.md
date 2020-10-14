@@ -1,17 +1,17 @@
 #### Common Setting
 
-| base   | data                                                                             | di     | ui                                                                         | utils  |
-|:-------|:---------------------------------------------------------------------------------|:-------|:---------------------------------------------------------------------------|:-------|
-| `Soon` | **Remote**                                                                       | `Soon` | [**DataBinding**](https://github.com/gzeinnumer/StatusBarStyle)            | `Soon` |
-| `Soon` | [**CleartextTrafficError**](https://github.com/gzeinnumer/CleartextTrafficError) | `Soon` | [**ViewBindingExample**](https://github.com/gzeinnumer/ViewBindingExample) |        |
-| `Soon` | `Soon`                                                                           | `Soon` | #                                                                     | `Soon` |
-| `Soon` | `Soon`                                                                           | `Soon` | [**StatusBarStyle**](https://github.com/gzeinnumer/StatusBarStyle)         | `Soon` |
-| `Soon` | `Soon`                                                                           | `Soon` | `Soon`                                                                     | `Soon` |
+| base   | data   | di     | ui                                                                         | utils  |
+|:-------|:-------|:-------|:---------------------------------------------------------------------------|:-------|
+| `Soon` | `Soon` | `Soon` | [**DataBinding**](https://github.com/gzeinnumer/StatusBarStyle)            | `Soon` |
+| `Soon` | `Soon` | `Soon` | [**ViewBindingExample**](https://github.com/gzeinnumer/ViewBindingExample) | `Soon` |
+| `Soon` | `Soon` | `Soon` | [**StatusBarStyle**](https://github.com/gzeinnumer/StatusBarStyle)         | `Soon` |
+| `Soon` | `Soon` | `Soon` | `Soon`                                                                     | `Soon` |
 
 - Multi Permission
   - [**MultiPermition**](https://github.com/gzeinnumer/MultiPermition) Java Version.
   - [**MultiPermitionkt**](https://github.com/gzeinnumer/MultiPermitionkt)
     Kotlin Version.
+- [**CleartextTrafficError**](https://github.com/gzeinnumer/CleartextTrafficError)
 
 #
 #### My Library List
