@@ -4,6 +4,8 @@
   - [**MultiPermitionkt**](https://github.com/gzeinnumer/MultiPermitionkt) Kotlin Version.
 - [**StatusBarStyle**](https://github.com/gzeinnumer/StatusBarStyle)
 - [**CleartextTrafficError**](https://github.com/gzeinnumer/CleartextTrafficError)
+- View Binding
+  - [**ViewBindingExample**](https://github.com/gzeinnumer/ViewBindingExample)
 
 #### My Library List
 - [**MyLibUtils**](https://github.com/gzeinnumer/MyLibUtils)
