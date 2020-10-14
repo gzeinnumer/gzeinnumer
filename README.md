@@ -1,4 +1,4 @@
-#### Common Setting
+> Common Setting
 
 | base   | data   | di     | ui                                                                         | utils  |
 |:-------|:-------|:-------|:---------------------------------------------------------------------------|:-------|
@@ -14,8 +14,7 @@
 - [**CleartextTrafficError**](https://github.com/gzeinnumer/CleartextTrafficError)
   Android 9 (SDK >= 28).
 
-#
-#### My Library List
+> My Library List
 
 - [**MyLibUtils**](https://github.com/gzeinnumer/MyLibUtils)
 - [**MyLibStyle**](https://github.com/gzeinnumer/MyLibStyle)
