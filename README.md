@@ -7,6 +7,8 @@
 | [**BaseObjectResponse**](https://github.com/gzeinnumer/MyBasePackage#baseobjectresponse) | [**Room**](https://github.com/gzeinnumer/AndroidJetpackRoom)                      | `Soon` | [**StatusBarStyle**](https://github.com/gzeinnumer/StatusBarStyle)         | `Soon` |
 | `Soon`                                                                                   | [**Room Load DB**](https://github.com/gzeinnumer/ExternalRoomReadDbFromFile)      | `Soon` | `Soon`                                                                     | `Soon` |
 | `Soon`                                                                                   | [**Room Load DB KT**](https://github.com/gzeinnumer/ExternalRoomReadDbFromFilekt) | `Soon` | `Soon`                                                                     | `Soon` |
+| `Soon`                                                                                   | [**Retrofit**](https://github.com/gzeinnumer/RetrofitCRUD)                        | `Soon` | `Soon`                                                                     | `Soon` |
+| `Soon`                                                                                   | [**Retrofit KT**](https://github.com/gzeinnumer/BaseRetrofitkt)                   | `Soon` | `Soon`                                                                     | `Soon` |
 
 - **Multi Permission**
   - [**MultiPermition**](https://github.com/gzeinnumer/MultiPermition) Java Version.
