@@ -7,11 +7,12 @@
 | `Soon` | `Soon` | `Soon` | [**StatusBarStyle**](https://github.com/gzeinnumer/StatusBarStyle)         | `Soon` |
 | `Soon` | `Soon` | `Soon` | `Soon`                                                                     | `Soon` |
 
-- Multi Permission
+- **Multi Permission**
   - [**MultiPermition**](https://github.com/gzeinnumer/MultiPermition) Java Version.
   - [**MultiPermitionkt**](https://github.com/gzeinnumer/MultiPermitionkt)
     Kotlin Version.
 - [**CleartextTrafficError**](https://github.com/gzeinnumer/CleartextTrafficError)
+  Android 9 (SDK >= 28).
 
 #
 #### My Library List
