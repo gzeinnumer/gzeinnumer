@@ -1,12 +1,11 @@
 > **Common Setting**
 
-| base                                                                   | data                                                                    | di     | ui                                                                         | utils  |
-|:-----------------------------------------------------------------------|:------------------------------------------------------------------------|:-------|:---------------------------------------------------------------------------|:-------|
-| [**BaseDao**](https://github.com/gzeinnumer/MyBasePackage)             | [**SessionManager**](https://github.com/gzeinnumer/SessionManager)      | `Soon` | [**DataBindingExample**](https://github.com/gzeinnumer/DataBindingExample) | `Soon` |
-| [**BaseListResponse**](https://github.com/gzeinnumer/MyBasePackage)    | [**SessionManagerKT**](https://github.com/gzeinnumer/SessionManager_kt) | `Soon` | [**ViewBindingExample**](https://github.com/gzeinnumer/ViewBindingExample) | `Soon` |
-| [**BaseObjectResponse**](https://github.com/gzeinnumer/MyBasePackage)  | `Soon`                                                                  | `Soon` | [**StatusBarStyle**](https://github.com/gzeinnumer/StatusBarStyle)         | `Soon` |
-| [**BaseResource**](https://github.com/gzeinnumer/MyBasePackage)        | `Soon`                                                                  | `Soon` | `Soon`                                                                     | `Soon` |
-| `Soon`                                                                 | `Soon`                                                                  | `Soon` | `Soon`                                                                     | `Soon` |
+| base                                                                  | data                                                                    | di     | ui                                                                         | utils  |
+|:----------------------------------------------------------------------|:------------------------------------------------------------------------|:-------|:---------------------------------------------------------------------------|:-------|
+| [**BaseDao**](https://github.com/gzeinnumer/MyBasePackage#basedao)            | [**SessionManager**](https://github.com/gzeinnumer/SessionManager)      | `Soon` | [**DataBindingExample**](https://github.com/gzeinnumer/DataBindingExample) | `Soon` |
+| [**BaseListResponse**](https://github.com/gzeinnumer/MyBasePackage#baselistresponse)   | [**SessionManagerKT**](https://github.com/gzeinnumer/SessionManager_kt) | `Soon` | [**ViewBindingExample**](https://github.com/gzeinnumer/ViewBindingExample) | `Soon` |
+| [**BaseObjectResponse**](https://github.com/gzeinnumer/MyBasePackage#baseobjectresponse) | `Soon`                                                                  | `Soon` | [**StatusBarStyle**](https://github.com/gzeinnumer/StatusBarStyle)         | `Soon` |
+| `Soon`                                                                | `Soon`                                                                  | `Soon` | `Soon`                                                                     | `Soon` |
 
 - **Multi Permission**
   - [**MultiPermition**](https://github.com/gzeinnumer/MultiPermition) Java Version.
