@@ -5,7 +5,7 @@
 - [**StatusBarStyle**](https://github.com/gzeinnumer/StatusBarStyle)
 - [**CleartextTrafficError**](https://github.com/gzeinnumer/CleartextTrafficError)
 - View Binding
-  - [**ViewBindingExample**](https://github.com/gzeinnumer/ViewBindingExample)
+  - 
 
 #### My Library List
 - [**MyLibUtils**](https://github.com/gzeinnumer/MyLibUtils)
@@ -13,3 +13,7 @@
 - [**MyLibDirectory**](https://github.com/gzeinnumer/MyLibDirectory)
 - [**MyLibLogError**](https://github.com/gzeinnumer/MyLibLogError)
 - [**MyLibDialog**](https://github.com/gzeinnumer/MyLibDialog)
+
+| base | data | di | ui | utils |
+|:-----|:-----|:---|:---|:-----|
+|      |      |    | [**ViewBindingExample**](https://github.com/gzeinnumer/ViewBindingExample) |    |
