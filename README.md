@@ -2,7 +2,7 @@
 
 | base   | data   | di     | ui                                                                         | utils  |
 |:-------|:-------|:-------|:---------------------------------------------------------------------------|:-------|
-| `Soon` | `Soon` | `Soon` | [**DataBinding**](https://github.com/gzeinnumer/StatusBarStyle)            | `Soon` |
+| `Soon` | `Soon` | `Soon` | [**DataBindingExample**](https://github.com/gzeinnumer/DataBindingExample) | `Soon` |
 | `Soon` | `Soon` | `Soon` | [**ViewBindingExample**](https://github.com/gzeinnumer/ViewBindingExample) | `Soon` |
 | `Soon` | `Soon` | `Soon` | [**StatusBarStyle**](https://github.com/gzeinnumer/StatusBarStyle)         | `Soon` |
 | `Soon` | `Soon` | `Soon` | `Soon`                                                                     | `Soon` |
