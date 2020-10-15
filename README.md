@@ -29,5 +29,6 @@
 | [**MyLibDialog**](https://github.com/gzeinnumer/MyLibDialog)       | Simple way to use `DialogFragment` as `dialog` information | `Soon`                                                           |                                                                  |
 
 > Recommendation
+
 [**KTX**](https://developer.android.com/kotlin/ktx)
 [**LiveData**](https://developer.android.com/topic/libraries/architecture/livedata?hl=id)
