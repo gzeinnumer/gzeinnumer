@@ -16,6 +16,8 @@
   Android 9 (SDK >= 28).
 - [**SharedViewModelFragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
 - [**ViewModelLiveData**](https://github.com/gzeinnumer/ViewModelLiveDataExample) & [**Kotlin**](https://github.com/gzeinnumer/ViewModelLiveDataExampleKT).
+- [**Lambda**](https://github.com/gzeinnumer/Lambda).
+- [**Kapt**](https://github.com/gzeinnumer/KaptExample) Kotlin only.
 
 #
 > **My Library List**
@@ -25,3 +27,7 @@
 | [**MyLibUtils**](https://github.com/gzeinnumer/MyLibUtils)         | Common Utils for development Android                       | [**MyLibStyle**](https://github.com/gzeinnumer/MyLibStyle)       | Reduce `boilerplate code` in `view.xml` file                     |
 | [**MyLibDirectory**](https://github.com/gzeinnumer/MyLibDirectory) | Simple way to `mkdir` and make file for Android            | [**MyLibLogError**](https://github.com/gzeinnumer/MyLibLogError) | Make file if `Force Close` happen, you can trace error from user |
 | [**MyLibDialog**](https://github.com/gzeinnumer/MyLibDialog)       | Simple way to use `DialogFragment` as `dialog` information | `Soon`                                                           |                                                                  |
+
+> Recommendation
+[**KTX**](https://developer.android.com/kotlin/ktx)
+[**LiveData**](https://developer.android.com/topic/libraries/architecture/livedata?hl=id)
