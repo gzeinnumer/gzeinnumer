@@ -11,12 +11,10 @@
 #
 > **Common Setting**
 
-- **Multi Permission**
-  - [**MultiPermition**](https://github.com/gzeinnumer/MultiPermition) Java Version.
-  - [**MultiPermitionkt**](https://github.com/gzeinnumer/MultiPermitionkt)
-    Kotlin Version.
+- [**MultiPermition**](https://github.com/gzeinnumer/MultiPermition) & [**Kotlin**](https://github.com/gzeinnumer/MultiPermitionkt).
 - [**CleartextTrafficError**](https://github.com/gzeinnumer/CleartextTrafficError)
   Android 9 (SDK >= 28).
+- [**SharedViewModelFragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
 
 #
 > **My Library List**
