@@ -18,6 +18,7 @@
 - [**ViewModelLiveData**](https://github.com/gzeinnumer/ViewModelLiveDataExample) & [**Kotlin**](https://github.com/gzeinnumer/ViewModelLiveDataExampleKT).
 - [**Lambda**](https://github.com/gzeinnumer/Lambda).
 - [**Kapt**](https://github.com/gzeinnumer/KaptExample) Kotlin only.
+- [**AdapterOnClick**](https://github.com/gzeinnumer/AdapterOnClickListener) & [**Kotlin**](https://github.com/gzeinnumer/RecyclerView_kt).
 
 #
 > **My Library List**
