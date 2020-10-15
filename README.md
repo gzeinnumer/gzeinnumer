@@ -15,6 +15,7 @@
 - [**CleartextTrafficError**](https://github.com/gzeinnumer/CleartextTrafficError)
   Android 9 (SDK >= 28).
 - [**SharedViewModelFragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
+- [**ViewModelLiveData**](https://github.com/gzeinnumer/ViewModelLiveDataExample) & [**Kotlin**](https://github.com/gzeinnumer/ViewModelLiveDataExampleKT).
 
 #
 > **My Library List**
