@@ -18,8 +18,8 @@
 #
 > **My Library List**
 
-- [**MyLibUtils**](https://github.com/gzeinnumer/MyLibUtils)
-- [**MyLibStyle**](https://github.com/gzeinnumer/MyLibStyle)
-- [**MyLibDirectory**](https://github.com/gzeinnumer/MyLibDirectory)
-- [**MyLibLogError**](https://github.com/gzeinnumer/MyLibLogError)
-- [**MyLibDialog**](https://github.com/gzeinnumer/MyLibDialog)
+| Nama                                                               | Keterangan | Nama                                                             | Keterangan |
+|:-------------------------------------------------------------------|:-----------|:-----------------------------------------------------------------|:-----------|
+| [**MyLibUtils**](https://github.com/gzeinnumer/MyLibUtils)         |            | [**MyLibStyle**](https://github.com/gzeinnumer/MyLibStyle)       |            |
+| [**MyLibDirectory**](https://github.com/gzeinnumer/MyLibDirectory) |            | [**MyLibLogError**](https://github.com/gzeinnumer/MyLibLogError) |            |
+| [**MyLibDialog**](https://github.com/gzeinnumer/MyLibDialog)       |            | `Soon`                                                             |            |
