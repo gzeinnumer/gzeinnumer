@@ -11,7 +11,7 @@
 #
 > **Common Setting**
 
-- [**MultiPermition**](https://github.com/gzeinnumer/MultiPermition) & [**Kotlin**](https://github.com/gzeinnumer/MultiPermitionkt).
+- [**MultiPermission**](https://github.com/gzeinnumer/MultiPermition) & [**Kotlin**](https://github.com/gzeinnumer/MultiPermitionkt).
 - [**CleartextTrafficError**](https://github.com/gzeinnumer/CleartextTrafficError)
   Android 9 (SDK >= 28).
 - [**SharedViewModelFragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
