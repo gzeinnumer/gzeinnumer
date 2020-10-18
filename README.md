@@ -19,6 +19,7 @@
 - [**Lambda**](https://github.com/gzeinnumer/Lambda).
 - [**Kapt**](https://github.com/gzeinnumer/KaptExample) Kotlin only.
 - [**AdapterOnClick**](https://github.com/gzeinnumer/AdapterOnClickListener) & [**Kotlin**](https://github.com/gzeinnumer/RecyclerView_kt).
+- [**ArrayList**](https://github.com/gzeinnumer/ArrayListExampleKT) Kotlin only.
 
 #
 > **My Library List**
