@@ -20,6 +20,7 @@
 - [**Kapt**](https://github.com/gzeinnumer/KaptExample) Kotlin only.
 - [**AdapterOnClick**](https://github.com/gzeinnumer/AdapterOnClickListener) & [**Kotlin**](https://github.com/gzeinnumer/RecyclerView_kt).
 - [**ArrayList**](https://github.com/gzeinnumer/ArrayListExampleKT) Kotlin only.
+- [**Looping**](https://github.com/gzeinnumer/ArrayListExampleKT#looping).
 
 #
 > **My Library List**
