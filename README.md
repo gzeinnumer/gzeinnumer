@@ -12,7 +12,7 @@
 > **Common Setting**
 
 - [**Multi Permission**](https://github.com/gzeinnumer/MultiPermition) & [**Kotlin**](https://github.com/gzeinnumer/MultiPermitionkt).
-- [**Clear Text Traffic Error**](https://github.com/gzeinnumer/CleartextTrafficError)
+- [**Clear Text Traffic Error**](https://github.com/gzeinnumer/CleartextTrafficError).
   Android 9 (SDK >= 28).
 - [**Shared ViewModel Fragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
 - [**ViewModel LiveData**](https://github.com/gzeinnumer/ViewModelLiveDataExample) & [**Kotlin**](https://github.com/gzeinnumer/ViewModelLiveDataExampleKT).
@@ -24,6 +24,7 @@
 - RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
 - [**DialogFragment**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-dialogfragment) & [**Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-dialogfragment).
 - [**Room Join**](https://github.com/gzeinnumer/RoomJoinExample) & [**Kotlin**](https://github.com/gzeinnumer/RoomJoinExampleKT).
+- [**Release Name**](https://github.com/gzeinnumer/ReleaseName).
 
 #
 > **My Library List**
