@@ -25,6 +25,8 @@
 - [**DialogFragment**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-dialogfragment) & [**Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-dialogfragment).
 - [**Room Join**](https://github.com/gzeinnumer/RoomJoinExample) & [**Kotlin**](https://github.com/gzeinnumer/RoomJoinExampleKT).
 - [**Release Name**](https://github.com/gzeinnumer/ReleaseName).
+- [**Dynamic RadioGroup With On Click**](https://github.com/gzeinnumer/DinamicRadioGroup).
+- [**Dynamic CheckBox With On Click**](https://github.com/gzeinnumer/DinamicCheckBoxOnClick).
 
 #
 > **My Library List**
