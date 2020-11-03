@@ -27,6 +27,7 @@
 - [**Release Name**](https://github.com/gzeinnumer/ReleaseName).
 - [**Dynamic RadioGroup With On Click**](https://github.com/gzeinnumer/DinamicRadioGroup).
 - [**Dynamic CheckBox With On Click**](https://github.com/gzeinnumer/DinamicCheckBoxOnClick).
+- [**Dynamic RecyclerView**](https://github.com/gzeinnumer/RecyclerViewDynamic).
 
 #
 > **My Library List**
