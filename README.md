@@ -32,7 +32,7 @@
 #
 > **My Library List**
 
-| Nama                                                                               | Keterangan                                                 | Nama                                                                             | Keterangan                                                       |
+| Name                                                                               | Description                                                 | Name                                                                             | Description                                                       |
 |:-----------------------------------------------------------------------------------|:-----------------------------------------------------------|:---------------------------------------------------------------------------------|:-----------------------------------------------------------------|
 | [**MyLibUtils**](https://github.com/gzeinnumer/MyLibUtils)                         | Common Utils for development Android                       | [**MyLibStyle**](https://github.com/gzeinnumer/MyLibStyle)                       | Reduce `boilerplate code` in `view.xml` file                     |
 | [**MyLibDirectory**](https://github.com/gzeinnumer/MyLibDirectory)                 | Simple way to `mkdir` and make file for Android            | [**MyLibLogError**](https://github.com/gzeinnumer/MyLibLogError)                 | Make file if `Force Close` happen, you can trace error from user |
