@@ -28,7 +28,11 @@
 - [**Dynamic RadioGroup With On Click**](https://github.com/gzeinnumer/DinamicRadioGroup).
 - [**Dynamic CheckBox With On Click**](https://github.com/gzeinnumer/DinamicCheckBoxOnClick).
 - [**Dynamic RecyclerView**](https://github.com/gzeinnumer/RecyclerViewDynamic).
-- [**ViewPager Refresh On Page Change**](https://github.com/gzeinnumer/ViewPagerRefreshOnPageChange).
+- ViewPager
+  - [**ViewPager Refresh On Page Change**](https://github.com/gzeinnumer/ViewPagerRefreshOnPageChange).
+  - [**ViewPager Simple Dots**](https://github.com/gzeinnumer/ViewPagerSimpleDots).
+  - [**ViewPager Simple Dots Disable Click**](https://github.com/gzeinnumer/ViewPagerNonSwipableWithDotsButDisableClick).
+  - [**ViewPager Non Swipable**](https://github.com/gzeinnumer/ViewPagerNonSwipable).
 
 #
 > **My Library List**
