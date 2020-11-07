@@ -33,6 +33,7 @@
   - [**ViewPager Simple Dots**](https://github.com/gzeinnumer/ViewPagerSimpleDots).
   - [**ViewPager Simple Dots Disable Click**](https://github.com/gzeinnumer/ViewPagerNonSwipableWithDotsButDisableClick).
   - [**ViewPager Non Swipable**](https://github.com/gzeinnumer/ViewPagerNonSwipable).
+- [**XML String**](https://github.com/gzeinnumer/XMLString).
 
 #
 > **My Library List**
