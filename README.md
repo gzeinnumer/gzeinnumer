@@ -34,6 +34,7 @@
   - [**ViewPager Simple Dots Disable Click**](https://github.com/gzeinnumer/ViewPagerNonSwipableWithDotsButDisableClick).
   - [**ViewPager Non Swipable**](https://github.com/gzeinnumer/ViewPagerNonSwipable).
 - [**XML String**](https://github.com/gzeinnumer/XMLString).
+- [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
 
 #
 > **My Library List**
