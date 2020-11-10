@@ -54,3 +54,5 @@
 [**KTX**](https://developer.android.com/kotlin/ktx)
 [**LiveData**](https://developer.android.com/topic/libraries/architecture/livedata?hl=id)
 [**Lazy**](https://developer.android.com/reference/kotlin/androidx/compose/foundation/lazy/package-summary)
+
+<img src="https://github-readme-stats.vercel.app/api?username=gzeinnumer">
