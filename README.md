@@ -36,8 +36,8 @@
   - [**ViewPager Non Swipable**](https://github.com/gzeinnumer/ViewPagerNonSwipable).
 - [**XML String**](https://github.com/gzeinnumer/XMLString).
 - [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
-- [**Intent Animation**](https://github.com/gzeinnumer/IntentAnimationkt)
-- [**RecyclerView Diffutils**](https://github.com/gzeinnumer/RecyclerViewDiffutils)
+- [**Intent Animation**](https://github.com/gzeinnumer/IntentAnimationkt).
+- [**RecyclerView Diffutils**](https://github.com/gzeinnumer/RecyclerViewDiffutils).
 
 #
 > **My Library List**
