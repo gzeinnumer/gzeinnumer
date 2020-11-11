@@ -47,7 +47,7 @@
 | [**MyLibDialog**](https://github.com/gzeinnumer/MyLibDialog)                         | Simple way to use `DialogFragment` as `dialog` information | [**MyLibDialogSearchView**](https://github.com/gzeinnumer/MyLibDialogSearchView) | Dialog Search `Single` or `Multi` item Selection                 |
 | [**MyLibCurrencyConverter**](https://github.com/gzeinnumer/MyLibCurrencyConverter)   | Simple way to convert 1000000 to 1,000,000 in `EditText`.  | [**MyLibDynamicCheckBox**](https://github.com/gzeinnumer/MyLibDynamicCheckBox)   | Simple way to use `Dynamic CheckBox`                             |
 | [**MyLibDynamicRadioButton**](https://github.com/gzeinnumer/MyLibDynamicRadioButton) | Simple way to use `Dynamic RadioButton`                    | [**MyLibDialogFragment**](https://github.com/gzeinnumer/MyLibDialogFragment)     | Simple way to use custom dialog                                  |
-| [**MyLibViewPager**](https://github.com/gzeinnumer/MyLibViewPager)                   | Simple way to use `ViewPager Tabs` or `ViewPager Dots`     | [**MyLibViewPager**](https://github.com/gzeinnumer/MyLibAutoTextView)            | Simple way to use `AutoCompleteTextView`                         |
+| [**MyLibViewPager**](https://github.com/gzeinnumer/MyLibViewPager)                   | Simple way to use `ViewPager Tabs` or `ViewPager Dots`     | [**MyLibAutoTextView**](https://github.com/gzeinnumer/MyLibAutoTextView)         | Simple way to use `AutoCompleteTextView`                         |
 
 #
 > Recommendation
