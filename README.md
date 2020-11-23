@@ -46,6 +46,7 @@
 - [**RepositoryImplementation**](https://github.com/gzeinnumer/RepositoryImplementationExample) & [**Kotlin**](https://github.com/gzeinnumer/RepositoryImplementationExampleKT).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
 - [**Check Internet**](https://github.com/gzeinnumer/CheckInternet) & [**Kotlin**](https://github.com/gzeinnumer/CheckInternetKT).
+- [**RecyclerView Animation**](https://github.com/gzeinnumer/RecyclerViewAnimation).
 
 #
 > **My Library List**
