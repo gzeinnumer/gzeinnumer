@@ -45,6 +45,7 @@
 - [**ValidationEmail**](https://github.com/gzeinnumer/ValidationEmail).
 - [**RepositoryImplementation**](https://github.com/gzeinnumer/RepositoryImplementationExample) & [**Kotlin**](https://github.com/gzeinnumer/RepositoryImplementationExampleKT).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
+- [**Check Internet**](https://github.com/gzeinnumer/CheckInternet) & [**Kotlin**](https://github.com/gzeinnumer/CheckInternetKT).
 
 #
 > **My Library List**
