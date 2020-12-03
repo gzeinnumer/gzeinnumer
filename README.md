@@ -39,7 +39,6 @@
 - [**ServiceSimple**](https://github.com/gzeinnumer/ServiceSimpleFixInKao).
 - [**Shared ViewModel Fragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
-
 - [**ValidationEmail**](https://github.com/gzeinnumer/ValidationEmail).
 - [**ViewModel LiveData**](https://github.com/gzeinnumer/ViewModelLiveDataExample) & [**Kotlin**](https://github.com/gzeinnumer/ViewModelLiveDataExampleKT).
 - ViewPager
