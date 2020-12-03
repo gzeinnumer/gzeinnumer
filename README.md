@@ -12,41 +12,42 @@
 #
 > **Common Setting**
 
-- [**Multi Permission**](https://github.com/gzeinnumer/MultiPermition) & [**Kotlin**](https://github.com/gzeinnumer/MultiPermitionkt).
-- [**Clear Text Traffic Error**](https://github.com/gzeinnumer/CleartextTrafficError).
-  Android 9 (SDK >= 28).
-- [**Shared ViewModel Fragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
-- [**ViewModel LiveData**](https://github.com/gzeinnumer/ViewModelLiveDataExample) & [**Kotlin**](https://github.com/gzeinnumer/ViewModelLiveDataExampleKT).
-- [**Lambda**](https://github.com/gzeinnumer/Lambda).
-- [**Kapt**](https://github.com/gzeinnumer/KaptExample) Kotlin only.
 - [**AdapterOnClick**](https://github.com/gzeinnumer/AdapterOnClickListener) & [**Kotlin**](https://github.com/gzeinnumer/RecyclerView_kt).
 - [**ArrayList**](https://github.com/gzeinnumer/ArrayListExampleKT) Kotlin only.
-- [**Looping**](https://github.com/gzeinnumer/ArrayListExampleKT#looping).
-- RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
+- [**Check Internet**](https://github.com/gzeinnumer/CheckInternet) & [**Kotlin**](https://github.com/gzeinnumer/CheckInternetKT).
+- [**Clear Text Traffic Error**](https://github.com/gzeinnumer/CleartextTrafficError).
+- [**Coroutines**](https://github.com/gzeinnumer/CoroutinesExample) Kotlin only.
 - [**DialogFragment**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-dialogfragment) & [**Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-dialogfragment).
-- [**Room Join**](https://github.com/gzeinnumer/RoomJoinExample) & [**Kotlin**](https://github.com/gzeinnumer/RoomJoinExampleKT).
-- [**Release Name**](https://github.com/gzeinnumer/ReleaseName).
 - [**Dynamic RadioGroup With On Click**](https://github.com/gzeinnumer/DinamicRadioGroup).
 - [**Dynamic CheckBox With On Click**](https://github.com/gzeinnumer/DinamicCheckBoxOnClick).
 - [**Dynamic RecyclerView**](https://github.com/gzeinnumer/RecyclerViewDynamic).
+- [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
+- [**Intent Animation**](https://github.com/gzeinnumer/IntentAnimationkt).
+- [**Kapt**](https://github.com/gzeinnumer/KaptExample) Kotlin only.
+- [**Lambda**](https://github.com/gzeinnumer/Lambda).
+- [**Looping**](https://github.com/gzeinnumer/ArrayListExampleKT#looping).
+- [**Multi Permission**](https://github.com/gzeinnumer/MultiPermition) & [**Kotlin**](https://github.com/gzeinnumer/MultiPermitionkt).
+  Android 9 (SDK >= 28).
+- RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
+- [**RecyclerView Animation**](https://github.com/gzeinnumer/RecyclerViewAnimation).
+- [**RecyclerView Diffutils**](https://github.com/gzeinnumer/RecyclerViewDiffutils).
+- [**Release Name**](https://github.com/gzeinnumer/ReleaseName).
+- [**RepositoryImplementation**](https://github.com/gzeinnumer/RepositoryImplementationExample) & [**Kotlin**](https://github.com/gzeinnumer/RepositoryImplementationExampleKT).
+- [**Room Join**](https://github.com/gzeinnumer/RoomJoinExample) & [**Kotlin**](https://github.com/gzeinnumer/RoomJoinExampleKT).
+- [**RxJava2**](https://github.com/gzeinnumer/RxJava2Example) & [**Kotlin**](https://github.com/gzeinnumer/RxJava2ExampleKT).
+- [**RxJava2 Retrofit**](https://github.com/gzeinnumer/Retrofit2andRxJavaNew) & [**Kotlin**](https://github.com/gzeinnumer/Retrofit2andRxJavaNewKT).
+- [**ServiceSimple**](https://github.com/gzeinnumer/ServiceSimpleFixInKao).
+- [**Shared ViewModel Fragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
+- [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
+
+- [**ValidationEmail**](https://github.com/gzeinnumer/ValidationEmail).
+- [**ViewModel LiveData**](https://github.com/gzeinnumer/ViewModelLiveDataExample) & [**Kotlin**](https://github.com/gzeinnumer/ViewModelLiveDataExampleKT).
 - ViewPager
   - [**ViewPager Refresh On Page Change**](https://github.com/gzeinnumer/ViewPagerRefreshOnPageChange).
   - [**ViewPager Simple Dots**](https://github.com/gzeinnumer/ViewPagerSimpleDots).
   - [**ViewPager Simple Dots Disable Click**](https://github.com/gzeinnumer/ViewPagerNonSwipableWithDotsButDisableClick).
   - [**ViewPager Non Swipable**](https://github.com/gzeinnumer/ViewPagerNonSwipable).
 - [**XML String**](https://github.com/gzeinnumer/XMLString).
-- [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
-- [**Intent Animation**](https://github.com/gzeinnumer/IntentAnimationkt).
-- [**RecyclerView Diffutils**](https://github.com/gzeinnumer/RecyclerViewDiffutils).
-- [**RxJava2**](https://github.com/gzeinnumer/RxJava2Example) & [**Kotlin**](https://github.com/gzeinnumer/RxJava2ExampleKT).
-- [**RxJava2 Retrofit**](https://github.com/gzeinnumer/Retrofit2andRxJavaNew) & [**Kotlin**](https://github.com/gzeinnumer/Retrofit2andRxJavaNewKT).
-- [**Coroutines**](https://github.com/gzeinnumer/CoroutinesExample) Kotlin only.
-- [**ServiceSimple**](https://github.com/gzeinnumer/ServiceSimpleFixInKao).
-- [**ValidationEmail**](https://github.com/gzeinnumer/ValidationEmail).
-- [**RepositoryImplementation**](https://github.com/gzeinnumer/RepositoryImplementationExample) & [**Kotlin**](https://github.com/gzeinnumer/RepositoryImplementationExampleKT).
-- [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
-- [**Check Internet**](https://github.com/gzeinnumer/CheckInternet) & [**Kotlin**](https://github.com/gzeinnumer/CheckInternetKT).
-- [**RecyclerView Animation**](https://github.com/gzeinnumer/RecyclerViewAnimation).
 
 #
 > **My Library List**
