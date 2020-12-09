@@ -25,6 +25,7 @@
 - [**Dynamic CheckBox With On Click**](https://github.com/gzeinnumer/DinamicCheckBoxOnClick).
 - [**Dynamic RecyclerView**](https://github.com/gzeinnumer/RecyclerViewDynamic).
 - [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
+- [**ImageSlider**](https://github.com/gzeinnumer/ImageSlider).
 - [**Intent Animation**](https://github.com/gzeinnumer/IntentAnimationkt).
 - [**Kapt**](https://github.com/gzeinnumer/KaptExample) Kotlin only.
 - [**Lambda**](https://github.com/gzeinnumer/Lambda).
