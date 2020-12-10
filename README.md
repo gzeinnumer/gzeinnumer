@@ -50,6 +50,7 @@
   - [**ViewPager Simple Dots**](https://github.com/gzeinnumer/ViewPagerSimpleDots).
   - [**ViewPager Simple Dots Disable Click**](https://github.com/gzeinnumer/ViewPagerNonSwipableWithDotsButDisableClick).
 - [**XML String**](https://github.com/gzeinnumer/XMLString).
+- [**WorkManager**](https://github.com/gzeinnumer/WorkManagerFix).
 
 #
 > **My Library List**
