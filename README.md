@@ -46,6 +46,7 @@
 - [**Shared ViewModel Fragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
 - [**ValidationEmail**](https://github.com/gzeinnumer/ValidationEmail).
+- [**ViewBinding Include**](https://github.com/gzeinnumer/ViewBindingInclude).
 - [**ViewModel LiveData**](https://github.com/gzeinnumer/ViewModelLiveDataExample) & [**Kotlin**](https://github.com/gzeinnumer/ViewModelLiveDataExampleKT).
 - ViewPager
   - [**ViewPager Non Swipable**](https://github.com/gzeinnumer/ViewPagerNonSwipable).
