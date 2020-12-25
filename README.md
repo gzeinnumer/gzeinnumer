@@ -19,6 +19,7 @@ My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
 > **Common Setting**
 
 - [**AdapterOnClick**](https://github.com/gzeinnumer/AdapterOnClickListener) & [**Kotlin**](https://github.com/gzeinnumer/RecyclerView_kt).
+- [**AlarmManager & AlarmManager**](https://github.com/gzeinnumer/AlarmManagerFixInKao).
 - [**AlertEnableFitur**](https://github.com/gzeinnumer/AlertEnableFitur).
 - [**ArrayList**](https://github.com/gzeinnumer/ArrayListExampleKT) Kotlin only.
 - [**Check Internet**](https://github.com/gzeinnumer/CheckInternet) & [**Kotlin**](https://github.com/gzeinnumer/CheckInternetKT).
@@ -38,6 +39,7 @@ My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
 - [**Looping**](https://github.com/gzeinnumer/ArrayListExampleKT#looping).
 - [**Multi Permission**](https://github.com/gzeinnumer/MultiPermition) & [**Kotlin**](https://github.com/gzeinnumer/MultiPermitionkt). Android 9 (SDK >= 28).
 - RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
+- [**Notification Oreo**](https://github.com/gzeinnumer/OreoNotification).
 - [**RecyclerView Animation**](https://github.com/gzeinnumer/RecyclerViewAnimation).
 - [**RecyclerView Diffutils**](https://github.com/gzeinnumer/RecyclerViewDiffutils).
 - [**RecyclerView Search Multi Item**](https://github.com/gzeinnumer/RecyclerViewSearchMultiItem).
