@@ -19,7 +19,8 @@ My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
 > **Common Setting**
 
 - [**AdapterOnClick**](https://github.com/gzeinnumer/AdapterOnClickListener) & [**Kotlin**](https://github.com/gzeinnumer/RecyclerView_kt).
-- [**AlarmManager & AlarmManager**](https://github.com/gzeinnumer/AlarmManagerFixInKao).
+- [**AlarmManager & WorkManager**](https://github.com/gzeinnumer/AlarmManagerFixInKao).
+- [**AlarmManager & WorkManager & Notification**](https://github.com/gzeinnumer/AlarmManagerWorkManagerAndNotification).
 - [**AlertEnableFitur**](https://github.com/gzeinnumer/AlertEnableFitur).
 - [**ArrayList**](https://github.com/gzeinnumer/ArrayListExampleKT) Kotlin only.
 - [**Check Internet**](https://github.com/gzeinnumer/CheckInternet) & [**Kotlin**](https://github.com/gzeinnumer/CheckInternetKT).
