@@ -30,6 +30,7 @@ My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
 - [**Dynamic RadioGroup With On Click**](https://github.com/gzeinnumer/DinamicRadioGroup).
 - [**Dynamic CheckBox With On Click**](https://github.com/gzeinnumer/DinamicCheckBoxOnClick).
 - [**Dynamic RecyclerView**](https://github.com/gzeinnumer/RecyclerViewDynamic).
+- [**Dynamic View**](https://github.com/gzeinnumer/TextInputLayoutProgrammatically).
 - [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
 - [**FullScreen**](https://github.com/gzeinnumer/FullScreen) & [**Very FullScreen**](https://github.com/gzeinnumer/VeryFullScreen).
 - [**ImageSlider**](https://github.com/gzeinnumer/ImageSlider).
