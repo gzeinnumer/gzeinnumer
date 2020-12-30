@@ -34,7 +34,7 @@ My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
 - [**Dynamic View**](https://github.com/gzeinnumer/TextInputLayoutProgrammatically).
 - [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
 - [**FullScreen**](https://github.com/gzeinnumer/FullScreen) & [**Very FullScreen**](https://github.com/gzeinnumer/VeryFullScreen).
-- [**ImageSlider**](https://github.com/gzeinnumer/ImageSlider).
+- [**Image Slider**](https://github.com/gzeinnumer/ImageSlider).
 - [**ImmersiveScreen**](https://github.com/gzeinnumer/ImmersiveScreen).
 - [**Intent Animation**](https://github.com/gzeinnumer/IntentAnimationkt).
 - [**Kapt**](https://github.com/gzeinnumer/KaptExample) Kotlin only.
