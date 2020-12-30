@@ -26,6 +26,7 @@ My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
 - [**Check Internet**](https://github.com/gzeinnumer/CheckInternet) & [**Kotlin**](https://github.com/gzeinnumer/CheckInternetKT).
 - [**Clear Text Traffic Error**](https://github.com/gzeinnumer/CleartextTrafficError).
 - [**Coroutines**](https://github.com/gzeinnumer/CoroutinesExample) Kotlin only.
+- [**DebugTrace**](https://github.com/gzeinnumer/DebugTrace).
 - [**DialogFragment**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-dialogfragment) & [**Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-dialogfragment).
 - [**Dynamic RadioGroup With On Click**](https://github.com/gzeinnumer/DinamicRadioGroup).
 - [**Dynamic CheckBox With On Click**](https://github.com/gzeinnumer/DinamicCheckBoxOnClick).
@@ -79,6 +80,12 @@ My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
 | [**MyLibSimpleSQLite**](https://github.com/gzeinnumer/MyLibSimpleSQLite)             | Simple way to CRUD `SQLite`                                | [**MyLibFormValidation**](https://github.com/gzeinnumer/MyLibFormValidation)                       | Simple way to Validate `Form`                                    |
 | [**MyLibSimpleTextWatcher**](https://github.com/gzeinnumer/MyLibSimpleTextWatcher)   | Remove Useless Function `TextWatcher`                      | [**MyLibCurrencyConverterTextView**](https://github.com/gzeinnumer/MyLibCurrencyConverterTextView) | Simple way to convert 1000000 to 1,000,000 in `EditText`.        |
 | `Soon`                                                                               |                                                            | `Soon`                                                                                             |                                                                  |
+
+#
+> Recommendation Other Library
+
+- [**Red Screen Of Death**](https://github.com/gzeinnumer/red-screen-of-death).
+- [**Yoyo Animation**](https://github.com/daimajia/AndroidViewAnimations).
 
 #
 > Recommendation
