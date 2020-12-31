@@ -40,7 +40,7 @@ My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
 - [**Kapt**](https://github.com/gzeinnumer/KaptExample) Kotlin only.
 - [**Lambda**](https://github.com/gzeinnumer/Lambda).
 - [**Looping**](https://github.com/gzeinnumer/ArrayListExampleKT#looping).
-- [**Multi Permission**](https://github.com/gzeinnumer/MultiPermition) & [**Kotlin**](https://github.com/gzeinnumer/MultiPermitionkt). Android 9 (SDK >= 28).
+- [**Multi Permission**](https://github.com/gzeinnumer/MultiPermition2) & [**Kotlin**](https://github.com/gzeinnumer/MultiPermitionkt). Android 9 (SDK >= 28).
 - RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
 - [**Notification Oreo**](https://github.com/gzeinnumer/OreoNotification).
 - [**RecyclerView Animation**](https://github.com/gzeinnumer/RecyclerViewAnimation).
