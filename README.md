@@ -40,7 +40,7 @@ My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
 - [**Kapt**](https://github.com/gzeinnumer/KaptExample) Kotlin only.
 - [**Lambda**](https://github.com/gzeinnumer/Lambda).
 - [**Looping**](https://github.com/gzeinnumer/ArrayListExampleKT#looping).
-- [**Multi Permission**](https://github.com/gzeinnumer/MultiPermition2) & [**Kotlin**](https://github.com/gzeinnumer/MultiPermitionkt). Android 9 (SDK >= 28).
+- [**Multi Permission**](https://github.com/gzeinnumer/MultiPermition2). Android 9 (SDK >= 28).
 - RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
 - [**Notification Oreo**](https://github.com/gzeinnumer/OreoNotification).
 - [**RecyclerView Animation**](https://github.com/gzeinnumer/RecyclerViewAnimation).
@@ -65,6 +65,7 @@ My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
   - [**ViewPager Simple Dots Disable Click**](https://github.com/gzeinnumer/ViewPagerNonSwipableWithDotsButDisableClick).
 - [**XML String**](https://github.com/gzeinnumer/XMLString).
 - [**WorkManager**](https://github.com/gzeinnumer/WorkManagerFix).
+- [**Yoyo Animation Simple**](https://github.com/gzeinnumer/YoyoAnimationSimple).
 
 #
 > **My Library List**
