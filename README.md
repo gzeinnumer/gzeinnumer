@@ -36,7 +36,7 @@ My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
 - [**FullScreen**](https://github.com/gzeinnumer/FullScreen) & [**Very FullScreen**](https://github.com/gzeinnumer/VeryFullScreen).
 - [**Image Slider**](https://github.com/gzeinnumer/ImageSlider).
 - [**Immersive Screen**](https://github.com/gzeinnumer/ImmersiveScreen).
-- [**Immersive Screen Best Auto Hide (Auto Hide After Show HomeButton)**](https://github.com/gzeinnumer/ImmersiveBestAutoHide).
+- [**Immersive Screen Best Auto Hide (Auto Hide After Show HomeButton)**](https://github.com/gzeinnumer/ImmersiveBestAutoHide) Recommended.
 - [**Immersive Screen Best Config (Not Auto Hide After Show HomeButton)**](https://github.com/gzeinnumer/ImmersiveBestConfig).
 - [**Intent Animation**](https://github.com/gzeinnumer/IntentAnimationkt).
 - [**Kapt**](https://github.com/gzeinnumer/KaptExample) Kotlin only.
