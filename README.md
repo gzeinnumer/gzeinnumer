@@ -57,6 +57,7 @@ My [**My Reminder**](https://github.com/gzeinnumer/MyReminder).
 - [**RxJava2 Retrofit**](https://github.com/gzeinnumer/Retrofit2andRxJavaNew) & [**Kotlin**](https://github.com/gzeinnumer/Retrofit2andRxJavaNewKT).
 - [**ServiceSimple**](https://github.com/gzeinnumer/ServiceSimpleFixInKao).
 - [**Shared ViewModel Fragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
+- [**SpannableTextExample**](https://github.com/gzeinnumer/SpannableTextExample).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
 - [**ValidationEmail**](https://github.com/gzeinnumer/ValidationEmail).
 - [**ViewBinding Include**](https://github.com/gzeinnumer/ViewBindingInclude).
