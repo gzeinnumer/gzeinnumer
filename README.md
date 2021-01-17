@@ -59,6 +59,7 @@ My [**My Reminder**](https://github.com/gzeinnumer/MyReminder).
 - [**Shared ViewModel Fragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
 - [**SpannableTextExample**](https://github.com/gzeinnumer/SpannableTextExample).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
+- [**MandatoryTextInputLayout**](https://github.com/gzeinnumer/MandatoryTextInputLayout).
 - [**ValidationEmail**](https://github.com/gzeinnumer/ValidationEmail).
 - [**ViewBinding Include**](https://github.com/gzeinnumer/ViewBindingInclude).
 - [**ViewModel LiveData**](https://github.com/gzeinnumer/ViewModelLiveDataExample) & [**Kotlin**](https://github.com/gzeinnumer/ViewModelLiveDataExampleKT).
