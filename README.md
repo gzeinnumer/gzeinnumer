@@ -27,6 +27,7 @@ My [**My Reminder**](https://github.com/gzeinnumer/MyReminder).
 - [**Check Internet**](https://github.com/gzeinnumer/CheckInternet) & [**Kotlin**](https://github.com/gzeinnumer/CheckInternetKT).
 - [**Clear Text Traffic Error**](https://github.com/gzeinnumer/CleartextTrafficError).
 - [**Coroutines**](https://github.com/gzeinnumer/CoroutinesExample) Kotlin only.
+- [**DarkModeDisableForce**](https://github.com/gzeinnumer/DarkModeDisableForce).
 - [**DebugTrace**](https://github.com/gzeinnumer/DebugTrace).
 - [**DialogFragment**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-dialogfragment) & [**Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-dialogfragment).
 - [**DrawableBestConfig**](https://github.com/gzeinnumer/DrawableBestConfig) Recommended.
@@ -60,7 +61,7 @@ My [**My Reminder**](https://github.com/gzeinnumer/MyReminder).
 - [**Shared ViewModel Fragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
 - [**SpannableTextExample**](https://github.com/gzeinnumer/SpannableTextExample).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
-- [**MandatoryTextInputLayout**](https://github.com/gzeinnumer/MandatoryTextInputLayout).
+- [**TextInputLayout Mandatory**](https://github.com/gzeinnumer/MandatoryTextInputLayout).
 - [**ValidationEmail**](https://github.com/gzeinnumer/ValidationEmail).
 - [**ViewBinding Include**](https://github.com/gzeinnumer/ViewBindingInclude).
 - [**ViewModel LiveData**](https://github.com/gzeinnumer/ViewModelLiveDataExample) & [**Kotlin**](https://github.com/gzeinnumer/ViewModelLiveDataExampleKT).
