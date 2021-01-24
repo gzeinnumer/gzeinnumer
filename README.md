@@ -24,6 +24,7 @@ My [**My Reminder**](https://github.com/gzeinnumer/MyReminder).
 - [**AlarmManager & WorkManager & Notification**](https://github.com/gzeinnumer/AlarmManagerWorkManagerAndNotification).
 - [**AlertEnableFitur**](https://github.com/gzeinnumer/AlertEnableFitur).
 - [**ArrayList**](https://github.com/gzeinnumer/ArrayListExampleKT) Kotlin only.
+- [**BindingTestInclude**](https://github.com/gzeinnumer/BindingTestInclude) ViewStub With Binding / Include `layout` Programatically.
 - [**Check Internet**](https://github.com/gzeinnumer/CheckInternet) & [**Kotlin**](https://github.com/gzeinnumer/CheckInternetKT).
 - [**Clear Text Traffic Error**](https://github.com/gzeinnumer/CleartextTrafficError).
 - [**Coroutines**](https://github.com/gzeinnumer/CoroutinesExample) Kotlin only.
@@ -46,8 +47,8 @@ My [**My Reminder**](https://github.com/gzeinnumer/MyReminder).
 - [**Lambda**](https://github.com/gzeinnumer/Lambda).
 - [**Looping**](https://github.com/gzeinnumer/ArrayListExampleKT#looping).
 - [**Multi Permission**](https://github.com/gzeinnumer/MultiPermition2). Android 9 (SDK >= 28).
-- RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
 - [**Notification Oreo**](https://github.com/gzeinnumer/OreoNotification).
+- RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
 - [**RecyclerView Animation**](https://github.com/gzeinnumer/RecyclerViewAnimation).
 - [**RecyclerView Diffutils**](https://github.com/gzeinnumer/RecyclerViewDiffutils).
 - [**RecyclerView Search Multi Item**](https://github.com/gzeinnumer/RecyclerViewSearchMultiItem).
