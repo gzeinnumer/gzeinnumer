@@ -32,8 +32,8 @@ My [**My Reminder**](https://github.com/gzeinnumer/MyReminder).
 - [**DebugTrace**](https://github.com/gzeinnumer/DebugTrace).
 - [**DialogFragment**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-dialogfragment) & [**Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-dialogfragment).
 - [**DrawableBestConfig**](https://github.com/gzeinnumer/DrawableBestConfig) Recommended.
-- [**Dynamic RadioGroup With On Click**](https://github.com/gzeinnumer/DinamicRadioGroup).
 - [**Dynamic CheckBox With On Click**](https://github.com/gzeinnumer/DinamicCheckBoxOnClick).
+- [**Dynamic RadioGroup With On Click**](https://github.com/gzeinnumer/DinamicRadioGroup).
 - [**Dynamic RecyclerView**](https://github.com/gzeinnumer/RecyclerViewDynamic).
 - [**Dynamic View**](https://github.com/gzeinnumer/TextInputLayoutProgrammatically).
 - [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
