@@ -1,4 +1,4 @@
-> **Architecture**
+### **Architecture**
 
 [**Dagger 2 Modular**](https://github.com/gzeinnumer/MyModularDagger2Example).
 
@@ -17,7 +17,7 @@ My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
 My [**My Reminder**](https://github.com/gzeinnumer/MyReminder).
 
 #
-> **Common Setting**
+### **Common Setting**
 
 - [**AdapterOnClick**](https://github.com/gzeinnumer/AdapterOnClickListener) & [**Kotlin**](https://github.com/gzeinnumer/RecyclerView_kt).
 - [**AlarmManager & WorkManager**](https://github.com/gzeinnumer/AlarmManagerFixInKao).
@@ -76,7 +76,7 @@ My [**My Reminder**](https://github.com/gzeinnumer/MyReminder).
 - [**Yoyo Animation Simple**](https://github.com/gzeinnumer/YoyoAnimationSimple).
 
 #
-> **My Library List**
+### **My Library List**
 
 | Name                                                                                 | Description                                                | Name                                                                                                 | Description                                                      |
 |:-------------------------------------------------------------------------------------|:-----------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|
@@ -92,13 +92,13 @@ My [**My Reminder**](https://github.com/gzeinnumer/MyReminder).
 | `Soon`                                                                               |                                                            | `Soon`                                                                                               |                                                                  |
 
 #
-> Recommendation Other Library
+### Recommendation Other Library
 
 - [**Red Screen Of Death**](https://github.com/gzeinnumer/red-screen-of-death).
 - [**Yoyo Animation**](https://github.com/daimajia/AndroidViewAnimations).
 
 #
-> Recommendation
+### Recommendation
 
 [**KTX**](https://developer.android.com/kotlin/ktx)
 [**LiveData**](https://developer.android.com/topic/libraries/architecture/livedata?hl=id)
