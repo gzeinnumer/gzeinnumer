@@ -14,7 +14,7 @@
 #
 My [**Live Template Repository**](https://github.com/gzeinnumer/LiveDataRepository).
 My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
-My [**My Reminder**](https://github.com/gzeinnumer/MyReminder).
+[**My Reminder**](https://github.com/gzeinnumer/MyReminder).
 
 #
 ### **Common Setting**
@@ -89,7 +89,7 @@ My [**My Reminder**](https://github.com/gzeinnumer/MyReminder).
 | [**MyLibSimpleSQLite**](https://github.com/gzeinnumer/MyLibSimpleSQLite)             | Simple way to CRUD `SQLite`                                | [**MyLibFormValidation**](https://github.com/gzeinnumer/MyLibFormValidation)                         | Simple way to Validate `Form`                                    |
 | [**MyLibSimpleTextWatcher**](https://github.com/gzeinnumer/MyLibSimpleTextWatcher)   | Remove Useless Function `TextWatcher`                      | [**MyLibCurrencyConverterTextView**](https://github.com/gzeinnumer/MyLibCurrencyConverterTextView)   | Simple way to convert 1000000 to 1,000,000 in `EditText`.        |
 | [**MyLibSQLiteBuilder**](https://github.com/gzeinnumer/MyLibSQLiteBuilder)           | Simple SQLite Instance                                     | [**MyLibRecyclerViewAdapterBuilder**](https://github.com/gzeinnumer/MyLibRecyclerViewAdapterBuilder) | Simple adapter                                                   |
-| `Soon`                                                                               |                                                            | `Soon`                                                                                               |                                                                  |
+| [**MyLibNFCReader**](https://github.com/gzeinnumer/MyLibNFCReader)                   | Simple NFC Reader                                          | `Soon`                                                                                               |                                                                  |
 
 #
 ### Recommendation Other Library
