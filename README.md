@@ -59,6 +59,7 @@ My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
 - [**Room Join**](https://github.com/gzeinnumer/RoomJoinExample) & [**Kotlin**](https://github.com/gzeinnumer/RoomJoinExampleKT).
 - [**RxJava2**](https://github.com/gzeinnumer/RxJava2Example) & [**Kotlin**](https://github.com/gzeinnumer/RxJava2ExampleKT).
 - [**RxJava2 Retrofit**](https://github.com/gzeinnumer/Retrofit2andRxJavaNew) & [**Kotlin**](https://github.com/gzeinnumer/Retrofit2andRxJavaNewKT).
+- [**SavedInstanceState**](https://github.com/gzeinnumer/SavedInstanceStateExample) & [**Kotlin**](https://github.com/gzeinnumer/HopelessHubby-Final).
 - [**ServiceSimple**](https://github.com/gzeinnumer/ServiceSimpleFixInKao).
 - [**Shared ViewModel Fragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
 - [**SpannableTextExample**](https://github.com/gzeinnumer/SpannableTextExample).
