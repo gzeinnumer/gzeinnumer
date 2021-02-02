@@ -61,6 +61,9 @@ My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
 - [**RxJava2 Retrofit**](https://github.com/gzeinnumer/Retrofit2andRxJavaNew) & [**Kotlin**](https://github.com/gzeinnumer/Retrofit2andRxJavaNewKT).
 - [**SavedInstanceState**](https://github.com/gzeinnumer/SavedInstanceStateExample) & [**Kotlin**](https://github.com/gzeinnumer/HopelessHubby-Final).
 - [**ServiceSimple**](https://github.com/gzeinnumer/ServiceSimpleFixInKao).
+- [**Share ViaWhatapps**](https://github.com/gzeinnumer/ShareViaWhatapps).
+- [**Share Text Via Multi App**](https://github.com/gzeinnumer/ShareTextViaMultiApp).
+- [**Share Text Via What Apps**](https://github.com/gzeinnumer/ShareTextViaWhatApps).
 - [**Shared ViewModel Fragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
 - [**SpannableTextExample**](https://github.com/gzeinnumer/SpannableTextExample).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
