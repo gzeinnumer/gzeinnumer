@@ -75,7 +75,7 @@ Log.d(TAG, "onCreate_9: "+ result_8); //   data:image/jpeg;base64,kasgfkaghaksfa
 
 []()
 
-[]()
+[Sample Code And App](https://github.com/gzeinnumer/Example)
 
 ---
 
