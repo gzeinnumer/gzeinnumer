@@ -49,6 +49,8 @@ My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
 - [**Looping**](https://github.com/gzeinnumer/ArrayListExampleKT#looping).
 - [**Multi Permission**](https://github.com/gzeinnumer/MultiPermition2). Android 9 (SDK >= 28).
 - [**Notification Oreo**](https://github.com/gzeinnumer/OreoNotification).
+- [**PDF From XML MultiData**](https://github.com/gzeinnumer/ExternalPDFFromXMLMultiData).
+- [**PDF From XML SingleData**](https://github.com/gzeinnumer/ExternalPDFFromXMLSingleData).
 - [**PopupMenu**](https://github.com/gzeinnumer/PopupMenu).
 - RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
 - [**RecyclerView Animation**](https://github.com/gzeinnumer/RecyclerViewAnimation).

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9eb7da23-a6a6-4ce6-be0e-ab3d6328b83c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9eb7da23-a6a6-4ce6-be0e-ab3d6328b83c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +11,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nHqcRMXfm6pqZyaowZLntVaxdg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,9 +23,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../asset-mobile-scanner" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\VIDEO\PEMOGRAMANMOBILE\gzeinnumer" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -135,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612336592071</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="README.md">
+      <created>1612374270438</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1612374270438</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -150,18 +163,18 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-46" y="-990" key="CommitChangelistDialog2" timestamp="1612336591630">
+    <state x="-46" y="-990" key="CommitChangelistDialog2" timestamp="1612374270017">
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="-46" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612336591630" />
+    <state x="-46" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612374270017" />
     <state x="107" y="-804" key="FileChooserDialogImpl" timestamp="1612235131212">
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
     <state x="107" y="-804" key="FileChooserDialogImpl/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612235131212" />
-    <state x="-81" y="-826" key="Vcs.Push.Dialog.v2" timestamp="1612336598345">
+    <state x="-81" y="-826" key="Vcs.Push.Dialog.v2" timestamp="1612374273512">
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="-81" y="-826" key="Vcs.Push.Dialog.v2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612336598345" />
+    <state x="-81" y="-826" key="Vcs.Push.Dialog.v2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612374273512" />
     <state x="-263" y="-851" width="672" height="678" key="search.everywhere.popup" timestamp="1612234806039">
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
