@@ -20,7 +20,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../distributoradvisors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../asset-mobile-scanner" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -112,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612163019693</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="README.md">
+      <created>1612234768655</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612234768655</updated>
+    </task>
+    <task id="LOCAL-00013" summary="README.md">
+      <created>1612234819566</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1612234819566</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -127,17 +141,21 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-46" y="-990" key="CommitChangelistDialog2" timestamp="1612163019277">
+    <state x="-46" y="-990" key="CommitChangelistDialog2" timestamp="1612234819126">
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="-46" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612163019277" />
-    <state x="107" y="-804" key="FileChooserDialogImpl" timestamp="1611718957171">
+    <state x="-46" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612234819126" />
+    <state x="107" y="-804" key="FileChooserDialogImpl" timestamp="1612235131212">
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="107" y="-804" key="FileChooserDialogImpl/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1611718957171" />
-    <state x="-81" y="-826" key="Vcs.Push.Dialog.v2" timestamp="1612163054751">
+    <state x="107" y="-804" key="FileChooserDialogImpl/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612235131212" />
+    <state x="-81" y="-826" key="Vcs.Push.Dialog.v2" timestamp="1612234822711">
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="-81" y="-826" key="Vcs.Push.Dialog.v2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612163054751" />
+    <state x="-81" y="-826" key="Vcs.Push.Dialog.v2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612234822711" />
+    <state x="-263" y="-851" width="672" height="678" key="search.everywhere.popup" timestamp="1612234806039">
+      <screen x="-543" y="-1080" width="2560" height="1050" />
+    </state>
+    <state x="-263" y="-851" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612234806039" />
   </component>
 </project>

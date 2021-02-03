@@ -31,6 +31,7 @@ My [**Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
 - [**DarkModeDisableForce**](https://github.com/gzeinnumer/DarkModeDisableForce).
 - [**DebugTrace**](https://github.com/gzeinnumer/DebugTrace).
 - [**DialogFragment**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-dialogfragment) & [**Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-dialogfragment).
+- [**DialogWithIcon**](https://github.com/gzeinnumer/DialogWithIcon) dialog with icon.
 - [**DrawableBestConfig**](https://github.com/gzeinnumer/DrawableBestConfig) Recommended.
 - [**Dynamic CheckBox With On Click**](https://github.com/gzeinnumer/DinamicCheckBoxOnClick).
 - [**Dynamic RadioGroup With On Click**](https://github.com/gzeinnumer/DinamicRadioGroup).
