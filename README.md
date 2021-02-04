@@ -15,7 +15,7 @@
 [**My Live Template Repository**](https://github.com/gzeinnumer/LiveDataRepository).
 [**My Code Template Repository**](https://github.com/gzeinnumer/fileTemplates).
 [**My Reminder**](https://github.com/gzeinnumer/MyReminder).
-[**My Base Coder**](https://github.com/gzeinnumer/MyBaseCode).
+[**My Base Code**](https://github.com/gzeinnumer/MyBaseCode).
 
 #
 ### **Common Setting**
