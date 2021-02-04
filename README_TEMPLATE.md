@@ -70,21 +70,18 @@ Log.d(TAG, "onCreate_9: "+ result_8); //   data:image/jpeg;base64,kasgfkaghaksfa
 ```
 
 ---
-
-## Example Code/App
+# Example Code/App
 
 []()
 
 [Sample Code And App](https://github.com/gzeinnumer/Example)
 
 ---
-
 # Version
 - **0.3.0**
   - First Release
 
 ---
-
 # Contribution
 You can sent your constibution to `branch` `open-pull`.
 
