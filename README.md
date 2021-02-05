@@ -40,6 +40,7 @@
 - [**Dynamic View**](https://github.com/gzeinnumer/TextInputLayoutProgrammatically).
 - [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
 - [**FullScreen**](https://github.com/gzeinnumer/FullScreen) & [**Very FullScreen**](https://github.com/gzeinnumer/VeryFullScreen).
+- [**HashMap**](https://github.com/gzeinnumer/HashMapExample) & [**Kotlin**](https://github.com/gzeinnumer/HashMapkt).
 - [**Image Slider**](https://github.com/gzeinnumer/ImageSlider).
 - [**Immersive Screen**](https://github.com/gzeinnumer/ImmersiveScreen).
 - [**Immersive Screen Best Auto Hide (Auto Hide After Show HomeButton)**](https://github.com/gzeinnumer/ImmersiveBestAutoHide) Recommended.
