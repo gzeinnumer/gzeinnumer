@@ -102,6 +102,7 @@
 | [**MyLibSimpleTextWatcher**](https://github.com/gzeinnumer/MyLibSimpleTextWatcher)   | Remove Useless Function `TextWatcher`                          | [**MyLibCurrencyConverterTextView**](https://github.com/gzeinnumer/MyLibCurrencyConverterTextView)   | Simple way to convert `1000000` to `1,000,000` in `EditText`.    |
 | [**MyLibSQLiteBuilder**](https://github.com/gzeinnumer/MyLibSQLiteBuilder)           | Simple `SQLite` Instance                                       | [**MyLibRecyclerViewAdapterBuilder**](https://github.com/gzeinnumer/MyLibRecyclerViewAdapterBuilder) | Simple adapter `RecyclerView`                                    |
 | [**MyLibNFCReader**](https://github.com/gzeinnumer/MyLibNFCReader)                   | Simple `NFC` Reader                                            | [**MyLibSavedInstanceState**](https://github.com/gzeinnumer/MyLibSavedInstanceState)                 | Simple `SavedInstanceState` with `StateUI`                       |
+| [**DialogPreviewImage**](https://github.com/gzeinnumer/DialogPreviewImage)           | Dialog Preview Image With Zoom                                 | `Soon`                                                                                               |                                                                  |
 
 #
 ### Recommendation Other Library
