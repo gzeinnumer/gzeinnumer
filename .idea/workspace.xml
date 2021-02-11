@@ -8,6 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nHqcRMXfm6pqZyaowZLntVaxdg" />
@@ -197,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612706032068</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="README.md">
+      <created>1612872387446</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1612872387446</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -212,18 +220,18 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-46" y="-990" key="CommitChangelistDialog2" timestamp="1612706031623">
+    <state x="-46" y="-990" key="CommitChangelistDialog2" timestamp="1612872387039">
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="-46" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612706031623" />
+    <state x="-46" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612872387039" />
     <state x="107" y="-804" key="FileChooserDialogImpl" timestamp="1612593221571">
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
     <state x="107" y="-804" key="FileChooserDialogImpl/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612593221571" />
-    <state x="-81" y="-826" key="Vcs.Push.Dialog.v2" timestamp="1612706034677">
+    <state x="-81" y="-826" key="Vcs.Push.Dialog.v2" timestamp="1612872437243">
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="-81" y="-826" key="Vcs.Push.Dialog.v2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612706034677" />
+    <state x="-81" y="-826" key="Vcs.Push.Dialog.v2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612872437243" />
     <state x="-263" y="-851" width="672" height="678" key="search.everywhere.popup" timestamp="1612234806039">
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
