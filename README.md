@@ -43,7 +43,7 @@
 - [**HashMap**](https://github.com/gzeinnumer/HashMapExample) & [**Kotlin**](https://github.com/gzeinnumer/HashMapkt).
 - [**HashMap X Gson**](https://github.com/gzeinnumer/HashMapXGson).
 - [**Image Slider**](https://github.com/gzeinnumer/ImageSlider).
-- [**IMEIAndroid**](https://github.com/gzeinnumer/IMEIAndroid).
+- [**IMEI Android**](https://github.com/gzeinnumer/IMEIAndroid).
 - [**Immersive Screen**](https://github.com/gzeinnumer/ImmersiveScreen).
 - [**Immersive Screen Best Auto Hide (Auto Hide After Show HomeButton)**](https://github.com/gzeinnumer/ImmersiveBestAutoHide) Recommended.
 - [**Immersive Screen Best Config (Not Auto Hide After Show HomeButton)**](https://github.com/gzeinnumer/ImmersiveBestConfig).
