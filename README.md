@@ -78,6 +78,7 @@
 - [**SpannableTextExample**](https://github.com/gzeinnumer/SpannableTextExample).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
 - [**TextInputLayout Mandatory**](https://github.com/gzeinnumer/MandatoryTextInputLayout).
+- [**TextViewShadow**](https://github.com/gzeinnumer/TextViewShadow).
 - [**ValidationEmail**](https://github.com/gzeinnumer/ValidationEmail).
 - [**ViewBinding Include**](https://github.com/gzeinnumer/ViewBindingInclude).
 - [**ViewModel LiveData**](https://github.com/gzeinnumer/ViewModelLiveDataExample) & [**Kotlin**](https://github.com/gzeinnumer/ViewModelLiveDataExampleKT).
