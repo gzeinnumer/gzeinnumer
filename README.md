@@ -106,7 +106,7 @@
 | [**SimpleTextWatcher**](https://github.com/gzeinnumer/SimpleTextWatcher)                        | Remove Useless Function `TextWatcher`                          | [**TextViewCurrency**](https://github.com/gzeinnumer/TextViewCurrency)                               | Simple way to convert `1000000` to `1,000,000` in `EditText`.    |
 | [**SQLiteBuilder**](https://github.com/gzeinnumer/SQLiteBuilder)                                | Simple `SQLite` Instance                                       | [**RecyclerViewAdapterBuilder**](https://github.com/gzeinnumer/RecyclerViewAdapterBuilder)           | Simple adapter `RecyclerView`                                    |
 | [**NFCReader**](https://github.com/gzeinnumer/NFCReader)                                        | Simple `NFC` Reader                                            | [**KeepUIState**](https://github.com/gzeinnumer/KeepUIState)                                         | Simple `SavedInstanceState` with `StateUI`                       |
-| [**DialogPreviewImage**](https://github.com/gzeinnumer/DialogPreviewImage)                      | Dialog Preview Image With Zoom                                 | `Soon`                                                                                               |                                                                  |
+| [**DialogPreviewImage**](https://github.com/gzeinnumer/DialogPreviewImage)                      | Dialog Preview Image With Zoom                                 | [**ValidatorValue**](https://github.com/gzeinnumer/ValidatorValue)                                   | Simple validate without `IF`.                                    |
 
 #
 ### Recommendation Other Library
