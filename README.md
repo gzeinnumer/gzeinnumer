@@ -47,6 +47,7 @@
 - [**Image Slider**](https://github.com/gzeinnumer/ImageSlider).
 - [**IMEI Android**](https://github.com/gzeinnumer/IMEIAndroid).
 - [**Immersive Screen**](https://github.com/gzeinnumer/ImmersiveScreen).
+- [**Immersive Screen Dashboard**](https://github.com/gzeinnumer/ImmersiveBestConfigDashBoard).
 - [**Immersive Screen Best Auto Hide (Auto Hide After Show HomeButton)**](https://github.com/gzeinnumer/ImmersiveBestAutoHide) Recommended.
 - [**Immersive Screen Best Config (Not Auto Hide After Show HomeButton)**](https://github.com/gzeinnumer/ImmersiveBestConfig).
 - [**Intent Animation**](https://github.com/gzeinnumer/IntentAnimationkt).
