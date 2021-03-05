@@ -54,6 +54,7 @@
 - [**Kapt**](https://github.com/gzeinnumer/KaptExample) Kotlin only.
 - [**Lambda**](https://github.com/gzeinnumer/Lambda).
 - [**Looping**](https://github.com/gzeinnumer/ArrayListExampleKT#looping).
+- [**Location RealTime**](https://github.com/gzeinnumer/RealTimeLocation).
 - [**MultiDex**](https://github.com/gzeinnumer/MultiDexExample).
 - [**Multi Permission**](https://github.com/gzeinnumer/MultiPermition2). Android 9 (SDK >= 28).
 - [**Notification Oreo**](https://github.com/gzeinnumer/OreoNotification).
