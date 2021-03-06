@@ -44,13 +44,6 @@
       <option name="presentableId" value="Default" />
       <updated>1611057444528</updated>
     </task>
-    <task id="LOCAL-00005" summary="README.md">
-      <created>1611545809759</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1611545809759</updated>
-    </task>
     <task id="LOCAL-00006" summary="README.md">
       <created>1611671846302</created>
       <option name="number" value="00006" />
@@ -387,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614949093298</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="README.md">
+      <created>1615002569516</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1615002569517</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -406,18 +406,20 @@
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
     <state x="132" y="-775" key="#PSD/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1613537618553" />
-    <state x="-46" y="-990" key="CommitChangelistDialog2" timestamp="1614949092886">
-      <screen x="-543" y="-1080" width="2560" height="1050" />
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1615002568987">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="-46" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1614949092886" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1366.738/-543.-1080.2560.1050@0.0.1366.738" timestamp="1615002568987" />
     <state x="107" y="-804" key="FileChooserDialogImpl" timestamp="1612593221571">
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
     <state x="107" y="-804" key="FileChooserDialogImpl/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612593221571" />
-    <state x="-81" y="-826" key="Vcs.Push.Dialog.v2" timestamp="1614949095706">
-      <screen x="-543" y="-1080" width="2560" height="1050" />
+    <state x="247" y="179" key="Vcs.Push.Dialog.v2" timestamp="1615002602163">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="-81" y="-826" key="Vcs.Push.Dialog.v2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1614949095706" />
+    <state x="247" y="179" key="Vcs.Push.Dialog.v2/0.0.1366.738/-543.-1080.2560.1050@0.0.1366.738" timestamp="1615002602163" />
     <state x="663" y="-621" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614883428578">
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
