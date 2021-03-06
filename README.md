@@ -70,7 +70,7 @@
 - [**RepositoryImplementation**](https://github.com/gzeinnumer/RepositoryImplementationExample) & [**Kotlin**](https://github.com/gzeinnumer/RepositoryImplementationExampleKT).
 - [**Room Join**](https://github.com/gzeinnumer/RoomJoinExample) & [**Kotlin**](https://github.com/gzeinnumer/RoomJoinExampleKT).
 - [**RxJava2**](https://github.com/gzeinnumer/RxJava2Example) & [**Kotlin**](https://github.com/gzeinnumer/RxJava2ExampleKT).
-- [**RxJava2 List*](https://github.com/gzeinnumer/RxJavaListExample).
+- [**RxJava2 List**](https://github.com/gzeinnumer/RxJavaListExample).
 - [**RxJava2 Retrofit**](https://github.com/gzeinnumer/Retrofit2andRxJavaNew) & [**Kotlin**](https://github.com/gzeinnumer/Retrofit2andRxJavaNewKT).
 - [**SavedInstanceState**](https://github.com/gzeinnumer/SavedInstanceStateNoVM).
 - [**SavedInstanceState X ViewModel**](https://github.com/gzeinnumer/SavedInstanceStateExample) & [**Kotlin**](https://github.com/gzeinnumer/HopelessHubby-Final).
@@ -79,7 +79,7 @@
 - [**Share Text Via Multi App**](https://github.com/gzeinnumer/ShareTextViaMultiApp).
 - [**Share Text Via WhatApps**](https://github.com/gzeinnumer/ShareTextViaWhatApps).
 - [**Shared ViewModel Fragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
-- [**SpannableTextExample**](https://github.com/gzeinnumer/SpannableTextExample).
+- [**Spannable Text Example**](https://github.com/gzeinnumer/SpannableTextExample).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
 - [**TextInputLayout Mandatory**](https://github.com/gzeinnumer/MandatoryTextInputLayout).
 - [**TextViewShadow**](https://github.com/gzeinnumer/TextViewShadow).
