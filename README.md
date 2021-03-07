@@ -40,6 +40,7 @@
 - [**Dynamic RadioGroup With On Click**](https://github.com/gzeinnumer/DinamicRadioGroup).
 - [**Dynamic RecyclerView**](https://github.com/gzeinnumer/RecyclerViewDynamic).
 - [**Dynamic View**](https://github.com/gzeinnumer/TextInputLayoutProgrammatically).
+- [**File Picker Example**](https://github.com/gzeinnumer/FilePickerExample).
 - [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
 - [**FullScreen**](https://github.com/gzeinnumer/FullScreen) & [**Very FullScreen**](https://github.com/gzeinnumer/VeryFullScreen).
 - [**HashMap**](https://github.com/gzeinnumer/HashMapExample) & [**Kotlin**](https://github.com/gzeinnumer/HashMapkt).
