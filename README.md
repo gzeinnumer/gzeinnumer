@@ -46,6 +46,8 @@
 - [**HashMap**](https://github.com/gzeinnumer/HashMapExample) & [**Kotlin**](https://github.com/gzeinnumer/HashMapkt).
 - [**HashMap X Gson**](https://github.com/gzeinnumer/HashMapXGson).
 - [**Image Slider**](https://github.com/gzeinnumer/ImageSlider).
+- [**Image Single**](https://github.com/gzeinnumer/TakeImageSingle).
+- [**Image Dynamic**](https://github.com/gzeinnumer/RecyclerViewImageDynamic).
 - [**IMEI Android**](https://github.com/gzeinnumer/IMEIAndroid).
 - [**Immersive Screen**](https://github.com/gzeinnumer/ImmersiveScreen).
 - [**Immersive Screen Dashboard**](https://github.com/gzeinnumer/ImmersiveBestConfigDashBoard).
