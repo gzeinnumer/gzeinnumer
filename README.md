@@ -68,6 +68,7 @@
 - RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
 - [**RecyclerView Animation**](https://github.com/gzeinnumer/RecyclerViewAnimation).
 - [**RecyclerView Diffutils**](https://github.com/gzeinnumer/RecyclerViewDiffutils).
+- [**RecyclerView Infinite Cache**](https://github.com/gzeinnumer/RecyclerViewInfiniteCache).
 - [**RecyclerView Search Multi Item**](https://github.com/gzeinnumer/RecyclerViewSearchMultiItem).
 - [**RecyclerView TableView**](https://github.com/gzeinnumer/TableViewRecyclerView).
 - [**Release Name**](https://github.com/gzeinnumer/ReleaseName).
