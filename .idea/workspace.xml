@@ -44,13 +44,6 @@
       <option name="presentableId" value="Default" />
       <updated>1611057444528</updated>
     </task>
-    <task id="LOCAL-00013" summary="README.md">
-      <created>1612234819566</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1612234819566</updated>
-    </task>
     <task id="LOCAL-00014" summary="README.md">
       <created>1612336592071</created>
       <option name="number" value="00014" />
@@ -387,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620186361020</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="README.md">
+      <created>1620283361431</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1620283361431</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -406,33 +406,33 @@
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
     <state x="132" y="-775" key="#PSD/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1613537618553" />
-    <state x="-467" y="-990" key="CommitChangelistDialog2" timestamp="1620186360433">
+    <state x="-467" y="-990" key="CommitChangelistDialog2" timestamp="1620283360956">
       <screen x="-964" y="-1080" width="2560" height="1050" />
     </state>
     <state x="-46" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1616088359683" />
     <state x="265" y="0" key="CommitChangelistDialog2/0.0.1366.738/-543.-1080.2560.1050@0.0.1366.738" timestamp="1615098080752" />
-    <state x="-467" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-964.-1080.2560.1050@-964.-1080.2560.1050" timestamp="1620186360433" />
+    <state x="-467" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-964.-1080.2560.1050@-964.-1080.2560.1050" timestamp="1620283360956" />
     <state x="1863" y="-318" key="CommitChangelistDialog2/0.0.1366.738/1366.-408.2560.1050@1366.-408.2560.1050" timestamp="1619601251232" />
     <state x="107" y="-804" key="FileChooserDialogImpl" timestamp="1612593221571">
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
     <state x="107" y="-804" key="FileChooserDialogImpl/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1612593221571" />
-    <state x="-502" y="-826" key="Vcs.Push.Dialog.v2" timestamp="1620186363305">
+    <state x="-502" y="-826" key="Vcs.Push.Dialog.v2" timestamp="1620283394359">
       <screen x="-964" y="-1080" width="2560" height="1050" />
     </state>
     <state x="-81" y="-826" key="Vcs.Push.Dialog.v2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1616088382649" />
     <state x="247" y="179" key="Vcs.Push.Dialog.v2/0.0.1366.738/-543.-1080.2560.1050@0.0.1366.738" timestamp="1615098085335" />
-    <state x="-502" y="-826" key="Vcs.Push.Dialog.v2/0.0.1366.738/-964.-1080.2560.1050@-964.-1080.2560.1050" timestamp="1620186363305" />
+    <state x="-502" y="-826" key="Vcs.Push.Dialog.v2/0.0.1366.738/-964.-1080.2560.1050@-964.-1080.2560.1050" timestamp="1620283394359" />
     <state x="1828" y="-154" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.-408.2560.1050@1366.-408.2560.1050" timestamp="1619601256183" />
     <state x="663" y="-621" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614883428578">
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
     <state x="663" y="-621" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1614883428578" />
-    <state x="-264" y="-765" key="git4idea.merge.GitPullDialog" timestamp="1620186281649">
+    <state x="-264" y="-765" key="git4idea.merge.GitPullDialog" timestamp="1620283290858">
       <screen x="-964" y="-1080" width="2560" height="1050" />
     </state>
     <state x="157" y="-765" key="git4idea.merge.GitPullDialog/0.0.1366.738/-543.-1080.2560.1050@-543.-1080.2560.1050" timestamp="1613708886189" />
-    <state x="-264" y="-765" key="git4idea.merge.GitPullDialog/0.0.1366.738/-964.-1080.2560.1050@-964.-1080.2560.1050" timestamp="1620186281649" />
+    <state x="-264" y="-765" key="git4idea.merge.GitPullDialog/0.0.1366.738/-964.-1080.2560.1050@-964.-1080.2560.1050" timestamp="1620283290858" />
     <state x="-263" y="-851" width="672" height="678" key="search.everywhere.popup" timestamp="1613622254857">
       <screen x="-543" y="-1080" width="2560" height="1050" />
     </state>
