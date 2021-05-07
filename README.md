@@ -61,6 +61,7 @@
 - [**Location RealTime**](https://github.com/gzeinnumer/RealTimeLocation).
 - [**MultiDex**](https://github.com/gzeinnumer/MultiDexExample).
 - [**Multi Permission**](https://github.com/gzeinnumer/MultiPermition2). Android 9 (SDK >= 28).
+- [**Notification Count**](https://github.com/gzeinnumer/NotificationCount).
 - [**Notification Oreo**](https://github.com/gzeinnumer/OreoNotification).
 - [**PDF From XML MultiData**](https://github.com/gzeinnumer/ExternalPDFFromXMLMultiData).
 - [**PDF From XML SingleData**](https://github.com/gzeinnumer/ExternalPDFFromXMLSingleData).
