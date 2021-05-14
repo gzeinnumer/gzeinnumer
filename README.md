@@ -55,6 +55,7 @@
 - [**Immersive Screen Best Auto Hide (Auto Hide After Show HomeButton)**](https://github.com/gzeinnumer/ImmersiveBestAutoHide) Recommended.
 - [**Immersive Screen Best Config (Not Auto Hide After Show HomeButton)**](https://github.com/gzeinnumer/ImmersiveBestConfig).
 - [**Intent Animation**](https://github.com/gzeinnumer/IntentAnimationkt).
+- [**JSON Raw**](https://github.com/gzeinnumer/JSONRaw).
 - [**Kapt**](https://github.com/gzeinnumer/KaptExample) Kotlin only.
 - [**Lambda**](https://github.com/gzeinnumer/Lambda).
 - [**Looping**](https://github.com/gzeinnumer/ArrayListExampleKT#looping).
