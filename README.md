@@ -133,8 +133,9 @@
 #
 ### Recommendation
 
-[**KTX**](https://developer.android.com/kotlin/ktx)
-[**LiveData**](https://developer.android.com/topic/libraries/architecture/livedata?hl=id)
-[**Lazy**](https://developer.android.com/reference/kotlin/androidx/compose/foundation/lazy/package-summary)
-[**Convert Image Assets**](https://nsimage.brosteins.com/Home/UploadImage)
-[**Generate a Java Class from a Database Table**](https://codverter.com/blog/articles/tutorials/20190715-create-class-from-database-table.html)
+- [**KTX**](https://developer.android.com/kotlin/ktx)
+- [**LiveData**](https://developer.android.com/topic/libraries/architecture/livedata?hl=id)
+- [**Lazy**](https://developer.android.com/reference/kotlin/androidx/compose/foundation/lazy/package-summary)
+- [**Convert Image Assets**](https://nsimage.brosteins.com/Home/UploadImage)
+- [**Generate a Java Class from a Database Table**](https://codverter.com/blog/articles/tutorials/20190715-create-class-from-database-table.html)
+- [**Install On Air**](https://www.installonair.com/)
