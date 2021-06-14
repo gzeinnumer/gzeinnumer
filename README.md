@@ -91,6 +91,7 @@
 - [**Spannable Text Example**](https://github.com/gzeinnumer/SpannableTextExample).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
 - [**TextInputLayout Mandatory**](https://github.com/gzeinnumer/MandatoryTextInputLayout).
+- [**TextInputLayout Mandatory V2**](https://github.com/gzeinnumer/MandatoryTextInputLayoutV2).
 - [**TabLayout ChipStyle V1**](https://github.com/gzeinnumer/TabLayoutChipStyleV1).
 - [**TabLayout ChipStyle V2**](https://github.com/gzeinnumer/TabLayoutChipStyleV2).
 - [**TextViewShadow**](https://github.com/gzeinnumer/TextViewShadow).
