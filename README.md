@@ -31,6 +31,7 @@
 - [**CardView Stroke**](https://github.com/gzeinnumer/CardViewStroke).
 - [**Check Internet**](https://github.com/gzeinnumer/CheckInternet) & [**Kotlin**](https://github.com/gzeinnumer/CheckInternetKT).
 - [**Check Storage**](https://github.com/gzeinnumer/CheckStorageAndroid).
+- [**Class Convert**](https://github.com/gzeinnumer/JavaClassConvert).
 - [**Clear Text Traffic Error**](https://github.com/gzeinnumer/CleartextTrafficError).
 - [**Coroutines**](https://github.com/gzeinnumer/CoroutinesExample) Kotlin only.
 - [**DarkModeDisableForce**](https://github.com/gzeinnumer/DarkModeDisableForce).
