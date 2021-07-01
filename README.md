@@ -147,6 +147,11 @@
 - [**Install On Air**](https://www.installonair.com/)
 
 #
-### API
+### WEB
 
 - [**Laravel CRUD Mahasiswa**](https://github.com/gzeinnumer/laravel_crud)
+
+#
+### API
+
+- [**Laravel CRUD Data**](https://github.com/gzeinnumer/simple-crud-laravel-json)
