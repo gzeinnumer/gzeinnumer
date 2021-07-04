@@ -22,6 +22,7 @@
 ### **Common Setting**
 
 - [**AdapterOnClick**](https://github.com/gzeinnumer/AdapterOnClickListener) & [**Kotlin**](https://github.com/gzeinnumer/RecyclerView_kt).
+- [**Address Detail**](https://github.com/gzeinnumer/GetAddressDetail).
 - [**AlarmManager & WorkManager**](https://github.com/gzeinnumer/AlarmManagerFixInKao).
 - [**AlarmManager & WorkManager & Notification**](https://github.com/gzeinnumer/AlarmManagerWorkManagerAndNotification).
 - [**AlertEnableFitur**](https://github.com/gzeinnumer/AlertEnableFitur).
