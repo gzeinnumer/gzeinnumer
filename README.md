@@ -94,6 +94,7 @@
 - [**Shared ViewModel Fragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
 - [**Spannable Text Example**](https://github.com/gzeinnumer/SpannableTextExample).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
+- [**TabLayout ChipStyle V0**](https://github.com/gzeinnumer/TabLayoutChipsStyle) multi branch.
 - [**TabLayout ChipStyle V1**](https://github.com/gzeinnumer/TabLayoutChipStyleV1).
 - [**TabLayout ChipStyle V2**](https://github.com/gzeinnumer/TabLayoutChipStyleV2).
 - [**TextInputLayout Mandatory**](https://github.com/gzeinnumer/MandatoryTextInputLayout).
