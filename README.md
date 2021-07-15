@@ -35,6 +35,7 @@
 - [**Class Convert**](https://github.com/gzeinnumer/JavaClassConvert).
 - [**Clear Text Traffic Error**](https://github.com/gzeinnumer/CleartextTrafficError).
 - [**Coroutines**](https://github.com/gzeinnumer/CoroutinesExample) Kotlin only.
+- [**CurrentLocation**](https://github.com/gzeinnumer/CurrentLocation).
 - [**DarkModeDisableForce**](https://github.com/gzeinnumer/DarkModeDisableForce).
 - [**DebugTrace**](https://github.com/gzeinnumer/DebugTrace).
 - [**DialogFragment**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-dialogfragment) & [**Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-dialogfragment).
