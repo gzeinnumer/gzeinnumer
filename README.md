@@ -37,7 +37,7 @@
 - [**Coroutines**](https://github.com/gzeinnumer/CoroutinesExample) Kotlin only.
 - [**Current Location**](https://github.com/gzeinnumer/CurrentLocation) 3 Button, Interval.
 - [**Current Location Simple**](https://github.com/gzeinnumer/CurrentLocationSimple) 3 Button, Interval.
-- [**Cuurent Location One Hit**](https://github.com/gzeinnumer/CuurentLocationOneHit) Interval/OneHit.
+- [**Current Location One Hit**](https://github.com/gzeinnumer/CuurentLocationOneHit) Interval/OneHit.
 - [**DarkModeDisableForce**](https://github.com/gzeinnumer/DarkModeDisableForce).
 - [**DebugTrace**](https://github.com/gzeinnumer/DebugTrace).
 - [**DialogFragment**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-dialogfragment) & [**Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-dialogfragment).
