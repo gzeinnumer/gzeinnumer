@@ -25,10 +25,10 @@
 - [**Address Detail**](https://github.com/gzeinnumer/GetAddressDetail).
 - [**AlarmManager & WorkManager**](https://github.com/gzeinnumer/AlarmManagerFixInKao).
 - [**AlarmManager & WorkManager & Notification**](https://github.com/gzeinnumer/AlarmManagerWorkManagerAndNotification).
-- [**AlertEnableFitur**](https://github.com/gzeinnumer/AlertEnableFitur).
+- [**Alert Enable Fitur**](https://github.com/gzeinnumer/AlertEnableFitur).
 - [**ArrayList**](https://github.com/gzeinnumer/ArrayListExampleKT) Kotlin only.
 - [**AutoCompleteTextView Remove Dropdown Arrow**](https://github.com/gzeinnumer/AutoCompleteTextViewRemovedropdownarrow).
-- [**BindingTestInclude**](https://github.com/gzeinnumer/BindingTestInclude) ViewStub With Binding / Include `layout` Programatically.
+- [**BindingTest Include**](https://github.com/gzeinnumer/BindingTestInclude) ViewStub With Binding / Include `layout` Programatically.
 - [**CardView Stroke**](https://github.com/gzeinnumer/CardViewStroke).
 - [**Check Internet**](https://github.com/gzeinnumer/CheckInternet) & [**Kotlin**](https://github.com/gzeinnumer/CheckInternetKT).
 - [**Check Storage**](https://github.com/gzeinnumer/CheckStorageAndroid).
@@ -38,11 +38,12 @@
 - [**Current Location**](https://github.com/gzeinnumer/CurrentLocation) 3 Button, Interval.
 - [**Current Location Simple**](https://github.com/gzeinnumer/CurrentLocationSimple) 3 Button, Interval.
 - [**Current Location One Hit**](https://github.com/gzeinnumer/CuurentLocationOneHit) Interval/OneHit.
-- [**DarkModeDisableForce**](https://github.com/gzeinnumer/DarkModeDisableForce).
-- [**DebugTrace**](https://github.com/gzeinnumer/DebugTrace).
-- [**DialogFragment**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-dialogfragment) & [**Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-dialogfragment).
-- [**DialogWithIcon**](https://github.com/gzeinnumer/DialogWithIcon) dialog with icon.
-- [**DrawableBestConfig**](https://github.com/gzeinnumer/DrawableBestConfig) Recommended.
+- [**Dotted Dashed Line**](https://github.com/gzeinnumer/DottedDashedLine).
+- [**Dark Mode Disable Force**](https://github.com/gzeinnumer/DarkModeDisableForce).
+- [**Debug Trace**](https://github.com/gzeinnumer/DebugTrace).
+- [**Dialog Fragment**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-dialogfragment) & [**Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-dialogfragment).
+- [**Dialog With Icon**](https://github.com/gzeinnumer/DialogWithIcon) dialog with icon.
+- [**Drawable Best Config**](https://github.com/gzeinnumer/DrawableBestConfig) Recommended.
 - [**Dynamic CheckBox With On Click**](https://github.com/gzeinnumer/DinamicCheckBoxOnClick).
 - [**Dynamic RadioGroup With On Click**](https://github.com/gzeinnumer/DinamicRadioGroup).
 - [**Dynamic RecyclerView**](https://github.com/gzeinnumer/RecyclerViewDynamic).

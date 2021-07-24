@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9eb7da23-a6a6-4ce6-be0e-ab3d6328b83c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +26,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CurrentLocationkt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EasySQLiteCRUD" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -46,13 +45,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611057444528</updated>
-    </task>
-    <task id="LOCAL-00040" summary="README.md">
-      <created>1613533547326</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1613533547326</updated>
     </task>
     <task id="LOCAL-00041" summary="README.md">
       <created>1613537605014</created>
@@ -390,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626721121360</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="README.md">
+      <created>1626769630205</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1626769630206</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -405,20 +404,20 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="336" y="-990" key="CommitChangelistDialog2" timestamp="1626721120856">
+    <state x="336" y="-990" key="CommitChangelistDialog2" timestamp="1626769629494">
       <screen x="-161" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="336" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1626721120856" />
+    <state x="336" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1626769629494" />
     <state x="-467" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-964.-1080.2560.1050@-964.-1080.2560.1050" timestamp="1623998425518" />
     <state x="1863" y="-318" key="CommitChangelistDialog2/0.0.1366.738/1366.-408.2560.1050@1366.-408.2560.1050" timestamp="1619601251232" />
-    <state x="1460" y="-800" key="FileChooserDialogImpl" timestamp="1626364905742">
+    <state x="1460" y="-800" key="FileChooserDialogImpl" timestamp="1626832427086">
       <screen x="-161" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="1460" y="-800" key="FileChooserDialogImpl/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1626364905742" />
-    <state x="301" y="-826" key="Vcs.Push.Dialog.v2" timestamp="1626721126138">
+    <state x="1460" y="-800" key="FileChooserDialogImpl/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1626832427086" />
+    <state x="301" y="-826" key="Vcs.Push.Dialog.v2" timestamp="1626769632542">
       <screen x="-161" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="301" y="-826" key="Vcs.Push.Dialog.v2/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1626721126138" />
+    <state x="301" y="-826" key="Vcs.Push.Dialog.v2/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1626769632542" />
     <state x="-502" y="-826" key="Vcs.Push.Dialog.v2/0.0.1366.738/-964.-1080.2560.1050@-964.-1080.2560.1050" timestamp="1623998430625" />
     <state x="1828" y="-154" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.-408.2560.1050@1366.-408.2560.1050" timestamp="1619601256183" />
     <state x="-264" y="-765" key="git4idea.merge.GitPullDialog" timestamp="1620283290858">
