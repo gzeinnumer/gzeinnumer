@@ -163,3 +163,4 @@
 ### API
 
 - [**Laravel CRUD Data**](https://github.com/gzeinnumer/simple-crud-laravel-json)
+- [**CI4 CRUD Data**](https://github.com/gzeinnumer/ci4_codeigniter4_api)
