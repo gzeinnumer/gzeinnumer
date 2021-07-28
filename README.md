@@ -136,7 +136,7 @@
 | [**SQLiteBuilder**](https://github.com/gzeinnumer/SQLiteBuilder)                                | Simple `SQLite` Instance                                       | [**RecyclerViewAdapterBuilder**](https://github.com/gzeinnumer/RecyclerViewAdapterBuilder)           | Simple adapter `RecyclerView`                                    |
 | [**NFCReader**](https://github.com/gzeinnumer/NFCReader)                                        | Simple `NFC` Reader                                            | [**KeepUIState**](https://github.com/gzeinnumer/KeepUIState)                                         | Simple `SavedInstanceState` with `StateUI`                       |
 | [**DialogPreviewImage**](https://github.com/gzeinnumer/DialogPreviewImage)                      | Dialog Preview Image With Zoom                                 | [**ValidatorValue**](https://github.com/gzeinnumer/ValidatorValue)                                   | Simple validate without `IF`.                                    |
-| [**EasySpannableText**](https://github.com/gzeinnumer/EasySpannableText)                        | Easy SpannableString Builder                                   | `soon`                                                                                               |                                                                  |
+| [**EasySpannableText**](https://github.com/gzeinnumer/EasySpannableText)                        | Easy SpannableString Builder                                   | [**CheckBeforeIntent**](https://github.com/gzeinnumer/CheckBeforeIntent)                             | Check Form Before Leave Activity                                 |
 
 #
 ### Recommendation Other Library
