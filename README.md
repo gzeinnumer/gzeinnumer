@@ -171,6 +171,8 @@
 - [**CI3 CRUD Data**](https://github.com/gzeinnumer/simple-crud-codeigniter-json)
 - [**CI4 CRUD Data**](https://github.com/gzeinnumer/ci4_codeigniter4_api)
 - [**Lumen CRUD Data**](https://github.com/gzeinnumer/MyLumentTemplate)
+- [**Laravel Basicauth**](https://github.com/gzeinnumer/laravel_basicauth)
+- [**Laravel Passport**](https://github.com/gzeinnumer/laravel_passport)
 
 #
 ### QUERY
