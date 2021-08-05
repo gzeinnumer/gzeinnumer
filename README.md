@@ -161,7 +161,7 @@
 - [**CI3 CRUD No Bootstrap**](https://github.com/gzeinnumer/simple-crud-codeigniter)
 - [**CI3 Bootstrap Design Dashboard**](https://github.com/gzeinnumer/bootstrap-4-codeigniter)
 - [**CI4 CRUD Simple No Dashboard**](https://github.com/gzeinnumer/ci4_codeigniter4_crud_simple)
-- [**BaseController Laravel**](https://github.com/gzeinnumer/base-controller)
+- [**Laravel BaseController**](https://github.com/gzeinnumer/base-controller)
 - [**VueJS Lumen**](https://github.com/gzeinnumer/MyVueXLumenTemplate)
 
 #
