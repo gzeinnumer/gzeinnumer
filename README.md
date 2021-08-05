@@ -177,4 +177,4 @@
 #
 ### QUERY
 
-- `Soon`
+- [Basic](https://github.com/gzeinnumer/sql_query)
