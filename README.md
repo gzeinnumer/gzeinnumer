@@ -35,7 +35,7 @@
 - [**Class Convert**](https://github.com/gzeinnumer/JavaClassConvert).
 - [**Clear Text Traffic Error**](https://github.com/gzeinnumer/CleartextTrafficError).
 - [**Coroutines**](https://github.com/gzeinnumer/CoroutinesExample) Kotlin only.
-- [**Current Location**](https://github.com/gzeinnumer/CurrentLocation) 3 Button, Interval.
+- [**Current Location**](https://github.com/gzeinnumer/CurrentLocation) 3 Button, Interval. **[X]**
 - [**Current Location Simple**](https://github.com/gzeinnumer/CurrentLocationSimple) 3 Button, Interval.
 - [**Current Location One Hit**](https://github.com/gzeinnumer/CuurentLocationOneHit) Interval/OneHit.
 - [**Dotted Dashed Line**](https://github.com/gzeinnumer/DottedDashedLine).
@@ -53,7 +53,7 @@
 - [**Force Close**](https://github.com/gzeinnumer/ForceClose).
 - [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
 - [**FullScreen**](https://github.com/gzeinnumer/FullScreen) & [**Very FullScreen**](https://github.com/gzeinnumer/VeryFullScreen).
-- [**HashMap**](https://github.com/gzeinnumer/HashMapExample) & [**Kotlin**](https://github.com/gzeinnumer/HashMapkt).
+- [**HashMap**](https://github.com/gzeinnumer/HashMapExample) & [**Kotlin**](https://github.com/gzeinnumer/HashMapkt).  **[X]**
 - [**HashMap X Gson**](https://github.com/gzeinnumer/HashMapXGson).
 - [**Image Slider**](https://github.com/gzeinnumer/ImageSlider).
 - [**Image Single**](https://github.com/gzeinnumer/TakeImageSingle).
@@ -74,13 +74,13 @@
 - [**Multi Permission Dexter**](https://github.com/gzeinnumer/GetPermission). Dexter(Recomended).
 - [**Notification Count Icon**](https://github.com/gzeinnumer/NotificationCount).
 - [**Notification Oreo**](https://github.com/gzeinnumer/OreoNotification).
-- [**PDF From XML MultiData**](https://github.com/gzeinnumer/ExternalPDFFromXMLMultiData).
-- [**PDF From XML SingleData**](https://github.com/gzeinnumer/ExternalPDFFromXMLSingleData).
+- [**PDF From XML MultiData**](https://github.com/gzeinnumer/ExternalPDFFromXMLMultiData). **[X]**
+- [**PDF From XML SingleData**](https://github.com/gzeinnumer/ExternalPDFFromXMLSingleData). **[X]**
 - [**Prefix Suffix View**](https://github.com/gzeinnumer/PrefixSuffixView).
 - [**PopupMenu**](https://github.com/gzeinnumer/PopupMenu).
 - RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
 - [**RecyclerView Animation**](https://github.com/gzeinnumer/RecyclerViewAnimation).
-- [**RecyclerView Count All Value**](https://github.com/gzeinnumer/RecyclerviewCountAllValue).
+- [**RecyclerView Count All Value**](https://github.com/gzeinnumer/RecyclerviewCountAllValue). **[X]**
 - [**RecyclerView Diffutils**](https://github.com/gzeinnumer/RecyclerViewDiffutils).
 - [**RecyclerView Infinite Cache**](https://github.com/gzeinnumer/RecyclerViewInfiniteCache).
 - [**RecyclerView Search Multi Item**](https://github.com/gzeinnumer/RecyclerViewSearchMultiItem).
@@ -100,7 +100,7 @@
 - [**Shared ViewModel Fragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
 - [**Spannable Text Example**](https://github.com/gzeinnumer/SpannableTextExample).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
-- [**TabLayout ChipStyle V0**](https://github.com/gzeinnumer/TabLayoutChipsStyle) multi branch.
+- [**TabLayout ChipStyle V0**](https://github.com/gzeinnumer/TabLayoutChipsStyle) multi branch. **[X]**
 - [**TabLayout ChipStyle V1**](https://github.com/gzeinnumer/TabLayoutChipStyleV1).
 - [**TabLayout ChipStyle V2**](https://github.com/gzeinnumer/TabLayoutChipStyleV2).
 - [**TextInputLayout Mandatory**](https://github.com/gzeinnumer/MandatoryTextInputLayout).
@@ -163,7 +163,7 @@
 - [**CI3 Bootstrap Design Dashboard**](https://github.com/gzeinnumer/bootstrap-4-codeigniter)
 - [**CI4 CRUD Simple No Dashboard**](https://github.com/gzeinnumer/ci4_codeigniter4_crud_simple)
 - [**Laravel BaseController**](https://github.com/gzeinnumer/base-controller)
-- [**VueJS Lumen**](https://github.com/gzeinnumer/MyVueXLumenTemplate)
+- [**VueJS Lumen**](https://github.com/gzeinnumer/MyVueXLumenTemplate) **[X]**
 
 #
 ### API
@@ -171,10 +171,10 @@
 - [**Laravel CRUD Data**](https://github.com/gzeinnumer/simple-crud-laravel-json)
 - [**CI3 CRUD Data**](https://github.com/gzeinnumer/simple-crud-codeigniter-json)
 - [**CI4 CRUD Data**](https://github.com/gzeinnumer/ci4_codeigniter4_api)
-- [**Lumen CRUD Data**](https://github.com/gzeinnumer/MyLumentTemplate)
-- [**Laravel Basicauth**](https://github.com/gzeinnumer/laravel_basicauth)
-- [**Laravel Passport**](https://github.com/gzeinnumer/laravel_passport)
-- [**Laravel LogApi**](https://github.com/gzeinnumer/laravel-logapi) [X]
+- [**Lumen CRUD Data**](https://github.com/gzeinnumer/MyLumentTemplate) **[X]**
+- [**Laravel Basicauth**](https://github.com/gzeinnumer/laravel_basicauth) **[X]**
+- [**Laravel Passport**](https://github.com/gzeinnumer/laravel_passport) **[X]**
+- [**Laravel LogApi**](https://github.com/gzeinnumer/laravel-logapi) **[X]**
 
 #
 ### QUERY
