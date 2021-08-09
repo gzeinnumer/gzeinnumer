@@ -53,7 +53,7 @@
 - [**Force Close**](https://github.com/gzeinnumer/ForceClose).
 - [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
 - [**FullScreen**](https://github.com/gzeinnumer/FullScreen) & [**Very FullScreen**](https://github.com/gzeinnumer/VeryFullScreen).
-- [**HashMap**](https://github.com/gzeinnumer/HashMapExample) & [**Kotlin**](https://github.com/gzeinnumer/HashMapkt).  **[X]**
+- [**HashMap**](https://github.com/gzeinnumer/HashMapExample) & [**Kotlin**](https://github.com/gzeinnumer/HashMapkt).
 - [**HashMap X Gson**](https://github.com/gzeinnumer/HashMapXGson).
 - [**Image Slider**](https://github.com/gzeinnumer/ImageSlider).
 - [**Image Single**](https://github.com/gzeinnumer/TakeImageSingle).
@@ -80,7 +80,7 @@
 - [**PopupMenu**](https://github.com/gzeinnumer/PopupMenu).
 - RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
 - [**RecyclerView Animation**](https://github.com/gzeinnumer/RecyclerViewAnimation).
-- [**RecyclerView Count All Value**](https://github.com/gzeinnumer/RecyclerviewCountAllValue). **[X]**
+- [**RecyclerView Count All Value**](https://github.com/gzeinnumer/RecyclerviewCountAllValue).
 - [**RecyclerView Diffutils**](https://github.com/gzeinnumer/RecyclerViewDiffutils).
 - [**RecyclerView Infinite Cache**](https://github.com/gzeinnumer/RecyclerViewInfiniteCache).
 - [**RecyclerView Search Multi Item**](https://github.com/gzeinnumer/RecyclerViewSearchMultiItem).
