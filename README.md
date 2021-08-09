@@ -174,7 +174,7 @@
 - [**Lumen CRUD Data**](https://github.com/gzeinnumer/MyLumentTemplate) **[X]**
 - [**Laravel Basicauth**](https://github.com/gzeinnumer/laravel_basicauth) **[X]**
 - [**Laravel Passport**](https://github.com/gzeinnumer/laravel_passport) **[X]**
-- [**Laravel LogApi**](https://github.com/gzeinnumer/laravel-logapi) **[X]**
+- [**Laravel LogApi**](https://github.com/gzeinnumer/laravel-logapi)
 
 #
 ### QUERY
