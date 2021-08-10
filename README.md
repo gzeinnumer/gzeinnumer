@@ -173,7 +173,7 @@
 - [**CI4 CRUD Data**](https://github.com/gzeinnumer/ci4_codeigniter4_api)
 - [**Lumen CRUD Data**](https://github.com/gzeinnumer/MyLumentTemplate) **[X]**
 - [**Laravel Basicauth**](https://github.com/gzeinnumer/laravel_basicauth) **[X]**
-- [**Laravel Passport**](https://github.com/gzeinnumer/laravel_passport) **[X]**
+- [**Laravel Passport**](https://github.com/gzeinnumer/laravel_passport)
 - [**Laravel LogApi**](https://github.com/gzeinnumer/laravel-logapi)
 
 #
