@@ -160,11 +160,11 @@
 
 - [**Laravel CRUD Mahasiswa**](https://github.com/gzeinnumer/laravel_crud)
 - [**CI3 CRUD No Bootstrap**](https://github.com/gzeinnumer/simple-crud-codeigniter)
-- [**CI3 Bootstrap Design Dashboard**](https://github.com/gzeinnumer/bootstrap-4-codeigniter)
+- [**CI3 Bootstrap Design Dashboard**](https://github.com/gzeinnumer/bootstrap-4-codeigniter) or [V2](https://github.com/gzeinnumer/ci3-dasboard)
 - [**CI4 CRUD Simple No Dashboard**](https://github.com/gzeinnumer/ci4_codeigniter4_crud_simple)
 - [**Laravel BaseController**](https://github.com/gzeinnumer/base-controller)
 - [**VueJS Lumen**](https://github.com/gzeinnumer/MyVueXLumenTemplate) **[X]**
-- [**CI4 CRUD Simple Bootstrap**](https://github.com/gzeinnumer/ci4_simple) **[X]**
+- [**CI4 CRUD Simple Bootstrap**](https://github.com/gzeinnumer/ci4_simple)
 
 #
 ### API
