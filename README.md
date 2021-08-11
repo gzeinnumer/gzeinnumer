@@ -164,6 +164,7 @@
 - [**CI4 CRUD Simple No Dashboard**](https://github.com/gzeinnumer/ci4_codeigniter4_crud_simple)
 - [**Laravel BaseController**](https://github.com/gzeinnumer/base-controller)
 - [**VueJS Lumen**](https://github.com/gzeinnumer/MyVueXLumenTemplate) **[X]**
+- [**CI4 CRUD Simple Bootstrap**](https://github.com/gzeinnumer/ci4_simple) **[X]**
 
 #
 ### API
