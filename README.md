@@ -154,6 +154,7 @@
 - [**Convert Image Assets**](https://nsimage.brosteins.com/Home/UploadImage)
 - [**Generate a Java Class from a Database Table**](https://codverter.com/blog/articles/tutorials/20190715-create-class-from-database-table.html)
 - [**Install On Air**](https://www.installonair.com/)
+- [**Web Template**](https://templatemo.com/tag/landing-page) [Downloaded](https://github.com/gzeinnumer/web-template)
 
 #
 ### WEB
