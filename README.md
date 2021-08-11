@@ -181,4 +181,4 @@
 ### QUERY
 
 - [Basic](https://github.com/gzeinnumer/sql_query)
-- [tableview](https://github.com/gzeinnumer/sql_tableview)
+- [Tableview](https://github.com/gzeinnumer/sql_tableview)
