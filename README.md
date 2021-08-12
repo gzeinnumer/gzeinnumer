@@ -184,3 +184,4 @@
 - [Basic](https://github.com/gzeinnumer/sql_query)
 - [Tableview](https://github.com/gzeinnumer/sql_tableview)
 - [SD_SO_MAIN](https://github.com/gzeinnumer/sd_so_main)
+- [Trigger Table](https://github.com/gzeinnumer/trigger_table)
