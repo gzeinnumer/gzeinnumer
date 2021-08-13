@@ -83,6 +83,7 @@
 - [**RecyclerView Count All Value**](https://github.com/gzeinnumer/RecyclerviewCountAllValue).
 - [**RecyclerView Diffutils**](https://github.com/gzeinnumer/RecyclerViewDiffutils).
 - [**RecyclerView Infinite Cache**](https://github.com/gzeinnumer/RecyclerViewInfiniteCache).
+- [**RecyclerView Pagination**](https://github.com/gzeinnumer/RecyclerViewPagination).
 - [**RecyclerView Search Multi Item**](https://github.com/gzeinnumer/RecyclerViewSearchMultiItem).
 - [**RecyclerView TableView**](https://github.com/gzeinnumer/TableViewRecyclerView).
 - [**Release Name**](https://github.com/gzeinnumer/ReleaseName).
