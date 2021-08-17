@@ -46,13 +46,6 @@
       <option name="presentableId" value="Default" />
       <updated>1611057444528</updated>
     </task>
-    <task id="LOCAL-00057" summary="README.md">
-      <created>1615789633557</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1615789633558</updated>
-    </task>
     <task id="LOCAL-00058" summary="README.md">
       <created>1615951934306</created>
       <option name="number" value="00058" />
@@ -389,25 +382,27 @@
       <option name="project" value="LOCAL" />
       <updated>1629210622453</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="README.md">
+      <created>1629211125631</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1629211125631</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
-  <component name="UpdateCopyrightCheckinHandler">
-    <option name="UPDATE_COPYRIGHT" value="true" />
-  </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="README.md" />
     <option name="LAST_COMMIT_MESSAGE" value="README.md" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="336" y="-990" key="CommitChangelistDialog2" timestamp="1629210621875">
+    <state x="336" y="-990" key="CommitChangelistDialog2" timestamp="1629211125117">
       <screen x="-161" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="336" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1629210621875" />
+    <state x="336" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1629211125117" />
     <state x="-467" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-964.-1080.2560.1050@-964.-1080.2560.1050" timestamp="1623998425518" />
     <state x="1460" y="-800" key="FileChooserDialogImpl" timestamp="1626832427086">
       <screen x="-161" y="-1080" width="2560" height="1050" />
@@ -417,10 +412,10 @@
       <screen x="-161" y="-1080" width="2560" height="1050" />
     </state>
     <state x="495" y="-1080" width="1757" height="1029" key="SettingsEditor/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1628048371387" />
-    <state x="301" y="-826" key="Vcs.Push.Dialog.v2" timestamp="1629210624805">
+    <state x="301" y="-826" key="Vcs.Push.Dialog.v2" timestamp="1629211127400">
       <screen x="-161" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="301" y="-826" key="Vcs.Push.Dialog.v2/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1629210624805" />
+    <state x="301" y="-826" key="Vcs.Push.Dialog.v2/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1629211127400" />
     <state x="-502" y="-826" key="Vcs.Push.Dialog.v2/0.0.1366.738/-964.-1080.2560.1050@-964.-1080.2560.1050" timestamp="1623998430625" />
   </component>
 </project>
