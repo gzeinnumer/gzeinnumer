@@ -48,8 +48,9 @@
 - [**Dynamic RadioGroup With On Click**](https://github.com/gzeinnumer/DinamicRadioGroup).
 - [**Dynamic RecyclerView**](https://github.com/gzeinnumer/RecyclerViewDynamic).
 - [**Dynamic View**](https://github.com/gzeinnumer/TextInputLayoutProgrammatically).
-- [**Enkripsi AES Android**](https://github.com/gzeinnumer/EnkripsiAESAndroid). Only Android. VeryComplex. Key Not Found.
-- [**Enkripsi AES Android**](https://github.com/gzeinnumer/EnkripsiAESAndroid2). Only Android. Not Complex. Key Found.
+- [**Encrypt AES Android**](https://github.com/gzeinnumer/EnkripsiAESAndroid). Only Android. VeryComplex. Key Not Found.
+- [**Encrypt AES Android**](https://github.com/gzeinnumer/EnkripsiAESAndroid2). Only Android. Not Complex. Key Found.
+- [**Encrypt AES Android**](https://github.com/gzeinnumer/EncryptionDecryptionAndroidAES). Only Android. Complex. Key Found.
 - [**File Picker Example**](https://github.com/gzeinnumer/FilePickerExample).
 - [**Firebase FCM**](https://github.com/gzeinnumer/FirebaseFCMDSR).
 - [**Force Close**](https://github.com/gzeinnumer/ForceClose).
@@ -188,3 +189,8 @@
 - [Tableview](https://github.com/gzeinnumer/sql_tableview)
 - [SD_SO_MAIN](https://github.com/gzeinnumer/sd_so_main)
 - [Trigger Table](https://github.com/gzeinnumer/trigger_table)
+
+#
+### Riminder
+
+`soon`
