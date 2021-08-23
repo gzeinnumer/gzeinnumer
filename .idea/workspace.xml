@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eb7da23-a6a6-4ce6-be0e-ab3d6328b83c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +26,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EasySQLiteCRUD" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my_flutter_template" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -45,13 +45,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611057444528</updated>
-    </task>
-    <task id="LOCAL-00059" summary="README.md">
-      <created>1616088360166</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1616088360166</updated>
     </task>
     <task id="LOCAL-00060" summary="README.md">
       <created>1619601251749</created>
@@ -389,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629211376306</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="README.md">
+      <created>1629700846847</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1629700846848</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -399,15 +399,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="README.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="336" y="-990" key="CommitChangelistDialog2" timestamp="1629211375750">
+    <state x="336" y="-990" key="CommitChangelistDialog2" timestamp="1629700846009">
       <screen x="-161" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="336" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1629211375750" />
+    <state x="336" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1629700846009" />
     <state x="-467" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-964.-1080.2560.1050@-964.-1080.2560.1050" timestamp="1623998425518" />
-    <state x="1460" y="-800" key="FileChooserDialogImpl" timestamp="1626832427086">
+    <state x="1460" y="-800" key="FileChooserDialogImpl" timestamp="1629701180636">
       <screen x="-161" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="1460" y="-800" key="FileChooserDialogImpl/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1626832427086" />
+    <state x="1460" y="-800" key="FileChooserDialogImpl/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1629701180636" />
     <state x="495" y="-1080" width="1757" height="1029" key="SettingsEditor" timestamp="1628048371387">
       <screen x="-161" y="-1080" width="2560" height="1050" />
     </state>

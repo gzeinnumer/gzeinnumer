@@ -195,7 +195,7 @@
 #
 ### Flutter
 
-- [My Flutter Template](https://github.com/gzeinnumer/my_flutter_template)
+- [MyBaseFlutter](https://github.com/gzeinnumer/mybase_flutter)
 - `soon`
 
 #
