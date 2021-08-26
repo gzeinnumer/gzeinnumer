@@ -200,6 +200,7 @@
 - [Route](https://github.com/gzeinnumer/flutter_route)
 - [Bottom NavigationBar](https://github.com/gzeinnumer/flutter_bottomnavigationbar)
 - [ScrollView](https://github.com/gzeinnumer/flutter_scrollview)
+- [Theme](https://github.com/gzeinnumer/flutter_theme)
 - `soon`
 
 #
