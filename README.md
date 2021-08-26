@@ -196,6 +196,10 @@
 ### Flutter
 
 - [MyBaseFlutter](https://github.com/gzeinnumer/mybase_flutter)
+- [Flutter Ecommerce V1](https://github.com/gzeinnumer/flutter_ecommerce_v1)
+- [Route](https://github.com/gzeinnumer/flutter_route)
+- [Bottom NavigationBar](https://github.com/gzeinnumer/flutter_bottomnavigationbar)
+- [ScrollView](https://github.com/gzeinnumer/flutter_scrollview)
 - `soon`
 
 #
@@ -248,3 +252,4 @@
 [**CompositeDisposable RXJava**](https://github.com/gzeinnumer/MyReminder#compositedisposable-rxjava)
 [SD_SO_MAIN](https://github.com/gzeinnumer/MyReminder#sd_so_main)
 [**Base64 String**](https://github.com/gzeinnumer/MyReminder#base64-string)
+[**Flutter Update**](https://github.com/gzeinnumer/MyReminder#flutter-update)
