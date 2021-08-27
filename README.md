@@ -201,6 +201,8 @@
 - [Bottom NavigationBar](https://github.com/gzeinnumer/flutter_bottomnavigationbar)
 - [ScrollView](https://github.com/gzeinnumer/flutter_scrollview)
 - [Theme](https://github.com/gzeinnumer/flutter_theme)
+- [Theme](https://github.com/gzeinnumer/flutter_theme)
+- [Flutter Bloc NullSafety Dio](https://github.com/gzeinnumer/flutter_bloc_v1/tree/nullsafety)
 - `soon`
 
 #
