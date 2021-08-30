@@ -204,6 +204,7 @@
 - [Theme](https://github.com/gzeinnumer/flutter_theme)
 - [Theme](https://github.com/gzeinnumer/flutter_theme)
 - [Flutter Bloc NullSafety Dio](https://github.com/gzeinnumer/flutter_bloc_v1/tree/nullsafety)
+- [Splashscreen](https://github.com/gzeinnumer/flutter_splashscreen)
 - `soon`
 
 #
