@@ -205,6 +205,7 @@
 - [Theme](https://github.com/gzeinnumer/flutter_theme)
 - [Flutter Bloc NullSafety Dio](https://github.com/gzeinnumer/flutter_bloc_v1/tree/nullsafety)
 - [Splashscreen](https://github.com/gzeinnumer/flutter_splashscreen)
+- [JSON File](https://github.com/gzeinnumer/flutter_json_file)
 - `soon`
 
 #
@@ -225,7 +226,7 @@
 [**Timer CountDown**](https://github.com/gzeinnumer/MyReminder#timer-countdown)
 [adjustResize & screenOrientation](https://github.com/gzeinnumer/MyReminder#adjustresize--screenorientation)
 [**AS**](https://github.com/gzeinnumer/MyReminder#as)
-[Remove All Space**](https://github.com/gzeinnumer/MyReminder#remove-all-space)
+[Remove All Space](https://github.com/gzeinnumer/MyReminder#remove-all-space)
 [**getSupportFragmentManager()**](https://github.com/gzeinnumer/MyReminder#getsupportfragmentmanager)
 [Kotlin simple get set](https://github.com/gzeinnumer/MyReminder#kotlin-simple-get-set)
 [**Shape**](https://github.com/gzeinnumer/MyReminder#shape)
@@ -257,4 +258,6 @@
 [**CompositeDisposable RXJava**](https://github.com/gzeinnumer/MyReminder#compositedisposable-rxjava)
 [SD_SO_MAIN](https://github.com/gzeinnumer/MyReminder#sd_so_main)
 [**Base64 String**](https://github.com/gzeinnumer/MyReminder#base64-string)
-[**Flutter Update**](https://github.com/gzeinnumer/MyReminder#flutter-update)
+[Flutter Update](https://github.com/gzeinnumer/MyReminder#flutter-update)
+[**CI4 Redirect**](https://github.com/gzeinnumer/MyReminder#ci4-redirect)
+[Flutter Row Center](https://github.com/gzeinnumer/MyReminder#flutter-row-center)
