@@ -206,6 +206,7 @@
 - [Flutter Bloc NullSafety Dio](https://github.com/gzeinnumer/flutter_bloc_v1/tree/nullsafety)
 - [Splashscreen](https://github.com/gzeinnumer/flutter_splashscreen)
 - [JSON File](https://github.com/gzeinnumer/flutter_json_file)
+- [LinearLayout](https://proandroiddev.com/flutter-for-android-developers-how-to-design-linearlayout-in-flutter-5d819c0ddf1a)
 - `soon`
 
 #
