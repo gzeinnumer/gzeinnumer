@@ -207,6 +207,7 @@
 - [Splashscreen](https://github.com/gzeinnumer/flutter_splashscreen)
 - [JSON File](https://github.com/gzeinnumer/flutter_json_file)
 - [LinearLayout](https://proandroiddev.com/flutter-for-android-developers-how-to-design-linearlayout-in-flutter-5d819c0ddf1a)
+- [ElevatedButton](https://www.kindacode.com/article/working-with-elevatedbutton-in-flutter/)
 - `soon`
 
 #
