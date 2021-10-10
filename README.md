@@ -48,9 +48,11 @@
 - [**Dynamic RadioGroup With On Click**](https://github.com/gzeinnumer/DinamicRadioGroup).
 - [**Dynamic RecyclerView**](https://github.com/gzeinnumer/RecyclerViewDynamic).
 - [**Dynamic View**](https://github.com/gzeinnumer/TextInputLayoutProgrammatically).
+- [**EdiTextStyle**](https://github.com/gzeinnumer/EdiTextStyle).
 - [**Encrypt AES Android**](https://github.com/gzeinnumer/EnkripsiAESAndroid). Only Android. VeryComplex. Key Not Found.
 - [**Encrypt AES Android**](https://github.com/gzeinnumer/EnkripsiAESAndroid2). Only Android. Not Complex. Key Found.
 - [**Encrypt AES Android**](https://github.com/gzeinnumer/EncryptionDecryptionAndroidAES). Only Android. Complex. Key Found.
+- [**ExpandedView**](https://github.com/gzeinnumer/ExpandedView).
 - [**File Picker Example**](https://github.com/gzeinnumer/FilePickerExample).
 - [**Firebase FCM**](https://github.com/gzeinnumer/FirebaseFCMDSR).
 - [**Force Close**](https://github.com/gzeinnumer/ForceClose).
