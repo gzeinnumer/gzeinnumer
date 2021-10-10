@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9eb7da23-a6a6-4ce6-be0e-ab3d6328b83c" name="Default Changelist" comment="README.md">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="9eb7da23-a6a6-4ce6-be0e-ab3d6328b83c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,13 +43,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611057444528</updated>
-    </task>
-    <task id="LOCAL-00068" summary="README.md">
-      <created>1621527313122</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1621527313122</updated>
     </task>
     <task id="LOCAL-00069" summary="README.md">
       <created>1623143559337</created>
@@ -389,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632232445398</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="README.md">
+      <created>1633860500566</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1633860500566</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -399,10 +397,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="README.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="336" y="-990" key="CommitChangelistDialog2" timestamp="1633857673716">
+    <state x="336" y="-990" key="CommitChangelistDialog2" timestamp="1633860499962">
       <screen x="-161" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="336" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1633857673716" />
+    <state x="336" y="-990" key="CommitChangelistDialog2/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1633860499962" />
     <state x="265" y="0" key="CommitChangelistDialog2/0.0.1366.738/-161.-1080.2560.1050@0.0.1366.738" timestamp="1631162191659" />
     <state x="1460" y="-800" key="FileChooserDialogImpl" timestamp="1629701180636">
       <screen x="-161" y="-1080" width="2560" height="1050" />
