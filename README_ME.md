@@ -18,3 +18,6 @@ https://stackoverflow.com/questions/62407823/how-using-viewbinding-with-an-abstr
 - [Day 7](https://github.com/gzeinnumer/OneIDay7)
 - [Day 7 Example](https://github.com/gzeinnumer/OneIDay7Example)
 - [Day 8](https://github.com/gzeinnumer/OneIDay8)
+
+- [OneIKtDay1](https://github.com/gzeinnumer/OneIKtDay1)
+- [OneIKtDay2](https://github.com/gzeinnumer/OneIKtDay2)

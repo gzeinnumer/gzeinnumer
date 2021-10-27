@@ -103,6 +103,7 @@
 - [**SavedInstanceState X ViewModel**](https://github.com/gzeinnumer/SavedInstanceStateExample) & [**Kotlin**](https://github.com/gzeinnumer/HopelessHubby-Final).
 - [**SearchStyle**](https://github.com/gzeinnumer/SearchStyle).
 - [**ServiceSimple**](https://github.com/gzeinnumer/ServiceSimpleFixInKao).
+- [**Shape Gradient**](https://stackoverflow.com/questions/13929877/how-to-make-gradient-background-in-android).
 - [**Share Via Whatapps**](https://github.com/gzeinnumer/ShareViaWhatapps).
 - [**Share Text Via Multi App**](https://github.com/gzeinnumer/ShareTextViaMultiApp).
 - [**Share Text Via WhatApps**](https://github.com/gzeinnumer/ShareTextViaWhatApps).
@@ -115,10 +116,12 @@
 - [**TabLayout ChipStyle V2**](https://github.com/gzeinnumer/TabLayoutChipStyleV2).
 - [**TextInputLayout Mandatory**](https://github.com/gzeinnumer/MandatoryTextInputLayout).
 - [**TextInputLayout Mandatory V2**](https://github.com/gzeinnumer/MandatoryTextInputLayoutV2).
+- [**TextInput Layout Style**](https://github.com/gzeinnumer/TextInputLayoutStyle).
 - [**TextViewShadow**](https://github.com/gzeinnumer/TextViewShadow).
 - [**TextViewShapeBackground**](https://github.com/gzeinnumer/TextViewShapeBackground).
 - [**RunThreadExample**](https://github.com/gzeinnumer/RunThreadExample).
 - [**ValidationEmail**](https://github.com/gzeinnumer/ValidationEmail).
+- [**ViewBinding Delegation**](https://github.com/gzeinnumer/ViewBindingDelegationKT).
 - [**ViewBinding Include**](https://github.com/gzeinnumer/ViewBindingInclude).
 - [**ViewModel LiveData**](https://github.com/gzeinnumer/ViewModelLiveDataExample) & [**Kotlin**](https://github.com/gzeinnumer/ViewModelLiveDataExampleKT).
 - ViewPager
