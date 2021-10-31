@@ -4,10 +4,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzeinnumer)](https://github.com/gzeinnumer/github-readme-stats)
 
-
 https://stackoverflow.com/questions/62407823/how-using-viewbinding-with-an-abstract-base-class
 
+---
 
+- [BasicAndroid](https://github.com/ipaddr/BasicAndroid) OneI.
 - [OneIBasicAndroidJava](https://github.com/gzeinnumer/OneIBasicAndroidJava)
 - Day 1
 - Day 2
@@ -21,6 +22,7 @@ https://stackoverflow.com/questions/62407823/how-using-viewbinding-with-an-abstr
 
 ---
 
+- [AndroidKotlin](https://github.com/ipaddr/AndroidKotlin) OneI.
 - [OneIKtDay1](https://github.com/gzeinnumer/OneIKtDay1)
 - [OneIKtDay2](https://github.com/gzeinnumer/OneIKtDay2)
 - [OneIKtDay3Corou](https://github.com/gzeinnumer/CoroutinesRetrofitExample)

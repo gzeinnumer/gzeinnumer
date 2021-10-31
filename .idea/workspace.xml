@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eb7da23-a6a6-4ce6-be0e-ab3d6328b83c" name="Default Changelist" comment="README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README_ME.md" beforeDir="false" afterPath="$PROJECT_DIR$/README_ME.md" afterDir="false" />
-    </list>
+    <list default="true" id="9eb7da23-a6a6-4ce6-be0e-ab3d6328b83c" name="Default Changelist" comment="README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CoroutinesRetrofitExample" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -50,13 +47,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611057444528</updated>
-    </task>
-    <task id="LOCAL-00075" summary="README.md">
-      <created>1624250993761</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1624250993762</updated>
     </task>
     <task id="LOCAL-00076" summary="README.md">
       <created>1624429004261</created>
@@ -394,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635317057219</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="README.md">
+      <created>1635673985942</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1635673985942</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
