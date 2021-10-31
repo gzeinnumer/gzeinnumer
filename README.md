@@ -82,6 +82,7 @@
 - [**Multi Permission Dexter**](https://github.com/gzeinnumer/GetPermission). Dexter(Recomended).
 - [**Notification Count Icon**](https://github.com/gzeinnumer/NotificationCount).
 - [**Notification Oreo**](https://github.com/gzeinnumer/OreoNotification).
+- [**ParceLable**](https://github.com/gzeinnumer/ParceLable).
 - [**PDF From XML MultiData**](https://github.com/gzeinnumer/ExternalPDFFromXMLMultiData). **[X]**
 - [**PDF From XML SingleData**](https://github.com/gzeinnumer/ExternalPDFFromXMLSingleData). **[X]**
 - [**Prefix Suffix View**](https://github.com/gzeinnumer/PrefixSuffixView).
