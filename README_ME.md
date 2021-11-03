@@ -27,3 +27,7 @@ https://stackoverflow.com/questions/62407823/how-using-viewbinding-with-an-abstr
 - [OneIKtDay2](https://github.com/gzeinnumer/OneIKtDay2)
 - [OneIKtDay3Corou](https://github.com/gzeinnumer/CoroutinesRetrofitExample)
 - [OneIKtDay4Pagination3](https://github.com/gzeinnumer/OneIKtDay4Pagination3)
+
+---
+
+- [GetFromTraining](https://github.com/gzeinnumer/GetFromTraining)
