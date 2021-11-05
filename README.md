@@ -78,7 +78,7 @@
 - [**Kapt**](https://github.com/gzeinnumer/KaptExample) Kotlin only.
 - [**Lambda**](https://github.com/gzeinnumer/Lambda).
 - [**Looping**](https://github.com/gzeinnumer/ArrayListExampleKT#looping).
-- [**Location RealTime**](https://github.com/gzeinnumer/RealTimeLocation).
+- [**Location RealTime With Notification**](https://github.com/gzeinnumer/RealTimeLocation).
 - [**MultiDex**](https://github.com/gzeinnumer/MultiDexExample).
 - [**Multi Permission**](https://github.com/gzeinnumer/MultiPermition2). Android 9 (SDK >= 28).
 - [**Multi Permission Dexter**](https://github.com/gzeinnumer/GetPermission). Dexter(Recomended).
