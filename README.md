@@ -28,6 +28,8 @@
 - [**Alert Enable Fitur**](https://github.com/gzeinnumer/AlertEnableFitur).
 - [**ArrayList**](https://github.com/gzeinnumer/ArrayListExampleKT) Kotlin only.
 - [**AutoCompleteTextView Remove Dropdown Arrow**](https://github.com/gzeinnumer/AutoCompleteTextViewRemovedropdownarrow).
+- [**BackgroundPNG**](https://github.com/gzeinnumer/BackgroundPNG). City Style BackgroundPNG.
+- [**BatteryHistorianDockerLive**](https://github.com/gzeinnumer/BatteryHistorianDockerLive).
 - [**BindingTest Include**](https://github.com/gzeinnumer/BindingTestInclude) ViewStub With Binding / Include `layout` Programatically.
 - [**ButtonStyle**](https://github.com/gzeinnumer/ButtonStyle).
 - [**BottomSheetJava**](https://github.com/gzeinnumer/BottomSheetJava).
