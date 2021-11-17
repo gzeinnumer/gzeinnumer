@@ -70,6 +70,7 @@
 - [**Image Slider**](https://github.com/gzeinnumer/ImageSlider).
 - [**Image Single**](https://github.com/gzeinnumer/TakeImageSingle).
 - [**Image Dynamic**](https://github.com/gzeinnumer/RecyclerViewImageDynamic).
+- [**ImageView Shapeable**](https://medium.com/android-beginners/shapeableimageview-material-components-for-android-cac6edac2c0d).
 - [**IMEI Android**](https://github.com/gzeinnumer/IMEIAndroid).
 - [**Immersive Screen**](https://github.com/gzeinnumer/ImmersiveScreen).
 - [**Immersive Screen Dashboard**](https://github.com/gzeinnumer/ImmersiveBestConfigDashBoard).
@@ -119,6 +120,7 @@
 - [**Share Text Via Multi App**](https://github.com/gzeinnumer/ShareTextViaMultiApp).
 - [**Share Text Via WhatApps**](https://github.com/gzeinnumer/ShareTextViaWhatApps).
 - [**Shared ViewModel Fragment**](https://github.com/gzeinnumer/SharedViewModelFragment) & [**Kotlin**](https://github.com/gzeinnumer/SharedViewModelFragmentkt).
+- [**Snackbar Custom**](https://github.com/gzeinnumer/SnackbarCustom).
 - [**Spannable Text Example**](https://github.com/gzeinnumer/SpannableTextExample).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
 - [**StartActivity For Result**](https://github.com/gzeinnumer/StartActivityForResult).
