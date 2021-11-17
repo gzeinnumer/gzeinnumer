@@ -130,8 +130,9 @@
 - [**TextInputLayout Mandatory**](https://github.com/gzeinnumer/MandatoryTextInputLayout).
 - [**TextInputLayout Mandatory V2**](https://github.com/gzeinnumer/MandatoryTextInputLayoutV2).
 - [**TextInput Layout Style**](https://github.com/gzeinnumer/TextInputLayoutStyle).
-- [**TextViewShadow**](https://github.com/gzeinnumer/TextViewShadow).
-- [**TextViewShapeBackground**](https://github.com/gzeinnumer/TextViewShapeBackground).
+- [**TextView Shadow**](https://github.com/gzeinnumer/TextViewShadow).
+- [**TextView Shape Background**](https://github.com/gzeinnumer/TextViewShapeBackground).
+- [**TextView TypeWriter**](https://github.com/gzeinnumer/TextViewTypeWriter).
 - [**RunThreadExample**](https://github.com/gzeinnumer/RunThreadExample).
 - [**ValidationEmail**](https://github.com/gzeinnumer/ValidationEmail).
 - [**ViewBinding Delegation**](https://github.com/gzeinnumer/ViewBindingDelegationKT).
