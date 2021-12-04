@@ -97,9 +97,10 @@
 - [**PopupMenu**](https://github.com/gzeinnumer/PopupMenu).
 - RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
 - [**RecyclerView Animation**](https://github.com/gzeinnumer/RecyclerViewAnimation).
-- [**RecyclerView Count All Value**](https://github.com/gzeinnumer/RecyclerviewCountAllValue).
 - [**RecyclerView Best Margin**](https://github.com/gzeinnumer/RecyclerViewBestMargin).
+- [**RecyclerView Count All Value**](https://github.com/gzeinnumer/RecyclerviewCountAllValue).
 - [**RecyclerView Diffutils**](https://github.com/gzeinnumer/RecyclerViewDiffutils).
+- [**RecyclerView EmptyState**](https://github.com/gzeinnumer/RecycerViewEmptyState).
 - [**RecyclerView Infinite Cache**](https://github.com/gzeinnumer/RecyclerViewInfiniteCache).
 - [**RecyclerView Pagination**](https://github.com/gzeinnumer/RecyclerViewPagination).
 - [**RecyclerView Search Multi Item**](https://github.com/gzeinnumer/RecyclerViewSearchMultiItem).
