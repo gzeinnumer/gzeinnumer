@@ -93,6 +93,7 @@
 - [**ParceLable**](https://github.com/gzeinnumer/ParceLable).
 - [**PDF From XML MultiData**](https://github.com/gzeinnumer/ExternalPDFFromXMLMultiData). **[X]**
 - [**PDF From XML SingleData**](https://github.com/gzeinnumer/ExternalPDFFromXMLSingleData). **[X]**
+- [**PhotoPicker Camera Galery**](https://github.com/gzeinnumer/PhotoPickerCameraGalery). **[X]**
 - [**Prefix Suffix View**](https://github.com/gzeinnumer/PrefixSuffixView).
 - [**PopupMenu**](https://github.com/gzeinnumer/PopupMenu).
 - RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
