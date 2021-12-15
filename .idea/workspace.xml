@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eb7da23-a6a6-4ce6-be0e-ab3d6328b83c" name="Default Changelist" comment="README.md">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="9eb7da23-a6a6-4ce6-be0e-ab3d6328b83c" name="Default Changelist" comment="README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,13 +47,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611057444528</updated>
-    </task>
-    <task id="LOCAL-00092" summary="README.md">
-      <created>1627295419728</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1627295419729</updated>
     </task>
     <task id="LOCAL-00093" summary="README.md">
       <created>1627296173551</created>
@@ -393,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639547379050</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="read">
+      <created>1639547711970</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1639547711970</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
