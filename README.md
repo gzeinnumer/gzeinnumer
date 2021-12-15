@@ -26,6 +26,7 @@
 - [**AlarmManager & WorkManager**](https://github.com/gzeinnumer/AlarmManagerFixInKao).
 - [**AlarmManager & WorkManager & Notification**](https://github.com/gzeinnumer/AlarmManagerWorkManagerAndNotification).
 - [**Alert Enable Fitur**](https://github.com/gzeinnumer/AlertEnableFitur).
+- [**Android Signature Capture**](https://github.com/gzeinnumer/AndroidSignatureCapture). **[X]**
 - [**ArrayList**](https://github.com/gzeinnumer/ArrayListExampleKT) Kotlin only.
 - [**AutoCompleteTextView Remove Dropdown Arrow**](https://github.com/gzeinnumer/AutoCompleteTextViewRemovedropdownarrow).
 - [**BackgroundPNG**](https://github.com/gzeinnumer/BackgroundPNG). City Style BackgroundPNG.
@@ -91,7 +92,8 @@
 - [**Notification Oreo**](https://github.com/gzeinnumer/OreoNotification).
 - [**NavigationComponentkt**](https://github.com/gzeinnumer/NavigationComponentkt).
 - [**Navigation Component Argument kt**](https://github.com/gzeinnumer/NavigationComponentArgumentkt).
-- [**NavigationComponentBottomNavigationbarkt**](https://github.com/gzeinnumer/NavigationComponentBottomNavigationbarkt).
+- [**Navigation Component BottomNavigationbar kt**](https://github.com/gzeinnumer/NavigationComponentBottomNavigationbarkt).
+- [**OTP View**](https://github.com/gzeinnumer/OTPView). **[X]**
 - [**ParceLable**](https://github.com/gzeinnumer/ParceLable).
 - [**PDF From XML MultiData**](https://github.com/gzeinnumer/ExternalPDFFromXMLMultiData). **[X]**
 - [**PDF From XML SingleData**](https://github.com/gzeinnumer/ExternalPDFFromXMLSingleData). **[X]**
