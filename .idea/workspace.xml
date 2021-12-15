@@ -50,13 +50,6 @@
       <option name="presentableId" value="Default" />
       <updated>1611057444528</updated>
     </task>
-    <task id="LOCAL-00091" summary="README.md">
-      <created>1627226770871</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1627226770872</updated>
-    </task>
     <task id="LOCAL-00092" summary="README.md">
       <created>1627295419728</created>
       <option name="number" value="00092" />
@@ -393,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638849215740</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="read">
+      <created>1639547379049</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1639547379050</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,9 +411,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="read" />
     <MESSAGE value="readm" />
     <MESSAGE value="README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
+    <MESSAGE value="read" />
+    <option name="LAST_COMMIT_MESSAGE" value="read" />
   </component>
 </project>

@@ -42,6 +42,7 @@
 - [**Clear Text Traffic Error**](https://github.com/gzeinnumer/CleartextTrafficError).
 - [**Coroutines**](https://github.com/gzeinnumer/CoroutinesExample) Kotlin only.
 - [**Coroutines Retrofit**](https://github.com/gzeinnumer/CoroutinesRetrofitExample) Kotlin only With Todo.
+- [**Count Int OverPower**](https://github.com/gzeinnumer/CountIntOverPower).
 - [**Current Location**](https://github.com/gzeinnumer/CurrentLocation) 3 Button, Interval. **[X]**
 - [**Current Location Simple**](https://github.com/gzeinnumer/CurrentLocationSimple) 3 Button, Interval.
 - [**Current Location One Hit**](https://github.com/gzeinnumer/CuurentLocationOneHit) Interval/OneHit.
@@ -136,6 +137,7 @@
 - [**TextView Shadow**](https://github.com/gzeinnumer/TextViewShadow).
 - [**TextView Shape Background**](https://github.com/gzeinnumer/TextViewShapeBackground).
 - [**TextView TypeWriter**](https://github.com/gzeinnumer/TextViewTypeWriter).
+- [**UOMAdapter**](https://github.com/gzeinnumer/UOMAdapter). **[X]**
 - [**RunThreadExample**](https://github.com/gzeinnumer/RunThreadExample).
 - [**ValidationEmail**](https://github.com/gzeinnumer/ValidationEmail).
 - [**ViewBinding Delegation**](https://github.com/gzeinnumer/ViewBindingDelegationKT).
