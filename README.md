@@ -140,7 +140,7 @@
 - [**TextView Shadow**](https://github.com/gzeinnumer/TextViewShadow).
 - [**TextView Shape Background**](https://github.com/gzeinnumer/TextViewShapeBackground).
 - [**TextView TypeWriter**](https://github.com/gzeinnumer/TextViewTypeWriter).
-- [**UOMAdapter**](https://github.com/gzeinnumer/UOMAdapter). **[X]**
+- [**UOMAdapter**](https://github.com/gzeinnumer/UOMAdapter).
 - [**RunThreadExample**](https://github.com/gzeinnumer/RunThreadExample).
 - [**ValidationEmail**](https://github.com/gzeinnumer/ValidationEmail).
 - [**ViewBinding Delegation**](https://github.com/gzeinnumer/ViewBindingDelegationKT).

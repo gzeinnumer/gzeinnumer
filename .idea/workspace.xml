@@ -59,13 +59,6 @@
       <option name="presentableId" value="Default" />
       <updated>1611057444528</updated>
     </task>
-    <task id="LOCAL-00095" summary="README.md">
-      <created>1627996522451</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1627996522452</updated>
-    </task>
     <task id="LOCAL-00096" summary="README.md">
       <created>1628009464765</created>
       <option name="number" value="00096" />
@@ -402,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639565156293</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="README.md">
+      <created>1639708230185</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1639708230185</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -422,8 +422,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="readm" />
     <MESSAGE value="read" />
-    <MESSAGE value="README.md" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
   </component>
 </project>
