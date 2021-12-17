@@ -93,8 +93,8 @@
 - [**NavigationComponentkt**](https://github.com/gzeinnumer/NavigationComponentkt).
 - [**Navigation Component Argument kt**](https://github.com/gzeinnumer/NavigationComponentArgumentkt).
 - [**Navigation Component BottomNavigationbar kt**](https://github.com/gzeinnumer/NavigationComponentBottomNavigationbarkt).
-- [**OTP View**](https://github.com/gzeinnumer/OTPView). **[X]**
-- [**Pagination Manual Java**](https://github.com/gzeinnumer/PaginationManualJava). **[X]**
+- [**OTP View**](https://github.com/gzeinnumer/OTPView).
+- [**Pagination Manual Java**](https://github.com/gzeinnumer/PaginationManualJava).
 - [**ParceLable**](https://github.com/gzeinnumer/ParceLable).
 - [**PDF From XML MultiData**](https://github.com/gzeinnumer/ExternalPDFFromXMLMultiData). **[X]**
 - [**PDF From XML SingleData**](https://github.com/gzeinnumer/ExternalPDFFromXMLSingleData). **[X]**
