@@ -26,7 +26,7 @@
 - [**AlarmManager & WorkManager**](https://github.com/gzeinnumer/AlarmManagerFixInKao).
 - [**AlarmManager & WorkManager & Notification**](https://github.com/gzeinnumer/AlarmManagerWorkManagerAndNotification).
 - [**Alert Enable Fitur**](https://github.com/gzeinnumer/AlertEnableFitur).
-- [**Android Signature Capture**](https://github.com/gzeinnumer/AndroidSignatureCapture). **[X]**
+- [**Android Signature Capture**](https://github.com/gzeinnumer/AndroidSignatureCapture). **[NoReadMe]**
 - [**ArrayList**](https://github.com/gzeinnumer/ArrayListExampleKT) Kotlin only.
 - [**AutoCompleteTextView Remove Dropdown Arrow**](https://github.com/gzeinnumer/AutoCompleteTextViewRemovedropdownarrow).
 - [**BackgroundPNG**](https://github.com/gzeinnumer/BackgroundPNG). City Style BackgroundPNG.
@@ -44,7 +44,7 @@
 - [**Coroutines**](https://github.com/gzeinnumer/CoroutinesExample) Kotlin only.
 - [**Coroutines Retrofit**](https://github.com/gzeinnumer/CoroutinesRetrofitExample) Kotlin only With Todo.
 - [**Count Int OverPower**](https://github.com/gzeinnumer/CountIntOverPower).
-- [**Current Location**](https://github.com/gzeinnumer/CurrentLocation) 3 Button, Interval. **[X]**
+- [**Current Location**](https://github.com/gzeinnumer/CurrentLocation) 3 Button, Interval. **[NoReadMe]**
 - [**Current Location Simple**](https://github.com/gzeinnumer/CurrentLocationSimple) 3 Button, Interval.
 - [**Current Location One Hit**](https://github.com/gzeinnumer/CuurentLocationOneHit) Interval/OneHit.
 - [**Dotted Dashed Line**](https://github.com/gzeinnumer/DottedDashedLine).
@@ -96,9 +96,9 @@
 - [**OTP View**](https://github.com/gzeinnumer/OTPView).
 - [**Pagination Manual Java**](https://github.com/gzeinnumer/PaginationManualJava).
 - [**ParceLable**](https://github.com/gzeinnumer/ParceLable).
-- [**PDF From XML MultiData**](https://github.com/gzeinnumer/ExternalPDFFromXMLMultiData). **[X]**
-- [**PDF From XML SingleData**](https://github.com/gzeinnumer/ExternalPDFFromXMLSingleData). **[X]**
-- [**PhotoPicker Camera Galery**](https://github.com/gzeinnumer/PhotoPickerCameraGalery). **[X]**
+- [**PDF From XML MultiData**](https://github.com/gzeinnumer/ExternalPDFFromXMLMultiData). **[NoReadMe]**
+- [**PDF From XML SingleData**](https://github.com/gzeinnumer/ExternalPDFFromXMLSingleData). **[NoReadMe]**
+- [**PhotoPicker Camera Galery**](https://github.com/gzeinnumer/PhotoPickerCameraGalery).
 - [**Prefix Suffix View**](https://github.com/gzeinnumer/PrefixSuffixView).
 - [**PopupMenu**](https://github.com/gzeinnumer/PopupMenu).
 - RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
@@ -131,7 +131,7 @@
 - [**Spannable Text Example**](https://github.com/gzeinnumer/SpannableTextExample).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
 - [**StartActivity For Result**](https://github.com/gzeinnumer/StartActivityForResult).
-- [**TabLayout ChipStyle V0**](https://github.com/gzeinnumer/TabLayoutChipsStyle) multi branch. **[X]**
+- [**TabLayout ChipStyle V0**](https://github.com/gzeinnumer/TabLayoutChipsStyle) multi branch. **[NoReadMe]**
 - [**TabLayout ChipStyle V1**](https://github.com/gzeinnumer/TabLayoutChipStyleV1).
 - [**TabLayout ChipStyle V2**](https://github.com/gzeinnumer/TabLayoutChipStyleV2).
 - [**TextInputLayout Mandatory**](https://github.com/gzeinnumer/MandatoryTextInputLayout).
@@ -201,7 +201,7 @@
 - [**CI3 Bootstrap Design Dashboard**](https://github.com/gzeinnumer/bootstrap-4-codeigniter) or [V2](https://github.com/gzeinnumer/ci3-dasboard)
 - [**CI4 CRUD Simple No Dashboard**](https://github.com/gzeinnumer/ci4_codeigniter4_crud_simple)
 - [**Laravel BaseController**](https://github.com/gzeinnumer/base-controller)
-- [**VueJS Lumen**](https://github.com/gzeinnumer/MyVueXLumenTemplate) **[X]**
+- [**VueJS Lumen**](https://github.com/gzeinnumer/MyVueXLumenTemplate) **[NoReadMe]**
 - [**CI4 CRUD Simple Bootstrap**](https://github.com/gzeinnumer/ci4_simple)
 - [**CI3 CRUD Simple Bootstrap**](https://github.com/gzeinnumer/ci3)
 - [**CI4 Login Regiter**](https://github.com/gzeinnumer/ci4_login_register)
@@ -212,10 +212,11 @@
 - [**Laravel CRUD Data**](https://github.com/gzeinnumer/simple-crud-laravel-json)
 - [**CI3 CRUD Data**](https://github.com/gzeinnumer/simple-crud-codeigniter-json)
 - [**CI4 CRUD Data**](https://github.com/gzeinnumer/ci4_codeigniter4_api)
-- [**Lumen CRUD Data**](https://github.com/gzeinnumer/MyLumentTemplate) **[X]**
-- [**Laravel Basicauth**](https://github.com/gzeinnumer/laravel_basicauth) **[X]**
+- [**Lumen CRUD Data**](https://github.com/gzeinnumer/MyLumentTemplate) **[NoReadMe]**
+- [**Laravel Basicauth**](https://github.com/gzeinnumer/laravel_basicauth) **[NoReadMe]**
 - [**Laravel Passport**](https://github.com/gzeinnumer/laravel_passport)
 - [**Laravel LogApi**](https://github.com/gzeinnumer/laravel-logapi)
+- [**Laravel Photo Base64 Upload**](https://github.com/gzeinnumer/laravel-api-upload-photo-bas64)
 
 #
 ### QUERY
