@@ -33,6 +33,7 @@
 - [**BatteryHistorianDockerLive**](https://github.com/gzeinnumer/BatteryHistorianDockerLive).
 - [**BindingTest Include**](https://github.com/gzeinnumer/BindingTestInclude) ViewStub With Binding / Include `layout` Programatically.
 - [**ButtonStyle**](https://github.com/gzeinnumer/ButtonStyle).
+- [**Button Loading**](https://github.com/gzeinnumer/ButtonDelayed). **[NoReadMe]**
 - [**BottomSheetJava**](https://github.com/gzeinnumer/BottomSheetJava).
 - [**Bundle**](https://github.com/gzeinnumer/Bundle).
 - [**BottomSheetDialogFragmentJava**](https://github.com/gzeinnumer/BottomSheetDialogFragmentJava).
@@ -43,7 +44,7 @@
 - [**Clear Text Traffic Error**](https://github.com/gzeinnumer/CleartextTrafficError).
 - [**Coroutines**](https://github.com/gzeinnumer/CoroutinesExample) Kotlin only.
 - [**Coroutines Retrofit**](https://github.com/gzeinnumer/CoroutinesRetrofitExample) Kotlin only With Todo.
-- [**Count Int OverPower**](https://github.com/gzeinnumer/CountIntOverPower).
+- [**Count Int OverPower / IDR**](https://github.com/gzeinnumer/CountIntOverPower).
 - [**Current Location**](https://github.com/gzeinnumer/CurrentLocation) 3 Button, Interval. **[NoReadMe]**
 - [**Current Location Simple**](https://github.com/gzeinnumer/CurrentLocationSimple) 3 Button, Interval.
 - [**Current Location One Hit**](https://github.com/gzeinnumer/CuurentLocationOneHit) Interval/OneHit.
@@ -64,6 +65,7 @@
 - [**ExpandedView**](https://github.com/gzeinnumer/ExpandedView).
 - [**File Picker Example**](https://github.com/gzeinnumer/FilePickerExample).
 - [**Firebase FCM**](https://github.com/gzeinnumer/FirebaseFCMDSR).
+- [**Firebase FCM V2**](https://github.com/gzeinnumer/AndroidFCMV2) Simple. **[NoReadMe]**
 - [**Force Close**](https://github.com/gzeinnumer/ForceClose).
 - [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
 - [**FullScreen**](https://github.com/gzeinnumer/FullScreen) & [**Very FullScreen**](https://github.com/gzeinnumer/VeryFullScreen).
@@ -71,6 +73,7 @@
 - [**HashMap**](https://github.com/gzeinnumer/HashMapExample) & [**Kotlin**](https://github.com/gzeinnumer/HashMapkt).
 - [**HashMap X Gson**](https://github.com/gzeinnumer/HashMapXGson).
 - [**Image Slider**](https://github.com/gzeinnumer/ImageSlider).
+- [**Image Slider V2**](https://github.com/gzeinnumer/SliderV2) Recomended. **[NoReadMe]**
 - [**Image Single**](https://github.com/gzeinnumer/TakeImageSingle).
 - [**Image Dynamic**](https://github.com/gzeinnumer/RecyclerViewImageDynamic).
 - [**ImageView Shapeable**](https://medium.com/android-beginners/shapeableimageview-material-components-for-android-cac6edac2c0d).
@@ -142,7 +145,7 @@
 - [**TextView TypeWriter**](https://github.com/gzeinnumer/TextViewTypeWriter).
 - [**UOM Adapter**](https://github.com/gzeinnumer/UOMAdapter).
 - [**UOM Converter ModSpare**](https://github.com/gzeinnumer/ModSpare).
-- [**RunThreadExample**](https://github.com/gzeinnumer/RunThreadExample).
+- [**RunThreadExample / Run**](https://github.com/gzeinnumer/RunThreadExample).
 - [**ValidationEmail**](https://github.com/gzeinnumer/ValidationEmail).
 - [**ViewBinding Delegation**](https://github.com/gzeinnumer/ViewBindingDelegationKT).
 - [**ViewBinding Include**](https://github.com/gzeinnumer/ViewBindingInclude).
