@@ -52,7 +52,7 @@
 - [**Dotted Dashed Line**](https://github.com/gzeinnumer/DottedDashedLine).
 - [**Dark Mode Disable Force**](https://github.com/gzeinnumer/DarkModeDisableForce).
 - [**Debug Trace**](https://github.com/gzeinnumer/DebugTrace).
-- [**Delay Button Active**](https://github.com/gzeinnumer/DelayButtonActive). **[NoReadMe]**
+- [**Delay Button Active**](https://github.com/gzeinnumer/DelayButtonActive).
 - [**Dialog Fragment**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-dialogfragment) & [**Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-dialogfragment).
 - [**Dialog With Icon**](https://github.com/gzeinnumer/DialogWithIcon) dialog with icon.
 - [**Drawable Best Config**](https://github.com/gzeinnumer/DrawableBestConfig) Recommended.
