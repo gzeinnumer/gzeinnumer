@@ -27,6 +27,7 @@
 - [**AlarmManager & WorkManager & Notification**](https://github.com/gzeinnumer/AlarmManagerWorkManagerAndNotification).
 - [**Alert Enable Fitur**](https://github.com/gzeinnumer/AlertEnableFitur).
 - [**Android Signature Capture**](https://github.com/gzeinnumer/AndroidSignatureCapture). **[NoReadMe]**
+- [**Animation Smooth Delay /Empty State Retry Button**](https://github.com/gzeinnumer/AnimationSmoothDelay). **[NoReadMe]**
 - [**ArrayList**](https://github.com/gzeinnumer/ArrayListExampleKT) Kotlin only.
 - [**AutoCompleteTextView Remove Dropdown Arrow**](https://github.com/gzeinnumer/AutoCompleteTextViewRemovedropdownarrow).
 - [**BackgroundPNG**](https://github.com/gzeinnumer/BackgroundPNG). City Style BackgroundPNG.
@@ -134,6 +135,7 @@
 - [**Spannable Text Example**](https://github.com/gzeinnumer/SpannableTextExample).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
 - [**StartActivity For Result**](https://github.com/gzeinnumer/StartActivityForResult).
+- [**Suggestion Search**](https://github.com/gzeinnumer/SuggestionSearch).
 - [**TabLayout ChipStyle V0**](https://github.com/gzeinnumer/TabLayoutChipsStyle) multi branch. **[NoReadMe]**
 - [**TabLayout ChipStyle V1**](https://github.com/gzeinnumer/TabLayoutChipStyleV1).
 - [**TabLayout ChipStyle V2**](https://github.com/gzeinnumer/TabLayoutChipStyleV2).
