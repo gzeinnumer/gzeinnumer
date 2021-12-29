@@ -50,7 +50,7 @@
 - [**Current Location**](https://github.com/gzeinnumer/CurrentLocation) 3 Button, Interval. **[NoReadMe]**
 - [**Current Location Simple**](https://github.com/gzeinnumer/CurrentLocationSimple) 3 Button, Interval.
 - [**Current Location One Hit**](https://github.com/gzeinnumer/CuurentLocationOneHit) Interval/OneHit.
-- [**SustomView LinearLayout**](https://github.com/gzeinnumer/linearlayoutcustomview).
+- [**CustomView LinearLayout**](https://github.com/gzeinnumer/linearlayoutcustomview).
 - [**Dotted Dashed Line**](https://github.com/gzeinnumer/DottedDashedLine).
 - [**Dark Mode Disable Force**](https://github.com/gzeinnumer/DarkModeDisableForce).
 - [**Debug Trace**](https://github.com/gzeinnumer/DebugTrace).
