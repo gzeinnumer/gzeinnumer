@@ -127,6 +127,7 @@
 - [**RxJava2 Retrofit**](https://github.com/gzeinnumer/Retrofit2andRxJavaNew) & [**Kotlin**](https://github.com/gzeinnumer/Retrofit2andRxJavaNewKT).
 - [**SavedInstanceState**](https://github.com/gzeinnumer/SavedInstanceStateNoVM).
 - [**SavedInstanceState X ViewModel**](https://github.com/gzeinnumer/SavedInstanceStateExample) & [**Kotlin**](https://github.com/gzeinnumer/HopelessHubby-Final).
+- [**SaveValueForUI**](https://github.com/gzeinnumer/SaveValueForUI).
 - [**SearchStyle**](https://github.com/gzeinnumer/SearchStyle).
 - [**ServiceSimple**](https://github.com/gzeinnumer/ServiceSimpleFixInKao).
 - [**Shape Gradient**](https://stackoverflow.com/questions/13929877/how-to-make-gradient-background-in-android).
