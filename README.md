@@ -184,7 +184,7 @@
 | [**EasySpannableText**](https://github.com/gzeinnumer/EasySpannableText)                        | Easy SpannableString Builder                                   | [**CheckBeforeIntent**](https://github.com/gzeinnumer/CheckBeforeIntent)                             | Check Form Before Leave Activity                                 |
 | [**ControlForm**](https://github.com/gzeinnumer/ControlForm)                                    | Easy Clear Form                                                | [**ShareErrorReportTo**](https://github.com/gzeinnumer/ShareErrorReportTo)                           | Share Error to WA                                                |
 | [**EasyOptionMenu**](https://github.com/gzeinnumer/EasyOptionMenu)                              | Easy Option Menu Multi Level                                   | [**EasyRangeSeekBar**](https://github.com/gzeinnumer/EasyRangeSeekBar)                               | Custom SeekBar                                                   |
-| [**EasyEmptyListState**](https://github.com/gzeinnumer/EasyEmptyListState)                      | Easy Empty State List                                          | `soon`                                                                                               | `soon`                                                           |
+| [**EasyEmptyListState**](https://github.com/gzeinnumer/EasyEmptyListState)                      | Easy Empty State List                                          | [**NumberForm**](https://github.com/gzeinnumer/NumberForm)                                           | Easy NumberFrom , never let it empty.                            |
 
 #
 ### Recommendation Other Library
