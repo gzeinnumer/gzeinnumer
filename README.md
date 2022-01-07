@@ -140,6 +140,7 @@
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
 - [**StartActivity For Result**](https://github.com/gzeinnumer/StartActivityForResult).
 - [**Suggestion Search**](https://github.com/gzeinnumer/SuggestionSearch).
+- [**SwipeRefreshLayout**](https://github.com/gzeinnumer/SwipeRefreshLayoutExample).
 - [**TabLayout ChipStyle V0**](https://github.com/gzeinnumer/TabLayoutChipsStyle) multi branch. **[NoReadMe]**
 - [**TabLayout ChipStyle V1**](https://github.com/gzeinnumer/TabLayoutChipStyleV1).
 - [**TabLayout ChipStyle V2**](https://github.com/gzeinnumer/TabLayoutChipStyleV2).
