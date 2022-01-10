@@ -150,6 +150,7 @@
 - [**TextView Shadow**](https://github.com/gzeinnumer/TextViewShadow).
 - [**TextView Shape Background**](https://github.com/gzeinnumer/TextViewShapeBackground).
 - [**TextView TypeWriter**](https://github.com/gzeinnumer/TextViewTypeWriter).
+- [**TextView 2 Line**](https://github.com/gzeinnumer/TextView2Line).
 - [**UOM Adapter**](https://github.com/gzeinnumer/UOMAdapter).
 - [**UOM Converter ModSpare**](https://github.com/gzeinnumer/ModSpare).
 - [**RunThreadExample / Run**](https://github.com/gzeinnumer/RunThreadExample).
