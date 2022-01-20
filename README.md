@@ -188,6 +188,7 @@
 | [**ControlForm**](https://github.com/gzeinnumer/ControlForm)                                    | Easy Clear Form                                                | [**ShareErrorReportTo**](https://github.com/gzeinnumer/ShareErrorReportTo)                           | Share Error to WA                                                |
 | [**EasyOptionMenu**](https://github.com/gzeinnumer/EasyOptionMenu)                              | Easy Option Menu Multi Level                                   | [**EasyRangeSeekBar**](https://github.com/gzeinnumer/EasyRangeSeekBar)                               | Custom SeekBar                                                   |
 | [**EasyEmptyListState**](https://github.com/gzeinnumer/EasyEmptyListState)                      | Easy Empty State List                                          | [**NumberForm**](https://github.com/gzeinnumer/NumberForm)                                           | Easy NumberFrom , never let it empty.                            |
+| [**EasyButtonDelayed**](https://github.com/gzeinnumer/EasyButtonDelayed)                        | Easy Button Delayed                                            | `soon`                                                                                               |                                                                  |
 
 #
 ### Recommendation Other Library
@@ -220,6 +221,7 @@
 - [**CI3 CRUD Simple Bootstrap**](https://github.com/gzeinnumer/ci3)
 - [**CI4 Login Regiter**](https://github.com/gzeinnumer/ci4_login_register)
 - [**Database Online**](https://github.com/gzeinnumer/db_onlline)
+- [**Laravel Login Regiter**](https://github.com/gzeinnumer/laravel_login_register_v2)
 
 #
 ### API
