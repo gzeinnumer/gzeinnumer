@@ -121,6 +121,7 @@
 - [**RecyclerView Staggered**](https://github.com/gzeinnumer/RecyclerviewStaggered).
 - [**RecyclerView TableView**](https://github.com/gzeinnumer/TableViewRecyclerView).
 - [**Release Name**](https://github.com/gzeinnumer/ReleaseName).
+- [**Release Name V2**](https://github.com/gzeinnumer/ReleaseDebugStaging).
 - [**RepositoryImplementation**](https://github.com/gzeinnumer/RepositoryImplementationExample) & [**Kotlin**](https://github.com/gzeinnumer/RepositoryImplementationExampleKT).
 - [**Room Join**](https://github.com/gzeinnumer/RoomJoinExample) & [**Kotlin**](https://github.com/gzeinnumer/RoomJoinExampleKT).
 - [**RxJava2**](https://github.com/gzeinnumer/RxJava2Example) & [**Kotlin**](https://github.com/gzeinnumer/RxJava2ExampleKT).
