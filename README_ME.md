@@ -31,3 +31,9 @@ https://stackoverflow.com/questions/62407823/how-using-viewbinding-with-an-abstr
 ---
 
 - [GetFromTraining](https://github.com/gzeinnumer/GetFromTraining)
+
+---
+
+- [patrol_check(API)](https://github.com/gzeinnumer/patrol_check)
+- [SmartPatrolCheckOperasi(APK)](https://github.com/gzeinnumer/SmartPatrolCheckOperasi)
+- [new-patrol-check(WEB)](https://github.com/gzeinnumer/new-patrol-check)
