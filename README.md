@@ -150,6 +150,7 @@
 - [**TextInputLayout Mandatory**](https://github.com/gzeinnumer/MandatoryTextInputLayout).
 - [**TextInputLayout Mandatory V2**](https://github.com/gzeinnumer/MandatoryTextInputLayoutV2).
 - [**TextInput Layout Style**](https://github.com/gzeinnumer/TextInputLayoutStyle).
+- [**TextView Copy**](https://github.com/gzeinnumer/CopyTextView).
 - [**TextView Shadow**](https://github.com/gzeinnumer/TextViewShadow).
 - [**TextView Shape Background**](https://github.com/gzeinnumer/TextViewShapeBackground).
 - [**TextView TypeWriter**](https://github.com/gzeinnumer/TextViewTypeWriter).
