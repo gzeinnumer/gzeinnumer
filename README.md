@@ -224,7 +224,8 @@
 - [**CI3 CRUD Simple Bootstrap**](https://github.com/gzeinnumer/ci3)
 - [**CI4 Login Regiter**](https://github.com/gzeinnumer/ci4_login_register)
 - [**Database Online**](https://github.com/gzeinnumer/db_onlline)
-- [**Laravel Login Regiter**](https://github.com/gzeinnumer/laravel_login_register_v2)
+- [**Laravel Login Register**](https://github.com/gzeinnumer/laravel_login_register_v2)
+- [**Laravel Login Register(Recomended)**](https://github.com/gzeinnumer/laravel_login_register_v3)
 - [**PHP Convert Json Object**](https://github.com/gzeinnumer/phpconvert)
 
 #
