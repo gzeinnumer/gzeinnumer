@@ -17,7 +17,8 @@
 [**My Reminder**](https://github.com/gzeinnumer/MyReminder) &
 [**My Base Code**](https://github.com/gzeinnumer/MyBaseCode) &
 [**My Base Code KT**](https://github.com/gzeinnumer/MyBaseCodeKT) &
-[**My Base Laravel API**](https://github.com/gzeinnumer/mybase_laravel_api).
+[**My Base Laravel API**](https://github.com/gzeinnumer/mybase_laravel_api) &
+[**Terminal**](https://github.com/gzeinnumer/terminal).
 
 #
 ### **Common Setting**
