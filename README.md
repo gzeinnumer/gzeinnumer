@@ -72,6 +72,7 @@
 - [**File Picker Example**](https://github.com/gzeinnumer/FilePickerExample).
 - [**Firebase FCM**](https://github.com/gzeinnumer/FirebaseFCMDSR).
 - [**Firebase FCM V2**](https://github.com/gzeinnumer/AndroidFCMV2) Simple. **[NoReadMe]**
+- [**Firebase Remote Config**](https://github.com/gzeinnumer/FirebaseRemoteConfigForAppUpdatesCheckJava) & [**Kotlin**](https://github.com/gzeinnumer/FirebaseRemoteConfigForAppUpdatesCheckKt).
 - [**Force Close**](https://github.com/gzeinnumer/ForceClose).
 - [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
 - [**FullScreen**](https://github.com/gzeinnumer/FullScreen) & [**Very FullScreen**](https://github.com/gzeinnumer/VeryFullScreen).
@@ -131,6 +132,7 @@
 - [**RxJava2 Retrofit**](https://github.com/gzeinnumer/Retrofit2andRxJavaNew) & [**Kotlin**](https://github.com/gzeinnumer/Retrofit2andRxJavaNewKT).
 - [**SavedInstanceState**](https://github.com/gzeinnumer/SavedInstanceStateNoVM).
 - [**SavedInstanceState X ViewModel**](https://github.com/gzeinnumer/SavedInstanceStateExample) & [**Kotlin**](https://github.com/gzeinnumer/HopelessHubby-Final).
+- [**Save Double Value**](https://github.com/gzeinnumer/SaveDoubleValue).
 - [**SaveValueForUI**](https://github.com/gzeinnumer/SaveValueForUI).
 - [**SearchStyle**](https://github.com/gzeinnumer/SearchStyle).
 - [**ServiceSimple**](https://github.com/gzeinnumer/ServiceSimpleFixInKao).
