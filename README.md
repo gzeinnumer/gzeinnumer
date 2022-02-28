@@ -18,7 +18,8 @@
 [**My Base Code**](https://github.com/gzeinnumer/MyBaseCode) &
 [**My Base Code KT**](https://github.com/gzeinnumer/MyBaseCodeKT) &
 [**My Base Laravel API**](https://github.com/gzeinnumer/mybase_laravel_api) &
-[**Terminal**](https://github.com/gzeinnumer/terminal).
+[**Terminal**](https://github.com/gzeinnumer/terminal) &
+[**My Code Generator**](https://github.com/gzeinnumer/my_code_generator).
 
 #
 ### **Common Setting**
@@ -242,6 +243,7 @@
 - [**Laravel Passport**](https://github.com/gzeinnumer/laravel_passport)
 - [**Laravel LogApi**](https://github.com/gzeinnumer/laravel-logapi)
 - [**Laravel Photo Base64 Upload**](https://github.com/gzeinnumer/laravel-api-upload-photo-bas64)
+- [**Laravel Sanctum**](https://github.com/gzeinnumer/laravel_sanctum)
 
 #
 ### QUERY
