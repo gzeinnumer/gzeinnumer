@@ -65,7 +65,8 @@
 - [**Dynamic RadioGroup With On Click**](https://github.com/gzeinnumer/DinamicRadioGroup).
 - [**Dynamic RecyclerView**](https://github.com/gzeinnumer/RecyclerViewDynamic).
 - [**Dynamic View**](https://github.com/gzeinnumer/TextInputLayoutProgrammatically).
-- [**EdiTextStyle**](https://github.com/gzeinnumer/EdiTextStyle).
+- [**EdiText Style**](https://github.com/gzeinnumer/EdiTextStyle).
+- [**EdiText Debounce**](https://github.com/gzeinnumer/EditTextDebounce) Save TextWatcher.
 - [**Encrypt AES Android**](https://github.com/gzeinnumer/EnkripsiAESAndroid). Only Android. VeryComplex. Key Not Found.
 - [**Encrypt AES Android**](https://github.com/gzeinnumer/EnkripsiAESAndroid2). Only Android. Not Complex. Key Found.
 - [**Encrypt AES Android**](https://github.com/gzeinnumer/EncryptionDecryptionAndroidAES). Only Android. Complex. Key Found.
@@ -162,7 +163,8 @@
 - [**UOM Adapter**](https://github.com/gzeinnumer/UOMAdapter).
 - [**UOM Converter ModSpare**](https://github.com/gzeinnumer/ModSpare).
 - [**RunThreadExample / Run**](https://github.com/gzeinnumer/RunThreadExample).
-- [**ValidationEmail**](https://github.com/gzeinnumer/ValidationEmail).
+- [**Validation Email**](https://github.com/gzeinnumer/ValidationEmail).
+- [**Validate Password Character**](https://github.com/gzeinnumer/ValidatePasswordCharacter).
 - [**ViewBinding Delegation**](https://github.com/gzeinnumer/ViewBindingDelegationKT).
 - [**ViewBinding Include**](https://github.com/gzeinnumer/ViewBindingInclude).
 - [**ViewModel LiveData**](https://github.com/gzeinnumer/ViewModelLiveDataExample) & [**Kotlin**](https://github.com/gzeinnumer/ViewModelLiveDataExampleKT).
@@ -226,11 +228,14 @@
 - [**VueJS Lumen & Cors**](https://github.com/gzeinnumer/MyVueXLumenTemplate) **[NoReadMe]**
 - [**CI4 CRUD Simple Bootstrap**](https://github.com/gzeinnumer/ci4_simple)
 - [**CI3 CRUD Simple Bootstrap**](https://github.com/gzeinnumer/ci3)
-- [**CI4 Login Regiter**](https://github.com/gzeinnumer/ci4_login_register)
+- [**CI4 Login Register**](https://github.com/gzeinnumer/ci4_login_register)
 - [**Database Online**](https://github.com/gzeinnumer/db_onlline)
 - [**Laravel Login Register**](https://github.com/gzeinnumer/laravel_login_register_v2)
 - [**Laravel Login Register(Recomended)**](https://github.com/gzeinnumer/laravel_login_register_v3)
 - [**PHP Convert Json Object**](https://github.com/gzeinnumer/phpconvert)
+- [**Laravel Easy CRUD 1 Page**](https://github.com/gzeinnumer/laravel_easy_crud_1_page)
+- [**Laravel Easy CRUD Modal Dashboard**](https://github.com/gzeinnumer/easy_laravel_web_modal)
+- [**Laravel Struktur Master**](https://github.com/gzeinnumer/laravel_template_structur)
 
 #
 ### API
@@ -262,7 +267,6 @@
 - [Bottom NavigationBar](https://github.com/gzeinnumer/flutter_bottomnavigationbar)
 - [ScrollView](https://github.com/gzeinnumer/flutter_scrollview)
 - [Theme](https://github.com/gzeinnumer/flutter_theme)
-- [Theme](https://github.com/gzeinnumer/flutter_theme)
 - [Flutter Bloc NullSafety Dio](https://github.com/gzeinnumer/flutter_bloc_v1/tree/nullsafety)
 - [Splashscreen](https://github.com/gzeinnumer/flutter_splashscreen)
 - [JSON File](https://github.com/gzeinnumer/flutter_json_file)
@@ -272,6 +276,12 @@
 - [Flutter Dialog](https://github.com/gzeinnumer/flutter_dialog)
 - [Flutter Listview](https://medium.com/nusanet/flutter-listview-7de1759b4fb1)
 - `soon`
+
+#
+### SwiftUI
+- [FormSwiftUI](https://github.com/gzeinnumer/FormSwiftUI) **[NoReadMe]**
+- [SwiftRandomPhoto](https://github.com/gzeinnumer/SwiftRandomPhoto) **[NoReadMe]**
+- [SwiftUITutorialV1](https://github.com/gzeinnumer/SwiftUITutorialV1) **[NoReadMe]**
 
 #
 ### Spesial Style
