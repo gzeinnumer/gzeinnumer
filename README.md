@@ -48,7 +48,7 @@
 - [**Clear Text Traffic Error**](https://github.com/gzeinnumer/CleartextTrafficError).
 - [**Coroutines**](https://github.com/gzeinnumer/CoroutinesExample) Kotlin only.
 - [**Coroutines Retrofit**](https://github.com/gzeinnumer/CoroutinesRetrofitExample) Kotlin only With Todo.
-- [**Count Int OverPower / IDR**](https://github.com/gzeinnumer/CountIntOverPower).
+- [**Count Int OverPower / IDR / Count / RoundUp**](https://github.com/gzeinnumer/CountIntOverPower).
 - [**CountDown**](https://github.com/gzeinnumer/CountDown).
 - [**Current Location**](https://github.com/gzeinnumer/CurrentLocation) 3 Button, Interval. **[NoReadMe]**
 - [**Current Location Simple**](https://github.com/gzeinnumer/CurrentLocationSimple) 3 Button, Interval.
@@ -134,7 +134,8 @@
 - [**RxJava2 Retrofit**](https://github.com/gzeinnumer/Retrofit2andRxJavaNew) & [**Kotlin**](https://github.com/gzeinnumer/Retrofit2andRxJavaNewKT).
 - [**SavedInstanceState**](https://github.com/gzeinnumer/SavedInstanceStateNoVM).
 - [**SavedInstanceState X ViewModel**](https://github.com/gzeinnumer/SavedInstanceStateExample) & [**Kotlin**](https://github.com/gzeinnumer/HopelessHubby-Final).
-- [**Save Double Value**](https://github.com/gzeinnumer/SaveDoubleValue).
+- [**Save Double Value / Count / RoundUp**](https://github.com/gzeinnumer/SaveDoubleValue).
+- [**Save Money Value / IDR / Count / RoundUp**](https://github.com/gzeinnumer/SaveMoneyValue).
 - [**SaveValueForUI**](https://github.com/gzeinnumer/SaveValueForUI).
 - [**SearchStyle**](https://github.com/gzeinnumer/SearchStyle).
 - [**ServiceSimple**](https://github.com/gzeinnumer/ServiceSimpleFixInKao).
