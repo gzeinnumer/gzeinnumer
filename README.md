@@ -123,6 +123,7 @@
 - [**RecyclerView EmptyState**](https://github.com/gzeinnumer/RecycerViewEmptyState).
 - [**RecyclerView Infinite Cache**](https://github.com/gzeinnumer/RecyclerViewInfiniteCache).
 - [**RecyclerView Pagination**](https://github.com/gzeinnumer/RecyclerViewPagination).
+- [**RecyclerView Pagination Style V2**](https://github.com/gzeinnumer/MyPagingStyleV2).
 - [**RecyclerView Search Multi Item**](https://github.com/gzeinnumer/RecyclerViewSearchMultiItem).
 - [**RecyclerView Staggered**](https://github.com/gzeinnumer/RecyclerviewStaggered).
 - [**RecyclerView TableView**](https://github.com/gzeinnumer/TableViewRecyclerView).
