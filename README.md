@@ -20,6 +20,7 @@
 [**My Base Laravel API**](https://github.com/gzeinnumer/mybase_laravel_api) &
 [**Terminal**](https://github.com/gzeinnumer/terminal) &
 [**My Code Generator**](https://github.com/gzeinnumer/my_code_generator).
+[**My Code Generator V2**](https://github.com/gzeinnumer/my_code_generator_v2).
 
 #
 ### **Common Setting**
@@ -77,6 +78,7 @@
 - [**Firebase Remote Config**](https://github.com/gzeinnumer/FirebaseRemoteConfigForAppUpdatesCheckJava) & [**Kotlin**](https://github.com/gzeinnumer/FirebaseRemoteConfigForAppUpdatesCheckKt).
 - [**Force Close**](https://github.com/gzeinnumer/ForceClose).
 - [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
+- [**Fragment Option Menu**](https://github.com/gzeinnumer/FragmentOptionMenu).
 - [**FullScreen**](https://github.com/gzeinnumer/FullScreen) & [**Very FullScreen**](https://github.com/gzeinnumer/VeryFullScreen).
 - [**gradle For Library**](https://github.com/gzeinnumer/EasyOptionMenu/tree/gradle).
 - [**HashMap**](https://github.com/gzeinnumer/HashMapExample) & [**Kotlin**](https://github.com/gzeinnumer/HashMapkt).
@@ -118,11 +120,13 @@
 - [**RecyclerView Animation**](https://github.com/gzeinnumer/RecyclerViewAnimation).
 - [**RecyclerView Best Margin**](https://github.com/gzeinnumer/RecyclerViewBestMargin).
 - [**RecyclerView Button ShowMore**](https://github.com/gzeinnumer/RecyclerViewButtonShowMore).
+- [**RecyclerView Checkbox**](https://github.com/gzeinnumer/RecyclerViewCheckbox).
 - [**RecyclerView Count All Value**](https://github.com/gzeinnumer/RecyclerviewCountAllValue).
 - [**RecyclerView Diffutils**](https://github.com/gzeinnumer/RecyclerViewDiffutils).
 - [**RecyclerView EmptyState**](https://github.com/gzeinnumer/RecycerViewEmptyState).
 - [**RecyclerView Infinite Cache**](https://github.com/gzeinnumer/RecyclerViewInfiniteCache).
 - [**RecyclerView Pagination**](https://github.com/gzeinnumer/RecyclerViewPagination).
+- [**RecyclerView Pagination Style**](https://github.com/gzeinnumer/MyPagingStyle).
 - [**RecyclerView Pagination Style V2**](https://github.com/gzeinnumer/MyPagingStyleV2).
 - [**RecyclerView Search Multi Item**](https://github.com/gzeinnumer/RecyclerViewSearchMultiItem).
 - [**RecyclerView Staggered**](https://github.com/gzeinnumer/RecyclerviewStaggered).
@@ -235,10 +239,11 @@
 - [**Database Online**](https://github.com/gzeinnumer/db_onlline)
 - [**Laravel Login Register**](https://github.com/gzeinnumer/laravel_login_register_v2)
 - [**Laravel Login Register(Recomended)**](https://github.com/gzeinnumer/laravel_login_register_v3)
-- [**PHP Convert Json Object**](https://github.com/gzeinnumer/phpconvert)
 - [**Laravel Easy CRUD 1 Page**](https://github.com/gzeinnumer/laravel_easy_crud_1_page)
 - [**Laravel Easy CRUD Modal Dashboard**](https://github.com/gzeinnumer/easy_laravel_web_modal)
 - [**Laravel Struktur Master**](https://github.com/gzeinnumer/laravel_template_structur)
+- [**Laravel Form Photo**](https://github.com/gzeinnumer/laravel_form_photo)
+- [**JS Add Generating HTML With Button**](https://github.com/gzeinnumer/js_add_generating_html_with_button)
 
 #
 ### API
@@ -260,6 +265,24 @@
 - [Tableview](https://github.com/gzeinnumer/sql_tableview)
 - [SD_SO_MAIN](https://github.com/gzeinnumer/sd_so_main)
 - [Trigger Table](https://github.com/gzeinnumer/trigger_table)
+
+#
+#### Node JS
+
+- [NodeJs-Express-Validator-Tut](https://github.com/gzeinnumer/NodeJs-Express-Validator-Tut)
+- [express_js_form_simple](https://github.com/gzeinnumer/express_js_form_simple)
+- [express_js_mysql](https://github.com/gzeinnumer/express_js_mysql)
+- [express_js_session](https://github.com/gzeinnumer/express_js_session)
+- [express-manual-install](https://github.com/gzeinnumer/express-manual-install)
+- []()
+
+#
+#### PHP
+
+- [**PHP Convert Json Object**](https://github.com/gzeinnumer/phpconvert)
+- [**PHP Generate File**](https://github.com/gzeinnumer/php_generate_file)
+- []()
+- []()
 
 #
 ### Flutter
