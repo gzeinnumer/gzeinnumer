@@ -27,8 +27,10 @@
 
 - [**AdapterOnClick**](https://github.com/gzeinnumer/AdapterOnClickListener) & [**Kotlin**](https://github.com/gzeinnumer/RecyclerView_kt).
 - [**Address Detail**](https://github.com/gzeinnumer/GetAddressDetail).
+- [**Activity OptionMenu**](https://github.com/gzeinnumer/OptionMenuOnActivity).
 - [**AlarmManager & WorkManager**](https://github.com/gzeinnumer/AlarmManagerFixInKao).
 - [**AlarmManager & WorkManager & Notification**](https://github.com/gzeinnumer/AlarmManagerWorkManagerAndNotification).
+- [**Alert Dialog Example**](https://github.com/gzeinnumer/AlertDialogExample).
 - [**Alert Enable Fitur**](https://github.com/gzeinnumer/AlertEnableFitur).
 - [**Android Signature Capture**](https://github.com/gzeinnumer/AndroidSignatureCapture). **[NoReadMe]**
 - [**Animation Smooth Delay /Empty State Retry Button**](https://github.com/gzeinnumer/AnimationSmoothDelay). **[NoReadMe]**
@@ -102,6 +104,7 @@
 - [**MultiDex**](https://github.com/gzeinnumer/MultiDexExample).
 - [**Multi Permission**](https://github.com/gzeinnumer/MultiPermition2). Android 9 (SDK >= 28).
 - [**Multi Permission Dexter**](https://github.com/gzeinnumer/GetPermission). Dexter(Recomended).
+- [**Multi Permission Dexter File Path**](https://github.com/gzeinnumer/GetPermissionV3). After **Multi Permission Dexter**.
 - [**Notification Count Icon**](https://github.com/gzeinnumer/NotificationCount).
 - [**Notification Oreo**](https://github.com/gzeinnumer/OreoNotification).
 - [**NavigationComponentkt**](https://github.com/gzeinnumer/NavigationComponentkt).
@@ -117,6 +120,7 @@
 - [**Prefix Suffix View**](https://github.com/gzeinnumer/PrefixSuffixView).
 - [**PopupMenu**](https://github.com/gzeinnumer/PopupMenu).
 - RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
+- [**Radio Group Example**](https://github.com/gzeinnumer/radiogroupexample).
 - [**RecyclerView Animation**](https://github.com/gzeinnumer/RecyclerViewAnimation).
 - [**RecyclerView Best Margin**](https://github.com/gzeinnumer/RecyclerViewBestMargin).
 - [**RecyclerView Button ShowMore**](https://github.com/gzeinnumer/RecyclerViewButtonShowMore).
@@ -163,6 +167,7 @@
 - [**TextInputLayout Mandatory V2**](https://github.com/gzeinnumer/MandatoryTextInputLayoutV2).
 - [**TextInput Layout Style**](https://github.com/gzeinnumer/TextInputLayoutStyle).
 - [**TextView Copy**](https://github.com/gzeinnumer/CopyTextView).
+- [**TextView Dynamic**](https://github.com/gzeinnumer/DynamicTextView).
 - [**TextView Shadow**](https://github.com/gzeinnumer/TextViewShadow).
 - [**TextView Shape Background**](https://github.com/gzeinnumer/TextViewShapeBackground).
 - [**TextView TypeWriter**](https://github.com/gzeinnumer/TextViewTypeWriter).
@@ -244,6 +249,7 @@
 - [**Laravel Struktur Master**](https://github.com/gzeinnumer/laravel_template_structur)
 - [**Laravel Form Photo**](https://github.com/gzeinnumer/laravel_form_photo)
 - [**JS Add Generating HTML With Button**](https://github.com/gzeinnumer/js_add_generating_html_with_button)
+- [**Web Charts**](https://www.chartjs.org/docs/latest/charts/bar.html)
 
 #
 ### API
