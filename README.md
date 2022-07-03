@@ -55,7 +55,7 @@
 - [**CountDown**](https://github.com/gzeinnumer/CountDown).
 - [**Current Location**](https://github.com/gzeinnumer/CurrentLocation) 3 Button, Interval. **[NoReadMe]**
 - [**Current Location One Hit**](https://github.com/gzeinnumer/CuurentLocationOneHit) Interval/OneHit.
-- [**Current Location RealTime With Notification**](https://github.com/gzeinnumer/RealTimeLocation).
+- [**Current Location RealTime With Notification Indicator**](https://github.com/gzeinnumer/RealTimeLocation).
 - [**Current Location Simple**](https://github.com/gzeinnumer/CurrentLocationSimple) 3 Button, Interval.
 - [**CustomView LinearLayout**](https://github.com/gzeinnumer/linearlayoutcustomview).
 - [**Dotted Dashed Line**](https://github.com/gzeinnumer/DottedDashedLine).
@@ -103,6 +103,7 @@
 - [**Looping**](https://github.com/gzeinnumer/ArrayListExampleKT#looping).
 - [**MultiDex**](https://github.com/gzeinnumer/MultiDexExample).
 - [**Multi Permission**](https://github.com/gzeinnumer/MultiPermition2). Android 9 (SDK >= 28).
+- [**Multi Permission**](https://github.com/gzeinnumer/GetPermissionV2). Error.
 - [**Multi Permission Dexter**](https://github.com/gzeinnumer/GetPermission). Dexter(Recomended).
 - [**Multi Permission Dexter File Path**](https://github.com/gzeinnumer/GetPermissionV3). After **Multi Permission Dexter**.
 - [**Notification Count Icon**](https://github.com/gzeinnumer/NotificationCount).
@@ -145,6 +146,7 @@
 - [**SavedInstanceState**](https://github.com/gzeinnumer/SavedInstanceStateNoVM).
 - [**SavedInstanceState X ViewModel**](https://github.com/gzeinnumer/SavedInstanceStateExample) & [**Kotlin**](https://github.com/gzeinnumer/HopelessHubby-Final).
 - [**Save Double Value / Count / RoundUp**](https://github.com/gzeinnumer/SaveDoubleValue).
+- [**Save Double Value V2**](https://github.com/gzeinnumer/SaveDoubleValue).
 - [**Save Money Value / IDR / Count / RoundUp**](https://github.com/gzeinnumer/SaveMoneyValue).
 - [**SaveValueForUI**](https://github.com/gzeinnumer/SaveValueForUI).
 - [**SearchStyle**](https://github.com/gzeinnumer/SearchStyle).
@@ -168,6 +170,7 @@
 - [**TextInput Layout Style**](https://github.com/gzeinnumer/TextInputLayoutStyle).
 - [**TextView Copy**](https://github.com/gzeinnumer/CopyTextView).
 - [**TextView Dynamic**](https://github.com/gzeinnumer/DynamicTextView).
+- [**TextView Max Width**](https://github.com/gzeinnumer/TextViewMaxWidth).
 - [**TextView Shadow**](https://github.com/gzeinnumer/TextViewShadow).
 - [**TextView Shape Background**](https://github.com/gzeinnumer/TextViewShapeBackground).
 - [**TextView TypeWriter**](https://github.com/gzeinnumer/TextViewTypeWriter).
@@ -249,6 +252,7 @@
 - [**Laravel Easy CRUD Modal Dashboard**](https://github.com/gzeinnumer/easy_laravel_web_modal)
 - [**Laravel Struktur Master**](https://github.com/gzeinnumer/laravel_template_structur)
 - [**Laravel Form Photo**](https://github.com/gzeinnumer/laravel_form_photo)
+- [**Laravel EXPORT EXCEL**](https://github.com/gzeinnumer/laravel_export_excel_html)
 - [**JS Add Generating HTML With Button**](https://github.com/gzeinnumer/js_add_generating_html_with_button)
 - [**Web Charts**](https://www.chartjs.org/docs/latest/charts/bar.html)
 
