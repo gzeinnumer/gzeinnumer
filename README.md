@@ -255,6 +255,7 @@
 - [**Laravel EXPORT EXCEL**](https://github.com/gzeinnumer/laravel_export_excel_html)
 - [**JS Add Generating HTML With Button**](https://github.com/gzeinnumer/js_add_generating_html_with_button)
 - [**Web Charts**](https://www.chartjs.org/docs/latest/charts/bar.html)
+- [**Laravel Import CSV**](https://github.com/gzeinnumer/laravel_import_csv)
 
 #
 ### API
@@ -298,6 +299,7 @@
 #
 ### Flutter
 
+- [Install SDK](https://www.youtube.com/watch?v=YVaFoCiQ2SI&ab_channel=MJSDCoding)
 - [MyBaseFlutter](https://github.com/gzeinnumer/mybase_flutter)
 - [Flutter Ecommerce V1](https://github.com/gzeinnumer/flutter_ecommerce_v1)
 - [Route](https://github.com/gzeinnumer/flutter_route)
