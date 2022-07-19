@@ -47,6 +47,7 @@
 - [**CardView Stroke**](https://github.com/gzeinnumer/CardViewStroke).
 - [**Check Internet**](https://github.com/gzeinnumer/CheckInternet) & [**Kotlin**](https://github.com/gzeinnumer/CheckInternetKT).
 - [**Check Storage**](https://github.com/gzeinnumer/CheckStorageAndroid).
+- [**Check Time AutoActive**](https://github.com/gzeinnumer/CheckTimeAutoActive).
 - [**Class Convert**](https://github.com/gzeinnumer/JavaClassConvert).
 - [**Clear Text Traffic Error**](https://github.com/gzeinnumer/CleartextTrafficError).
 - [**Coroutines**](https://github.com/gzeinnumer/CoroutinesExample) Kotlin only.
@@ -256,6 +257,9 @@
 - [**JS Add Generating HTML With Button**](https://github.com/gzeinnumer/js_add_generating_html_with_button)
 - [**Web Charts**](https://www.chartjs.org/docs/latest/charts/bar.html)
 - [**Laravel Import CSV**](https://github.com/gzeinnumer/laravel_import_csv)
+- [**PHP String Uppercase Lowercase Underline**](https://github.com/gzeinnumer/string_php)
+- [**HTML Pre Code CSS /  Entity**](https://github.com/gzeinnumer/html_copy_code_to_clipboard)
+- [**HTML Copy Text**](https://github.com/gzeinnumer/html_copy_text)
 
 #
 ### API
