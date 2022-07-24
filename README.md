@@ -1,6 +1,6 @@
 ### **Architecture**
 
-[**Dagger 2 Modular**](https://github.com/gzeinnumer/MyModularDagger2Example).
+[**Dagger 2 Modular**](/MyModularDagger2Example).
 
 | base                                                                                                                                                                        | data                                                                                                                                                    | di                                                                                                                                                                                                           | ui                                                                                                                                     | utils                                                                                                                    |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|
@@ -32,15 +32,15 @@
 - [**AlarmManager & WorkManager & Notification**](https://github.com/gzeinnumer/AlarmManagerWorkManagerAndNotification).
 - [**Alert Dialog Example**](https://github.com/gzeinnumer/AlertDialogExample).
 - [**Alert Enable Fitur**](https://github.com/gzeinnumer/AlertEnableFitur).
-- [**Android Signature Capture**](https://github.com/gzeinnumer/AndroidSignatureCapture). **[NoReadMe]**
-- [**Animation Smooth Delay /Empty State Retry Button**](https://github.com/gzeinnumer/AnimationSmoothDelay). **[NoReadMe]**
+- [**Android Signature Capture**](https://github.com/gzeinnumer/AndroidSignatureCapture). [**NoReadMe**]
+- [**Animation Smooth Delay /Empty State Retry Button**](https://github.com/gzeinnumer/AnimationSmoothDelay). [**NoReadMe**]
 - [**ArrayList**](https://github.com/gzeinnumer/ArrayListExampleKT) Kotlin only.
 - [**AutoCompleteTextView Remove Dropdown Arrow**](https://github.com/gzeinnumer/AutoCompleteTextViewRemovedropdownarrow).
 - [**BackgroundPNG**](https://github.com/gzeinnumer/BackgroundPNG). City Style BackgroundPNG.
 - [**BatteryHistorianDockerLive**](https://github.com/gzeinnumer/BatteryHistorianDockerLive).
 - [**BindingTest Include**](https://github.com/gzeinnumer/BindingTestInclude) ViewStub With Binding / Include `layout` Programatically.
 - [**ButtonStyle**](https://github.com/gzeinnumer/ButtonStyle).
-- [**Button Loading**](https://github.com/gzeinnumer/ButtonDelayed). **[NoReadMe]**
+- [**Button Loading**](https://github.com/gzeinnumer/ButtonDelayed). [**NoReadMe**]
 - [**BottomSheetJava**](https://github.com/gzeinnumer/BottomSheetJava).
 - [**Bundle**](https://github.com/gzeinnumer/Bundle).
 - [**BottomSheetDialogFragmentJava**](https://github.com/gzeinnumer/BottomSheetDialogFragmentJava).
@@ -54,7 +54,7 @@
 - [**Coroutines Retrofit**](https://github.com/gzeinnumer/CoroutinesRetrofitExample) Kotlin only With Todo.
 - [**Count Int OverPower / IDR / Count / RoundUp**](https://github.com/gzeinnumer/CountIntOverPower).
 - [**CountDown**](https://github.com/gzeinnumer/CountDown).
-- [**Current Location**](https://github.com/gzeinnumer/CurrentLocation) 3 Button, Interval. **[NoReadMe]**
+- [**Current Location**](https://github.com/gzeinnumer/CurrentLocation) 3 Button, Interval. [**NoReadMe**]
 - [**Current Location One Hit**](https://github.com/gzeinnumer/CuurentLocationOneHit) Interval/OneHit.
 - [**Current Location RealTime With Notification Indicator**](https://github.com/gzeinnumer/RealTimeLocation).
 - [**Current Location Simple**](https://github.com/gzeinnumer/CurrentLocationSimple) 3 Button, Interval.
@@ -78,7 +78,7 @@
 - [**ExpandedView**](https://github.com/gzeinnumer/ExpandedView).
 - [**File Picker Example**](https://github.com/gzeinnumer/FilePickerExample).
 - [**Firebase FCM**](https://github.com/gzeinnumer/FirebaseFCMDSR).
-- [**Firebase FCM V2**](https://github.com/gzeinnumer/AndroidFCMV2) Simple. **[NoReadMe]**
+- [**Firebase FCM V2**](https://github.com/gzeinnumer/AndroidFCMV2) Simple. [**NoReadMe**]
 - [**Firebase Remote Config**](https://github.com/gzeinnumer/FirebaseRemoteConfigForAppUpdatesCheckJava) & [**Kotlin**](https://github.com/gzeinnumer/FirebaseRemoteConfigForAppUpdatesCheckKt).
 - [**Force Close**](https://github.com/gzeinnumer/ForceClose).
 - [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
@@ -88,7 +88,7 @@
 - [**HashMap**](https://github.com/gzeinnumer/HashMapExample) & [**Kotlin**](https://github.com/gzeinnumer/HashMapkt).
 - [**HashMap X Gson**](https://github.com/gzeinnumer/HashMapXGson).
 - [**Image Slider**](https://github.com/gzeinnumer/ImageSlider).
-- [**Image Slider V2**](https://github.com/gzeinnumer/SliderV2) Recomended. **[NoReadMe]**
+- [**Image Slider V2**](https://github.com/gzeinnumer/SliderV2) Recomended. [**NoReadMe**]
 - [**Image Single**](https://github.com/gzeinnumer/TakeImageSingle).
 - [**Image Dynamic**](https://github.com/gzeinnumer/RecyclerViewImageDynamic).
 - [**ImageView Shapeable**](https://medium.com/android-beginners/shapeableimageview-material-components-for-android-cac6edac2c0d).
@@ -115,8 +115,8 @@
 - [**OTP View**](https://github.com/gzeinnumer/OTPView).
 - [**Pagination Manual Java**](https://github.com/gzeinnumer/PaginationManualJava).
 - [**ParceLable**](https://github.com/gzeinnumer/ParceLable).
-- [**PDF From XML MultiData**](https://github.com/gzeinnumer/ExternalPDFFromXMLMultiData). **[NoReadMe]**
-- [**PDF From XML SingleData**](https://github.com/gzeinnumer/ExternalPDFFromXMLSingleData). **[NoReadMe]**
+- [**PDF From XML MultiData**](https://github.com/gzeinnumer/ExternalPDFFromXMLMultiData). [**NoReadMe**]
+- [**PDF From XML SingleData**](https://github.com/gzeinnumer/ExternalPDFFromXMLSingleData). [**NoReadMe**]
 - [**Peek Database**](https://github.com/gzeinnumer/PeekDatabase).
 - [**PhotoPicker Camera Galery**](https://github.com/gzeinnumer/PhotoPickerCameraGalery).
 - [**Prefix Suffix View**](https://github.com/gzeinnumer/PrefixSuffixView).
@@ -163,7 +163,7 @@
 - [**StartActivity For Result**](https://github.com/gzeinnumer/StartActivityForResult).
 - [**Suggestion Search**](https://github.com/gzeinnumer/SuggestionSearch).
 - [**SwipeRefreshLayout**](https://github.com/gzeinnumer/SwipeRefreshLayoutExample).
-- [**TabLayout ChipStyle V0**](https://github.com/gzeinnumer/TabLayoutChipsStyle) multi branch. **[NoReadMe]**
+- [**TabLayout ChipStyle V0**](https://github.com/gzeinnumer/TabLayoutChipsStyle) multi branch. [**NoReadMe**]
 - [**TabLayout ChipStyle V1**](https://github.com/gzeinnumer/TabLayoutChipStyleV1).
 - [**TabLayout ChipStyle V2**](https://github.com/gzeinnumer/TabLayoutChipStyleV2).
 - [**TextInputLayout Mandatory**](https://github.com/gzeinnumer/MandatoryTextInputLayout).
@@ -231,7 +231,7 @@
 - [**Convert Image Assets**](https://nsimage.brosteins.com)
 - [**Generate a Java Class from a Database Table**](https://codverter.com/blog/articles/tutorials/20190715-create-class-from-database-table.html)
 - [**Install On Air**](https://www.installonair.com/)
-- [**Web Template**](https://templatemo.com/tag/landing-page) [Downloaded](https://github.com/gzeinnumer/web-template)
+- [**Web Template**](https://templatemo.com/tag/landing-page) [**Downloaded**](https://github.com/gzeinnumer/web-template)
 - [**FlutterDesign**](https://pub.dev/packages/getwidget)
 
 #
@@ -239,10 +239,10 @@
 
 - [**Laravel CRUD Mahasiswa**](https://github.com/gzeinnumer/laravel_crud)
 - [**CI3 CRUD No Bootstrap**](https://github.com/gzeinnumer/simple-crud-codeigniter)
-- [**CI3 Bootstrap Design Dashboard**](https://github.com/gzeinnumer/bootstrap-4-codeigniter) or [V2](https://github.com/gzeinnumer/ci3-dasboard)
+- [**CI3 Bootstrap Design Dashboard**](https://github.com/gzeinnumer/bootstrap-4-codeigniter) or [**V2**](https://github.com/gzeinnumer/ci3-dasboard)
 - [**CI4 CRUD Simple No Dashboard**](https://github.com/gzeinnumer/ci4_codeigniter4_crud_simple)
 - [**Laravel BaseController**](https://github.com/gzeinnumer/base-controller)
-- [**VueJS Lumen & Cors**](https://github.com/gzeinnumer/MyVueXLumenTemplate) **[NoReadMe]**
+- [**VueJS Lumen & Cors**](https://github.com/gzeinnumer/MyVueXLumenTemplate) [**NoReadMe**]
 - [**CI4 CRUD Simple Bootstrap**](https://github.com/gzeinnumer/ci4_simple)
 - [**CI3 CRUD Simple Bootstrap**](https://github.com/gzeinnumer/ci3)
 - [**CI4 Login Register**](https://github.com/gzeinnumer/ci4_login_register)
@@ -260,6 +260,7 @@
 - [**PHP String Uppercase Lowercase Underline**](https://github.com/gzeinnumer/string_php)
 - [**HTML Pre Code CSS /  Entity**](https://github.com/gzeinnumer/html_copy_code_to_clipboard)
 - [**HTML Copy Text**](https://github.com/gzeinnumer/html_copy_text)
+- [**Laravel Create Zip Download**](https://github.com/gzeinnumer/laravel_create_zip_download)
 
 #
 ### API
@@ -267,8 +268,8 @@
 - [**Laravel CRUD Data**](https://github.com/gzeinnumer/simple-crud-laravel-json)
 - [**CI3 CRUD Data**](https://github.com/gzeinnumer/simple-crud-codeigniter-json)
 - [**CI4 CRUD Data**](https://github.com/gzeinnumer/ci4_codeigniter4_api)
-- [**Lumen CRUD Data**](https://github.com/gzeinnumer/MyLumentTemplate) **[NoReadMe]**
-- [**Laravel Basicauth**](https://github.com/gzeinnumer/laravel_basicauth) **[NoReadMe]**
+- [**Lumen CRUD Data**](https://github.com/gzeinnumer/MyLumentTemplate) [**NoReadMe**]
+- [**Laravel Basicauth**](https://github.com/gzeinnumer/laravel_basicauth) [**NoReadMe**]
 - [**Laravel Passport**](https://github.com/gzeinnumer/laravel_passport)
 - [**Laravel LogApi**](https://github.com/gzeinnumer/laravel-logapi)
 - [**Laravel Photo Base64 Upload**](https://github.com/gzeinnumer/laravel-api-upload-photo-bas64)
@@ -277,55 +278,55 @@
 #
 ### QUERY
 
-- [Basic](https://github.com/gzeinnumer/sql_query)
-- [Tableview](https://github.com/gzeinnumer/sql_tableview)
-- [SD_SO_MAIN](https://github.com/gzeinnumer/sd_so_main)
-- [Trigger Table](https://github.com/gzeinnumer/trigger_table)
+- [**Basic**](https://github.com/gzeinnumer/sql_query)
+- [**Tableview**](https://github.com/gzeinnumer/sql_tableview)
+- [**SD_SO_MAIN**](https://github.com/gzeinnumer/sd_so_main)
+- [**Trigger Table**](https://github.com/gzeinnumer/trigger_table)
 
 #
 #### Node JS
 
-- [NodeJs-Express-Validator-Tut](https://github.com/gzeinnumer/NodeJs-Express-Validator-Tut)
-- [express_js_form_simple](https://github.com/gzeinnumer/express_js_form_simple)
-- [express_js_mysql](https://github.com/gzeinnumer/express_js_mysql)
-- [express_js_session](https://github.com/gzeinnumer/express_js_session)
-- [express-manual-install](https://github.com/gzeinnumer/express-manual-install)
-- []()
+- [**NodeJs-Express-Validator-Tut**](https://github.com/gzeinnumer/NodeJs-Express-Validator-Tut)
+- [**express_js_form_simple**](https://github.com/gzeinnumer/express_js_form_simple)
+- [**express_js_mysql**](https://github.com/gzeinnumer/express_js_mysql)
+- [**express_js_session**](https://github.com/gzeinnumer/express_js_session)
+- [**express-manual-install**](https://github.com/gzeinnumer/express-manual-install)
+- [****]()
 
 #
 #### PHP
 
 - [**PHP Convert Json Object**](https://github.com/gzeinnumer/phpconvert)
 - [**PHP Generate File**](https://github.com/gzeinnumer/php_generate_file)
-- []()
-- []()
+- [**PHP Color Range**](https://github.com/gzeinnumer/php_color_range)
+- [****]()
 
 #
 ### Flutter
 
-- [Install SDK](https://www.youtube.com/watch?v=YVaFoCiQ2SI&ab_channel=MJSDCoding)
-- [MyBaseFlutter](https://github.com/gzeinnumer/mybase_flutter)
-- [Flutter Ecommerce V1](https://github.com/gzeinnumer/flutter_ecommerce_v1)
-- [Route](https://github.com/gzeinnumer/flutter_route)
-- [Bottom NavigationBar](https://github.com/gzeinnumer/flutter_bottomnavigationbar)
-- [ScrollView](https://github.com/gzeinnumer/flutter_scrollview)
-- [Theme](https://github.com/gzeinnumer/flutter_theme)
-- [Flutter Bloc NullSafety Dio](https://github.com/gzeinnumer/flutter_bloc_v1/tree/nullsafety)
-- [Splashscreen](https://github.com/gzeinnumer/flutter_splashscreen)
-- [JSON File](https://github.com/gzeinnumer/flutter_json_file)
-- [LinearLayout](https://proandroiddev.com/flutter-for-android-developers-how-to-design-linearlayout-in-flutter-5d819c0ddf1a)
-- [ElevatedButton](https://www.kindacode.com/article/working-with-elevatedbutton-in-flutter/)
-- [Flutter Layouting](https://github.com/gzeinnumer/flutter_layouting_v1)
-- [Flutter Dialog](https://github.com/gzeinnumer/flutter_dialog)
-- [Flutter Listview](https://medium.com/nusanet/flutter-listview-7de1759b4fb1)
+- [**Install SDK**](https://www.youtube.com/watch?v=YVaFoCiQ2SI&ab_channel=MJSDCoding)
+- [**MyBaseFlutter**](https://github.com/gzeinnumer/mybase_flutter)
+- [**Flutter Ecommerce V1**](https://github.com/gzeinnumer/flutter_ecommerce_v1)
+- [**Route**](https://github.com/gzeinnumer/flutter_route)
+- [**Bottom NavigationBar**](https://github.com/gzeinnumer/flutter_bottomnavigationbar)
+- [**ScrollView**](https://github.com/gzeinnumer/flutter_scrollview)
+- [**Theme**](https://github.com/gzeinnumer/flutter_theme)
+- [**Flutter Bloc NullSafety Dio**](https://github.com/gzeinnumer/flutter_bloc_v1/tree/nullsafety)
+- [**Splashscreen**](https://github.com/gzeinnumer/flutter_splashscreen)
+- [**JSON File**](https://github.com/gzeinnumer/flutter_json_file)
+- [**LinearLayout**](https://proandroiddev.com/flutter-for-android-developers-how-to-design-linearlayout-in-flutter-5d819c0ddf1a)
+- [**ElevatedButton**](https://www.kindacode.com/article/working-with-elevatedbutton-in-flutter/)
+- [**Flutter Layouting**](https://github.com/gzeinnumer/flutter_layouting_v1)
+- [**Flutter Dialog**](https://github.com/gzeinnumer/flutter_dialog)
+- [**Flutter Listview**](https://medium.com/nusanet/flutter-listview-7de1759b4fb1)
 - `soon`
 
 #
 ### SwiftUI
-- [FormSwiftUI](https://github.com/gzeinnumer/FormSwiftUI) **[NoReadMe]**
-- [SwiftRandomPhoto](https://github.com/gzeinnumer/SwiftRandomPhoto) **[NoReadMe]**
-- [SwiftUITutorialV1](https://github.com/gzeinnumer/SwiftUITutorialV1) **[NoReadMe]**
+- [**FormSwiftUI**](https://github.com/gzeinnumer/FormSwiftUI) [**NoReadMe**]
+- [**SwiftRandomPhoto**](https://github.com/gzeinnumer/SwiftRandomPhoto) [**NoReadMe**]
+- [**SwiftUITutorialV1**](https://github.com/gzeinnumer/SwiftUITutorialV1) [**NoReadMe**]
 
 #
 ### Spesial Style
-- [Gofo Spesial Style](https://github.com/gzeinnumer/GofoSpesialStyle)
+- [**Gofo Spesial Style**](https://github.com/gzeinnumer/GofoSpesialStyle)
