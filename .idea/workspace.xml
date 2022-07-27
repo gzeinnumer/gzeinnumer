@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9eb7da23-a6a6-4ce6-be0e-ab3d6328b83c" name="Default Changelist" comment="README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,27 +59,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611057444528</updated>
-    </task>
-    <task id="LOCAL-00122" summary="README.md">
-      <created>1635169584669</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1635169584669</updated>
-    </task>
-    <task id="LOCAL-00123" summary="README.md">
-      <created>1635317057218</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1635317057219</updated>
-    </task>
-    <task id="LOCAL-00124" summary="README.md">
-      <created>1635673985942</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1635673985942</updated>
     </task>
     <task id="LOCAL-00125" summary="README.md">
       <created>1635681500011</created>
@@ -404,7 +382,28 @@
       <option name="project" value="LOCAL" />
       <updated>1658203638220</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="README.md">
+      <created>1658691388831</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1658691388832</updated>
+    </task>
+    <task id="LOCAL-00172" summary="README.md">
+      <created>1658691420586</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1658691420586</updated>
+    </task>
+    <task id="LOCAL-00173" summary="README.md">
+      <created>1658691458063</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1658691458063</updated>
+    </task>
+    <option name="localTasksCounter" value="174" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,8 +423,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="readm" />
     <MESSAGE value="commit" />
-    <MESSAGE value="README.md" />
     <MESSAGE value="read" />
-    <option name="LAST_COMMIT_MESSAGE" value="read" />
+    <MESSAGE value="README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
   </component>
 </project>
