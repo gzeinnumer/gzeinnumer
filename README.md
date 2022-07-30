@@ -261,6 +261,7 @@
 - [**HTML Pre Code CSS /  Entity**](https://github.com/gzeinnumer/html_copy_code_to_clipboard)
 - [**HTML Copy Text**](https://github.com/gzeinnumer/html_copy_text)
 - [**Laravel Create Zip Download**](https://github.com/gzeinnumer/laravel_create_zip_download)
+- [Algoritma: C45, DoubleMovingAverage, LeastSquare](https://github.com/gzeinnumer/algoritma)
 
 #
 ### API
@@ -319,7 +320,9 @@
 - [**Flutter Layouting**](https://github.com/gzeinnumer/flutter_layouting_v1)
 - [**Flutter Dialog**](https://github.com/gzeinnumer/flutter_dialog)
 - [**Flutter Listview**](https://medium.com/nusanet/flutter-listview-7de1759b4fb1)
-- `soon`
+- Season 2
+- []()
+
 
 #
 ### SwiftUI
