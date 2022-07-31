@@ -21,7 +21,7 @@
 [**My Base Code KT**](https://github.com/gzeinnumer/MyBaseCodeKT) &
 [**My Base Laravel API**](https://github.com/gzeinnumer/mybase_laravel_api) &
 [**Terminal**](https://github.com/gzeinnumer/terminal) &
-[**My Code Generator**](https://github.com/gzeinnumer/my_code_generator).
+[**My Code Generator**](https://github.com/gzeinnumer/my_code_generator) &
 [**My Code Generator V2**](https://github.com/gzeinnumer/my_code_generator_v2).
 
 #
