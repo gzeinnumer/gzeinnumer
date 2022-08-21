@@ -51,6 +51,7 @@
 - [**Check Storage**](https://github.com/gzeinnumer/CheckStorageAndroid).
 - [**Check Time AutoActive**](https://github.com/gzeinnumer/CheckTimeAutoActive).
 - [**Class Convert**](https://github.com/gzeinnumer/JavaClassConvert).
+- [**Class Converter Java**](https://github.com/gzeinnumer/ClassConverterJava).
 - [**Clear Text Traffic Error**](https://github.com/gzeinnumer/CleartextTrafficError).
 - [**Coroutines**](https://github.com/gzeinnumer/CoroutinesExample) Kotlin only.
 - [**Coroutines Retrofit**](https://github.com/gzeinnumer/CoroutinesRetrofitExample) Kotlin only With Todo.
@@ -266,6 +267,8 @@
 - [**Algoritma: C45, DoubleMovingAverage, LeastSquare**](https://github.com/gzeinnumer/algoritma)
 - [**Laravel Seeder**](https://codelapan.com/post/dependent-dropdown-laravel-8)
 - [**Pos58 Print Web JS**](https://github.com/gzeinnumer/post58print-web)
+- [**Laravel Encrypt**](https://github.com/gzeinnumer/laravel_encrypt)
+- [**Laravel Module Gen Data**](https://github.com/gzeinnumer/laravel_module_gen_data)
 
 #
 ### API
