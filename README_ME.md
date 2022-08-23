@@ -71,3 +71,6 @@ https://stackoverflow.com/questions/62407823/how-using-viewbinding-with-an-abstr
 - [my_app](https://github.com/gzeinnumer/my_app)
   - [my_app](https://myapp.gzeinnumer.com/login)
 
+---
+
+- [laravel_landing_page_v2](https://github.com/gzeinnumer/laravel_landing_page_v2)

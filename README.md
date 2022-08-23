@@ -350,8 +350,8 @@
 - [**flutter_d12_dynamic_list**](https://github.com/gzeinnumer/flutter_d12_dynamic_list)
 - [**flutter_d13_bloc_and_cubit**](https://github.com/gzeinnumer/flutter_d13_bloc_and_cubit)
 - [**flutter_d14_bloc_and_cubit**](https://github.com/gzeinnumer/flutter_d14_bloc_and_cubit)
-- [**flutter_d14_bloc_and_cubit_v2**](https://github.com/gzeinnumer/flutter_d14_bloc_and_cubit_v2)
-- [**flutter_d14_bloc_and_cubit_v3**](https://github.com/gzeinnumer/flutter_d14_bloc_and_cubit_v3)
+- [**flutter_d14_bloc_and_cubit_v2**](https://github.com/gzeinnumer/flutter_d14_bloc_and_cubit_v2) No Status.
+- [**flutter_d14_bloc_and_cubit_v3**](https://github.com/gzeinnumer/flutter_d14_bloc_and_cubit_v3) No Status.
 - [**flutter_d15_bloc_navigation**](https://github.com/gzeinnumer/flutter_d15_bloc_navigation)
 - [**flutter_d16_pokedex_app**](https://github.com/gzeinnumer/flutter_d16_pokedex_app)
 - [**flutter_d17_pokedex_app**](https://github.com/gzeinnumer/flutter_d17_pokedex_app)
@@ -367,6 +367,7 @@
 - [**flutter_navigator_simple_v3_namedroute**](https://github.com/gzeinnumer/flutter_navigator_simple_v3_namedroute)
 - [**flutter_navigator_simple_v4**](https://github.com/gzeinnumer/flutter_navigator_simple_v4)
 - [**flutter_sessions**](https://github.com/gzeinnumer/flutter_sessions)
+- [**flutter_cron**](https://github.com/gzeinnumer/flutter_cron)
 - [**zein_pub_dev_first_library**](https://github.com/gzeinnumer/zein_pub_dev_first_library) **Note Only**
 
 #
