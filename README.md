@@ -368,6 +368,12 @@
 - [**flutter_navigator_simple_v4**](https://github.com/gzeinnumer/flutter_navigator_simple_v4)
 - [**flutter_sessions**](https://github.com/gzeinnumer/flutter_sessions)
 - [**flutter_cron**](https://github.com/gzeinnumer/flutter_cron)
+- [**flutter_check_internet_one_hit**](https://github.com/gzeinnumer/flutter_check_internet)
+- [**flutter_check_internet_realtime**](https://github.com/gzeinnumer/flutter_check_internet_realtime)
+- [**flutter_style_button**](https://github.com/gzeinnumer/flutter_style_button)
+- [**php_date_convert**](https://github.com/gzeinnumer/php_date_convert)
+- [**flutter_time_periodic**](https://github.com/gzeinnumer/flutter_time_periodic)
+- [**flutter_galery_camera_photo**](https://github.com/gzeinnumer/flutter_galery)
 - [**zein_pub_dev_first_library**](https://github.com/gzeinnumer/zein_pub_dev_first_library) **Note Only**
 
 #
