@@ -374,6 +374,7 @@
 - [**php_date_convert**](https://github.com/gzeinnumer/php_date_convert)
 - [**flutter_time_periodic**](https://github.com/gzeinnumer/flutter_time_periodic)
 - [**flutter_galery_camera_photo**](https://github.com/gzeinnumer/flutter_galery)
+- [**flutter_geolocator**](https://github.com/gzeinnumer/flutter_geolocator)
 - [**zein_pub_dev_first_library**](https://github.com/gzeinnumer/zein_pub_dev_first_library) **Note Only**
 
 #
