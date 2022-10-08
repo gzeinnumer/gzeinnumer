@@ -269,6 +269,7 @@
 - [**Pos58 Print Web JS**](https://github.com/gzeinnumer/post58print-web)
 - [**Laravel Encrypt**](https://github.com/gzeinnumer/laravel_encrypt)
 - [**Laravel Module Gen Data**](https://github.com/gzeinnumer/laravel_module_gen_data)
+- [**Laravel TimeZone**](https://gist.github.com/ahmadshobirin/5e761c055b4bae2b13262ce9d58be2cb)
 
 #
 ### API
