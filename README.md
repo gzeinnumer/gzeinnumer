@@ -87,7 +87,8 @@
 - [**Fragment Commit**](https://github.com/gzeinnumer/FragmentExample).
 - [**Fragment Option Menu**](https://github.com/gzeinnumer/FragmentOptionMenu).
 - [**FullScreen**](https://github.com/gzeinnumer/FullScreen) & [**Very FullScreen**](https://github.com/gzeinnumer/VeryFullScreen).
-- [**gradle For Library**](https://github.com/gzeinnumer/EasyOptionMenu/tree/gradle).
+- [**gradle For Library Step 1**](https://github.com/gzeinnumer/EasyOptionMenu/tree/gradle).
+- [**gradle For Library Step 2**](https://github.com/gzeinnumer/PeekDatabase-V2/blob/master/README-gradle.md).
 - [**HashMap**](https://github.com/gzeinnumer/HashMapExample) & [**Kotlin**](https://github.com/gzeinnumer/HashMapkt).
 - [**HashMap X Gson**](https://github.com/gzeinnumer/HashMapXGson).
 - [**Image Slider**](https://github.com/gzeinnumer/ImageSlider).
@@ -195,6 +196,7 @@
   - [**ViewPager Simple Dots Disable Click**](https://github.com/gzeinnumer/ViewPagerNonSwipableWithDotsButDisableClick).
 - [**XML String**](https://github.com/gzeinnumer/XMLString).
 - [**WorkManager**](https://github.com/gzeinnumer/WorkManagerFix).
+- [**Weekend Detection**](https://github.com/gzeinnumer/WeekendDetection).
 - [**Yoyo Animation Simple**](https://github.com/gzeinnumer/YoyoAnimationSimple).
 
 #
@@ -217,7 +219,7 @@
 | [**ControlForm**](https://github.com/gzeinnumer/ControlForm)                                    | Easy Clear Form                                                | [**ShareErrorReportTo**](https://github.com/gzeinnumer/ShareErrorReportTo)                           | Share Error to WA                                                |
 | [**EasyOptionMenu**](https://github.com/gzeinnumer/EasyOptionMenu)                              | Easy Option Menu Multi Level                                   | [**EasyRangeSeekBar**](https://github.com/gzeinnumer/EasyRangeSeekBar)                               | Custom SeekBar                                                   |
 | [**EasyEmptyListState**](https://github.com/gzeinnumer/EasyEmptyListState)                      | Easy Empty State List                                          | [**NumberForm**](https://github.com/gzeinnumer/NumberForm)                                           | Easy NumberFrom , never let it empty.                            |
-| [**EasyButtonDelayed**](https://github.com/gzeinnumer/EasyButtonDelayed)                        | Easy Button Delayed                                            | `soon`                                                                                               |                                                                  |
+| [**EasyButtonDelayed**](https://github.com/gzeinnumer/EasyButtonDelayed)                        | Easy Button Delayed                                            | [**PeekDatabase-V2**](https://github.com/gzeinnumer/PeekDatabase-V2)                                 | Simple way to peek database                                      |
 
 #
 ### Recommendation Other Library
@@ -309,6 +311,11 @@
 - [**PHP Generate File**](https://github.com/gzeinnumer/php_generate_file)
 - [**PHP Color Range**](https://github.com/gzeinnumer/php_color_range)
 - [****]()
+
+#
+#### Node Js
+- [**Npm Arguments**](https://github.com/gzeinnumer/npm_arguments)
+- [**Npm Arguments V2**](https://github.com/gzeinnumer/npm_arguments_v2)
 
 #
 ### Flutter
