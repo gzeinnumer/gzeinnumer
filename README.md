@@ -135,6 +135,7 @@
 - [**RecyclerView Diffutils**](https://github.com/gzeinnumer/RecyclerViewDiffutils).
 - [**RecyclerView EmptyState**](https://github.com/gzeinnumer/RecycerViewEmptyState).
 - [**RecyclerView Infinite Cache**](https://github.com/gzeinnumer/RecyclerViewInfiniteCache).
+- [**RecyclerView Infinite Cache V2**](https://github.com/gzeinnumer/RecyclerViewInfiniteCacheV2).
 - [**RecyclerView Pagination**](https://github.com/gzeinnumer/RecyclerViewPagination).
 - [**RecyclerView Pagination Style**](https://github.com/gzeinnumer/MyPagingStyle).
 - [**RecyclerView Pagination Style V2**](https://github.com/gzeinnumer/MyPagingStyleV2).
@@ -164,6 +165,7 @@
 - [**Snackbar Custom**](https://github.com/gzeinnumer/SnackbarCustom).
 - [**Spannable Text Example**](https://github.com/gzeinnumer/SpannableTextExample).
 - [**SplashScreen**](https://github.com/gzeinnumer/SplashScreen).
+- [**Spinner V2**](https://github.com/gzeinnumer/SpinnerV2).
 - [**StartActivity For Result**](https://github.com/gzeinnumer/StartActivityForResult).
 - [**Suggestion Search**](https://github.com/gzeinnumer/SuggestionSearch).
 - [**SwipeRefreshLayout**](https://github.com/gzeinnumer/SwipeRefreshLayoutExample).
@@ -272,6 +274,11 @@
 - [**Laravel Encrypt**](https://github.com/gzeinnumer/laravel_encrypt)
 - [**Laravel Module Gen Data**](https://github.com/gzeinnumer/laravel_module_gen_data)
 - [**Laravel TimeZone**](https://gist.github.com/ahmadshobirin/5e761c055b4bae2b13262ce9d58be2cb)
+
+#
+
+### Mysql
+- [**Mysql Backup Restore**](https://github.com/gzeinnumer/MyReminderWeb#mysqlbackup)
 
 #
 ### API
