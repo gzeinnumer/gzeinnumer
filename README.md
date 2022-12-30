@@ -199,6 +199,7 @@
 - [**XML String**](https://github.com/gzeinnumer/XMLString).
 - [**WorkManager**](https://github.com/gzeinnumer/WorkManagerFix).
 - [**Weekend Detection**](https://github.com/gzeinnumer/WeekendDetection).
+- [**Weekend Detection V2**](https://github.com/gzeinnumer/NewMaterialDateRangePickerOnDialog).
 - [**Yoyo Animation Simple**](https://github.com/gzeinnumer/YoyoAnimationSimple).
 
 #
@@ -401,3 +402,7 @@
 #
 ### Spesial Style
 - [**Gofo Spesial Style**](https://github.com/gzeinnumer/GofoSpesialStyle)
+
+#
+### Database
+- [postgree_setup](https://github.com/gzeinnumer/postgree_setup)
