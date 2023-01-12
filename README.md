@@ -1,5 +1,6 @@
 ### **Architecture**
 
+[**README ALL**](https://github.com/gzeinnumer/gzeinnumer/blob/master/README_ALL.md).
 [**Dagger 2 Modular**](https://github.com/gzeinnumer/MyModularDagger2Example).
 
 | base                                                                                                                                                                        | data                                                                                                                                                    | di                                                                                                                                                                                                           | ui                                                                                                                                     | utils                                                                                                                    |
@@ -391,6 +392,8 @@
 - [**flutter_time_periodic**](https://github.com/gzeinnumer/flutter_time_periodic)
 - [**flutter_galery_camera_photo**](https://github.com/gzeinnumer/flutter_galery)
 - [**flutter_geolocator**](https://github.com/gzeinnumer/flutter_geolocator)
+- [**flutter_trust_location**](https://github.com/gzeinnumer/trust_location)
+- [**flutter_fcm_v3**](https://github.com/gzeinnumer/flutter_fcm_v3)
 - [**zein_pub_dev_first_library**](https://github.com/gzeinnumer/zein_pub_dev_first_library) **Note Only**
 
 #
