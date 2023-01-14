@@ -394,6 +394,8 @@
 - [**flutter_geolocator**](https://github.com/gzeinnumer/flutter_geolocator)
 - [**flutter_trust_location**](https://github.com/gzeinnumer/trust_location)
 - [**flutter_fcm_v3**](https://github.com/gzeinnumer/flutter_fcm_v3)
+- [**flutter_alert_dialog_callback**](https://github.com/gzeinnumer/flutter_alert_dialog_callback)
+- [**flutter_syncfusion_flutter_datepicker_v2**](https://github.com/gzeinnumer/flutter_syncfusion_flutter_datepicker_v2)
 - [**zein_pub_dev_first_library**](https://github.com/gzeinnumer/zein_pub_dev_first_library) **Note Only**
 
 #
@@ -409,3 +411,7 @@
 #
 ### Database
 - [postgree_setup](https://github.com/gzeinnumer/postgree_setup)
+
+#
+### FREE API
+- [github_repos](https://github.com/gzeinnumer/github_repos)
