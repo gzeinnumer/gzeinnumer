@@ -424,7 +424,7 @@
 #
 ### Example
 <details>
-    <summary>Click me</summary>
+    <summary style="background: #000000">Click me</summary>
 
   ### Heading
   1. Foo
