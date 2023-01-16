@@ -202,6 +202,7 @@
 - [**Weekend Detection**](https://github.com/gzeinnumer/WeekendDetection).
 - [**Weekend Detection V2**](https://github.com/gzeinnumer/NewMaterialDateRangePickerOnDialog).
 - [**Yoyo Animation Simple**](https://github.com/gzeinnumer/YoyoAnimationSimple).
+- [**print_binary_square**](https://github.com/gzeinnumer/print_binary_square).
 
 #
 ### **My Library List**
@@ -395,8 +396,12 @@
 - [**flutter_trust_location**](https://github.com/gzeinnumer/trust_location)
 - [**flutter_fcm_v3**](https://github.com/gzeinnumer/flutter_fcm_v3)
 - [**flutter_alert_dialog_callback**](https://github.com/gzeinnumer/flutter_alert_dialog_callback)
+- [**flutter_alert_dialog_callback_v2**](https://github.com/gzeinnumer/flutter_alert_dialog_callback_v2)
+- [**flutter_syncfusion_flutter_datepicker**](https://github.com/gzeinnumer/flutter_syncfusion_flutter_datepicker)
 - [**flutter_syncfusion_flutter_datepicker_v2**](https://github.com/gzeinnumer/flutter_syncfusion_flutter_datepicker_v2)
+- [**flutter_syncfusion_flutter_datepicker_v3**](https://github.com/gzeinnumer/flutter_syncfusion_flutter_datepicker_v3)
 - [**zein_pub_dev_first_library**](https://github.com/gzeinnumer/zein_pub_dev_first_library) **Note Only**
+- [**flutter_carousel_slider_v2**](https://github.com/gzeinnumer/flutter_carousel_slider_v2)
 
 #
 ### SwiftUI
@@ -415,3 +420,22 @@
 #
 ### FREE API
 - [github_repos](https://github.com/gzeinnumer/github_repos)
+
+#
+### Example
+<details>
+    <summary>Click me</summary>
+
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
