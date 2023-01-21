@@ -393,7 +393,7 @@
 - [**flutter_time_periodic**](https://github.com/gzeinnumer/flutter_time_periodic)
 - [**flutter_galery_camera_photo**](https://github.com/gzeinnumer/flutter_galery)
 - [**flutter_geolocator**](https://github.com/gzeinnumer/flutter_geolocator)
-- [**flutter_trust_location**](https://github.com/gzeinnumer/trust_location)
+- [**flutter_trust_location**](https://github.com/gzeinnumer/fluttter_trust_location)
 - [**flutter_fcm_v3**](https://github.com/gzeinnumer/flutter_fcm_v3)
 - [**flutter_alert_dialog_callback**](https://github.com/gzeinnumer/flutter_alert_dialog_callback)
 - [**flutter_alert_dialog_callback_v2**](https://github.com/gzeinnumer/flutter_alert_dialog_callback_v2)
@@ -402,6 +402,8 @@
 - [**flutter_syncfusion_flutter_datepicker_v3**](https://github.com/gzeinnumer/flutter_syncfusion_flutter_datepicker_v3)
 - [**zein_pub_dev_first_library**](https://github.com/gzeinnumer/zein_pub_dev_first_library) **Note Only**
 - [**flutter_carousel_slider_v2**](https://github.com/gzeinnumer/flutter_carousel_slider_v2)
+- [**flutter_navigator_reload**](https://github.com/gzeinnumer/flutter_navigator_reload)
+- [**flutter_fundamental_tabbar3**](https://github.com/gzeinnumer/flutter_fundamental_tabbar3)
 
 #
 ### SwiftUI
@@ -416,6 +418,7 @@
 #
 ### Database
 - [postgree_setup](https://github.com/gzeinnumer/postgree_setup)
+- [mysqltutorial](https://www.mysqltutorial.org/)
 
 #
 ### FREE API
@@ -424,7 +427,7 @@
 #
 ### Example
 <details>
-    <summary style="background: #000000">Click me</summary>
+    <summary>Click me</summary>
 
   ### Heading
   1. Foo
