@@ -279,6 +279,20 @@
 - [**Laravel TimeZone**](https://gist.github.com/ahmadshobirin/5e761c055b4bae2b13262ce9d58be2cb)
 - [**Paravel Paging(Recomended)**](https://github.com/gzeinnumer/laravel_paging)
 - [**html_camera**](https://github.com/gzeinnumer/html_camera)
+- [**laravel_paging**](https://github.com/gzeinnumer/laravel_paging)
+- [**github_repos**](https://github.com/gzeinnumer/github_repos)
+- [**laravel_foreignkey_example**](https://github.com/gzeinnumer/laravel_foreignkey_example)
+- [**ajax_upload**](https://github.com/gzeinnumer/ajax_upload)
+- [**laravel_captcha**](https://github.com/gzeinnumer/laravel_captcha)
+- [**drag_drop_trello**](https://github.com/gzeinnumer/drag_drop_trello)
+- [**kards**](https://github.com/gzeinnumer/kards)
+- [**laravel-whatsapp**](https://github.com/gzeinnumer/laravel-whatsapp)
+- [**laravel_simple_otp**](https://github.com/gzeinnumer/laravel_simple_otp)
+- [**web_captcha**](https://github.com/gzeinnumer/web_captcha)
+- [**Json Web**](https://github.com/gzeinnumer/test_dandi)
+- [**tensorflow**](https://github.com/gzeinnumer/tensorflow)
+- [**npm_arguments**](https://github.com/gzeinnumer/npm_arguments)
+- [**npm_arguments_v2**](https://github.com/gzeinnumer/npm_arguments_v2)
 
 #
 
@@ -406,6 +420,7 @@
 - [**flutter_carousel_slider_v2**](https://github.com/gzeinnumer/flutter_carousel_slider_v2)
 - [**flutter_navigator_reload**](https://github.com/gzeinnumer/flutter_navigator_reload)
 - [**flutter_fundamental_tabbar3**](https://github.com/gzeinnumer/flutter_fundamental_tabbar3)
+- [**flutter_demo_upload**](https://github.com/gzeinnumer/flutter_demo_upload)
 
 #
 ### SwiftUI
