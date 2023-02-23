@@ -26,6 +26,28 @@
 [**My Code Generator V2**](https://github.com/gzeinnumer/my_code_generator_v2).
 
 #
+### **My Library List**
+
+| Name                                                                                            | Description                                                    | Name                                                                                                 | Description                                                      |
+|:------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|
+| [**BaseUtils**](https://github.com/gzeinnumer/BaseUtils)                                        | Common `Utils` for development Android                         | [**SimpleMaterialStyle**](https://github.com/gzeinnumer/SimpleMaterialStyle)                         | Reduce `boilerplate code` in `view.xml` file                     |
+| [**EasyExternalDirectoryAndroid**](https://github.com/gzeinnumer/EasyExternalDirectoryAndroid)  | Simple way to `mkdir` and make file for Android                | [**LogErrorAndroid**](https://github.com/gzeinnumer/LogErrorAndroid)                                 | Make file if `Force Close` happen, you can trace error from user |
+| [**DialogAndroid**](https://github.com/gzeinnumer/DialogAndroid)                                | Simple way to use `DialogFragment` as `dialog` information     | [**SearchViewDialog**](https://github.com/gzeinnumer/SearchViewDialog)                               | Dialog Search `Single` or `Multi` item Selection                 |
+| [**EditTextCurrency**](https://github.com/gzeinnumer/EditTextCurrency)                          | Simple way to convert `1000000` to `1,000,000` in `EditText`.  | [**DynamicCheckBox**](https://github.com/gzeinnumer/DynamicCheckBox)                                 | Simple way to use `Dynamic CheckBox`                             |
+| [**DynamicRadioButton**](https://github.com/gzeinnumer/DynamicRadioButton)                      | Simple way to use `Dynamic RadioButton`                        | [**EasyDialogFragment**](https://github.com/gzeinnumer/EasyDialogFragment)                           | Simple way to use custom `Dialog`                                |
+| [**EasyViewPager**](https://github.com/gzeinnumer/EasyViewPager)                                | Simple way to use `ViewPager Tabs` or `ViewPager Dots`         | [**AndroidDropdown**](https://github.com/gzeinnumer/AndroidDropdown)                                 | Simple way to use `AutoCompleteTextView`                         |
+| [**EasySQLiteCRUD**](https://github.com/gzeinnumer/EasySQLiteCRUD)                              | Simple way to CRUD `SQLite`                                    | [**AndroidFormValidation**](https://github.com/gzeinnumer/AndroidFormValidation)                     | Simple way to Validate `Form`                                    |
+| [**SimpleTextWatcher**](https://github.com/gzeinnumer/SimpleTextWatcher)                        | Remove Useless Function `TextWatcher`                          | [**TextViewCurrency**](https://github.com/gzeinnumer/TextViewCurrency)                               | Simple way to convert `1000000` to `1,000,000` in `EditText`.    |
+| [**SQLiteBuilder**](https://github.com/gzeinnumer/SQLiteBuilder)                                | Simple `SQLite` Instance                                       | [**RecyclerViewAdapterBuilder**](https://github.com/gzeinnumer/RecyclerViewAdapterBuilder)           | Simple adapter `RecyclerView`                                    |
+| [**NFCReader**](https://github.com/gzeinnumer/NFCReader)                                        | Simple `NFC` Reader                                            | [**KeepUIState**](https://github.com/gzeinnumer/KeepUIState)                                         | Simple `SavedInstanceState` with `StateUI`                       |
+| [**DialogPreviewImage**](https://github.com/gzeinnumer/DialogPreviewImage)                      | Dialog Preview Image With Zoom                                 | [**ValidatorValue**](https://github.com/gzeinnumer/ValidatorValue)                                   | Simple validate without `IF`.                                    |
+| [**EasySpannableText**](https://github.com/gzeinnumer/EasySpannableText)                        | Easy SpannableString Builder                                   | [**CheckBeforeIntent**](https://github.com/gzeinnumer/CheckBeforeIntent)                             | Check Form Before Leave Activity                                 |
+| [**ControlForm**](https://github.com/gzeinnumer/ControlForm)                                    | Easy Clear Form                                                | [**ShareErrorReportTo**](https://github.com/gzeinnumer/ShareErrorReportTo)                           | Share Error to WA                                                |
+| [**EasyOptionMenu**](https://github.com/gzeinnumer/EasyOptionMenu)                              | Easy Option Menu Multi Level                                   | [**EasyRangeSeekBar**](https://github.com/gzeinnumer/EasyRangeSeekBar)                               | Custom SeekBar                                                   |
+| [**EasyEmptyListState**](https://github.com/gzeinnumer/EasyEmptyListState)                      | Easy Empty State List                                          | [**NumberForm**](https://github.com/gzeinnumer/NumberForm)                                           | Easy NumberFrom , never let it empty.                            |
+| [**EasyButtonDelayed**](https://github.com/gzeinnumer/EasyButtonDelayed)                        | Easy Button Delayed                                            | [**PeekDatabase-V2**](https://github.com/gzeinnumer/PeekDatabase-V2)                                 | Simple way to peek database                                      |
+
+#
 ### **Common Setting**
 
 - [**AdapterOnClick**](https://github.com/gzeinnumer/AdapterOnClickListener) & [**Kotlin**](https://github.com/gzeinnumer/RecyclerView_kt).
@@ -205,28 +227,6 @@
 - [**print_binary_square**](https://github.com/gzeinnumer/print_binary_square).
 
 #
-### **My Library List**
-
-| Name                                                                                            | Description                                                    | Name                                                                                                 | Description                                                      |
-|:------------------------------------------------------------------------------------------------|:---------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|
-| [**BaseUtils**](https://github.com/gzeinnumer/BaseUtils)                                        | Common `Utils` for development Android                         | [**SimpleMaterialStyle**](https://github.com/gzeinnumer/SimpleMaterialStyle)                         | Reduce `boilerplate code` in `view.xml` file                     |
-| [**EasyExternalDirectoryAndroid**](https://github.com/gzeinnumer/EasyExternalDirectoryAndroid)  | Simple way to `mkdir` and make file for Android                | [**LogErrorAndroid**](https://github.com/gzeinnumer/LogErrorAndroid)                                 | Make file if `Force Close` happen, you can trace error from user |
-| [**DialogAndroid**](https://github.com/gzeinnumer/DialogAndroid)                                | Simple way to use `DialogFragment` as `dialog` information     | [**SearchViewDialog**](https://github.com/gzeinnumer/SearchViewDialog)                               | Dialog Search `Single` or `Multi` item Selection                 |
-| [**EditTextCurrency**](https://github.com/gzeinnumer/EditTextCurrency)                          | Simple way to convert `1000000` to `1,000,000` in `EditText`.  | [**DynamicCheckBox**](https://github.com/gzeinnumer/DynamicCheckBox)                                 | Simple way to use `Dynamic CheckBox`                             |
-| [**DynamicRadioButton**](https://github.com/gzeinnumer/DynamicRadioButton)                      | Simple way to use `Dynamic RadioButton`                        | [**EasyDialogFragment**](https://github.com/gzeinnumer/EasyDialogFragment)                           | Simple way to use custom `Dialog`                                |
-| [**EasyViewPager**](https://github.com/gzeinnumer/EasyViewPager)                                | Simple way to use `ViewPager Tabs` or `ViewPager Dots`         | [**AndroidDropdown**](https://github.com/gzeinnumer/AndroidDropdown)                                 | Simple way to use `AutoCompleteTextView`                         |
-| [**EasySQLiteCRUD**](https://github.com/gzeinnumer/EasySQLiteCRUD)                              | Simple way to CRUD `SQLite`                                    | [**AndroidFormValidation**](https://github.com/gzeinnumer/AndroidFormValidation)                     | Simple way to Validate `Form`                                    |
-| [**SimpleTextWatcher**](https://github.com/gzeinnumer/SimpleTextWatcher)                        | Remove Useless Function `TextWatcher`                          | [**TextViewCurrency**](https://github.com/gzeinnumer/TextViewCurrency)                               | Simple way to convert `1000000` to `1,000,000` in `EditText`.    |
-| [**SQLiteBuilder**](https://github.com/gzeinnumer/SQLiteBuilder)                                | Simple `SQLite` Instance                                       | [**RecyclerViewAdapterBuilder**](https://github.com/gzeinnumer/RecyclerViewAdapterBuilder)           | Simple adapter `RecyclerView`                                    |
-| [**NFCReader**](https://github.com/gzeinnumer/NFCReader)                                        | Simple `NFC` Reader                                            | [**KeepUIState**](https://github.com/gzeinnumer/KeepUIState)                                         | Simple `SavedInstanceState` with `StateUI`                       |
-| [**DialogPreviewImage**](https://github.com/gzeinnumer/DialogPreviewImage)                      | Dialog Preview Image With Zoom                                 | [**ValidatorValue**](https://github.com/gzeinnumer/ValidatorValue)                                   | Simple validate without `IF`.                                    |
-| [**EasySpannableText**](https://github.com/gzeinnumer/EasySpannableText)                        | Easy SpannableString Builder                                   | [**CheckBeforeIntent**](https://github.com/gzeinnumer/CheckBeforeIntent)                             | Check Form Before Leave Activity                                 |
-| [**ControlForm**](https://github.com/gzeinnumer/ControlForm)                                    | Easy Clear Form                                                | [**ShareErrorReportTo**](https://github.com/gzeinnumer/ShareErrorReportTo)                           | Share Error to WA                                                |
-| [**EasyOptionMenu**](https://github.com/gzeinnumer/EasyOptionMenu)                              | Easy Option Menu Multi Level                                   | [**EasyRangeSeekBar**](https://github.com/gzeinnumer/EasyRangeSeekBar)                               | Custom SeekBar                                                   |
-| [**EasyEmptyListState**](https://github.com/gzeinnumer/EasyEmptyListState)                      | Easy Empty State List                                          | [**NumberForm**](https://github.com/gzeinnumer/NumberForm)                                           | Easy NumberFrom , never let it empty.                            |
-| [**EasyButtonDelayed**](https://github.com/gzeinnumer/EasyButtonDelayed)                        | Easy Button Delayed                                            | [**PeekDatabase-V2**](https://github.com/gzeinnumer/PeekDatabase-V2)                                 | Simple way to peek database                                      |
-
-#
 ### Recommendation Other Library
 
 - [**Red Screen Of Death**](https://github.com/gzeinnumer/red-screen-of-death).
@@ -293,6 +293,7 @@
 - [**tensorflow**](https://github.com/gzeinnumer/tensorflow)
 - [**npm_arguments**](https://github.com/gzeinnumer/npm_arguments)
 - [**npm_arguments_v2**](https://github.com/gzeinnumer/npm_arguments_v2)
+- [**laravel_dynamic_select**](https://github.com/gzeinnumer/laravel_dynamic_select)
 
 #
 
