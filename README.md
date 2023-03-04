@@ -129,6 +129,7 @@
 - [**Kapt**](https://github.com/gzeinnumer/KaptExample) Kotlin only.
 - [**Lambda**](https://github.com/gzeinnumer/Lambda).
 - [**Looping**](https://github.com/gzeinnumer/ArrayListExampleKT#looping).
+- [**Magic Hands Flutter**](https://stackoverflow.com/questions/74344058/flutter-android-studio-does-not-show-all-wrap-with-intentions-options/74344090#74344090)
 - [**MultiDex**](https://github.com/gzeinnumer/MultiDexExample).
 - [**Multi Permission**](https://github.com/gzeinnumer/MultiPermition2). Android 9 (SDK >= 28).
 - [**Multi Permission**](https://github.com/gzeinnumer/GetPermissionV2). Error.
@@ -146,6 +147,7 @@
 - [**PDF From XML SingleData**](https://github.com/gzeinnumer/ExternalPDFFromXMLSingleData). [**NoReadMe**]
 - [**Peek Database**](https://github.com/gzeinnumer/PeekDatabase).
 - [**PhotoPicker Camera Galery**](https://github.com/gzeinnumer/PhotoPickerCameraGalery).
+- [**PhotoPicker Camera Galery No RV**](https://github.com/gzeinnumer/PhotoPickerCameraGalery/tree/no-rv).
 - [**Prefix Suffix View**](https://github.com/gzeinnumer/PrefixSuffixView).
 - [**PopupMenu**](https://github.com/gzeinnumer/PopupMenu).
 - RecyclerView [**Single Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-single-type) & [**Single Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-single-type) & [**Multi Type**](https://github.com/gzeinnumer/ViewBindingExample#viewbinding-on-adapterrecyclerview-multi-type) & [**Multi Type Kotlin**](https://github.com/gzeinnumer/ViewBindingExampleKT#viewbinding-on-adapterrecyclerview-multi-type).
@@ -259,6 +261,7 @@
 - [**Database Online**](https://github.com/gzeinnumer/db_onlline)
 - [**Laravel Login Register**](https://github.com/gzeinnumer/laravel_login_register_v2)
 - [**Laravel Login Register(Recomended)**](https://github.com/gzeinnumer/laravel_login_register_v3)
+- [**Laravel Login Register(Recomended V4)**](https://github.com/gzeinnumer/laravel_login_register_v4)
 - [**Laravel Easy CRUD 1 Page**](https://github.com/gzeinnumer/laravel_easy_crud_1_page)
 - [**Laravel Easy CRUD Modal Dashboard**](https://github.com/gzeinnumer/easy_laravel_web_modal)
 - [**Laravel Struktur Master**](https://github.com/gzeinnumer/laravel_template_structur)
@@ -294,6 +297,12 @@
 - [**npm_arguments**](https://github.com/gzeinnumer/npm_arguments)
 - [**npm_arguments_v2**](https://github.com/gzeinnumer/npm_arguments_v2)
 - [**laravel_dynamic_select**](https://github.com/gzeinnumer/laravel_dynamic_select)
+- [**laravel_template_sneat**](https://github.com/gzeinnumer/laravel_template_sneat)
+- [**html_select_multi**](https://github.com/gzeinnumer/html_select_multi)
+- [**html_telegram_bot**](https://github.com/gzeinnumer/html_telegram_bot)
+- [php_json_to_file](https://github.com/gzeinnumer/php_json_to_file)
+- [all_javascript](https://github.com/gzeinnumer/all_javascript)
+- [laravel_welcome_example](https://github.com/gzeinnumer/laravel_welcome_example)
 
 #
 
