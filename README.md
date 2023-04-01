@@ -284,6 +284,7 @@
 - [**Paravel Paging(Recomended)**](https://github.com/gzeinnumer/laravel_paging)
 - [**html_camera**](https://github.com/gzeinnumer/html_camera)
 - [**laravel_paging**](https://github.com/gzeinnumer/laravel_paging)
+- [**laravel_paging_export**](https://github.com/gzeinnumer/laravel_paging/tree/export)
 - [**github_repos**](https://github.com/gzeinnumer/github_repos)
 - [**laravel_foreignkey_example**](https://github.com/gzeinnumer/laravel_foreignkey_example)
 - [**ajax_upload**](https://github.com/gzeinnumer/ajax_upload)
@@ -304,9 +305,16 @@
 - [php_json_to_file](https://github.com/gzeinnumer/php_json_to_file)
 - [all_javascript](https://github.com/gzeinnumer/all_javascript)
 - [laravel_welcome_example](https://github.com/gzeinnumer/laravel_welcome_example)
+- [html_qrcode](https://github.com/gzeinnumer/html_qrcode)
+- [laravel_leaflet](https://github.com/gzeinnumer/laravel_leaflet)
+- [laravel_leaflet_v2](https://github.com/gzeinnumer/laravel_leaflet_v2)
+
 
 #
+### Web Template
+- [laravel_tamplate_landing_pod_talk](https://github.com/gzeinnumer/laravel_tamplate_landing_pod_talk)
 
+#
 ### Mysql
 - [**Mysql Backup Restore**](https://github.com/gzeinnumer/MyReminderWeb#mysqlbackup)
 
