@@ -267,6 +267,7 @@
 - [**Laravel Easy CRUD Modal Dashboard**](https://github.com/gzeinnumer/easy_laravel_web_modal)
 - [**Laravel Struktur Master**](https://github.com/gzeinnumer/laravel_template_structur)
 - [**Laravel Form Photo**](https://github.com/gzeinnumer/laravel_form_photo)
+- [**Laravel Form Photo Multi**](https://github.com/gzeinnumer/laravel_form_photo/tree/multi)
 - [**Laravel EXPORT EXCEL**](https://github.com/gzeinnumer/laravel_export_excel_html)
 - [**JS Add Generating HTML With Button**](https://github.com/gzeinnumer/js_add_generating_html_with_button)
 - [**Web Charts**](https://www.chartjs.org/docs/latest/charts/bar.html)
@@ -308,6 +309,12 @@
 - [html_qrcode](https://github.com/gzeinnumer/html_qrcode)
 - [laravel_leaflet](https://github.com/gzeinnumer/laravel_leaflet)
 - [laravel_leaflet_v2](https://github.com/gzeinnumer/laravel_leaflet_v2)
+- [jquery_get_post](https://github.com/gzeinnumer/jquery_get_post)
+- [search_select](https://github.com/gzeinnumer/search_select)
+- [laravel_tabler](https://github.com/gzeinnumer/laravel_tabler)
+- [js_fundamental](https://github.com/gzeinnumer/js_fundamental)
+- [laravel-create-custom-artisan-command](https://github.com/gzeinnumer/laravel-create-custom-artisan-command)
+- [sharedLock](https://github.com/gzeinnumer/my_code_generator_v3_examples_laravel_api_v2/blob/sharedLock/app/Http/Controllers/API/ExamplesController.php)
 
 
 #
